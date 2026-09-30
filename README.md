@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The goal of this project is to design and implement an end-to-end data flow for a Retrieval-Augmented Generation (RAG) system that can retrieve information from scientific papers and use it to answer research-related questions.
+The goal of this project is to design and implement an end-to-end data flow for a Retrieval-Augmented Generation (RAG) system that can retrieve information from scientific papers and use it to answer research-related questions. When the full text processing system will be ready, an image interpretation will be possible added, if time allows.
 
 The project focuses on building the complete pipeline: collecting scientific papers, extracting and preprocessing their text, splitting documents into chunks, storing them in a vector database, retrieving relevant information, and providing the retrieved context to a local Large Language Model (LLM).
 
@@ -19,7 +19,7 @@ The arXiv API is used to collect paper metadata and download the corresponding P
 - arXiv URL
 - PDF document
 
-Text and images are extracted from the downloaded PDF files for further processing.
+Images are extracted from the downloaded PDF files for further processing.
 
 ## Data Processing and EDA
 
@@ -70,7 +70,7 @@ A larger and more diverse evaluation dataset would provide a more robust assessm
 
 ## Limitations and Future Work
 
-The primary objective of this project was to build a functional end-to-end data flow for a RAG system rather than a traditional classification or regression model.
+The primary objective of this project was to build a functional end-to-end data flow for a RAG system rather than a traditional classification or regression model. 
 
 A more comprehensive evaluation of generated answers using **RAGAS** was explored. However, generating a synthetic RAGAS evaluation dataset requires multiple LLM and embedding operations and proved computationally expensive and time-consuming when using locally hosted models.
 
@@ -100,10 +100,6 @@ Future improvements include:
 
 The complete data analysis, RAG implementation, retrieval evaluation, and visualizations are available in the project Jupyter notebook:
 
-**[Research Paper Assistant Notebook](YOUR_NOTEBOOK_LINK_HERE)**
+**[Research Paper Assistant Notebook](https://github.com/vilyapilya/scientific_article_RAG/blob/main/arxiv_research_assistant_eda.ipynb)**
 
-## Summary
 
-This project demonstrates a complete working RAG pipeline for scientific papers. Research documents are collected and processed automatically, stored in a vector knowledge base, retrieved according to semantic similarity, and supplied as context to a local language model.
-
-The project establishes a functional baseline that can be further improved through more advanced retrieval strategies and comprehensive RAG evaluation.

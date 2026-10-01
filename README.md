@@ -42,7 +42,7 @@ The analysis showed differences in article length and therefore in the number of
 
 The implemented pipeline follows these main steps:
 
-**arXiv → PDF extraction → text preprocessing → chunking → vector database → semantic retrieval → context augmentation → local LLM → generated answer**
+**arXiv → PDF extraction → text preprocessing → chunking → vector database → k-nearest → context augmentation → local LLM → generated answer**
 
 ### Vector Database
 

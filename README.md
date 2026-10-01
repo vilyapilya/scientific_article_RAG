@@ -42,8 +42,9 @@ The analysis showed differences in article length and therefore in the number of
 
 The implemented pipeline follows these main steps:
 
-**arXiv → PDF extraction → text preprocessing → chunking → vector database → k-nearest → context augmentation → local LLM → generated answer**
+**arXiv → PDF extraction → text preprocessing → chunking → vector database → aprox nearest neighbor → context augmentation → local LLM → generated answer**
 
+For this prototype I was using only ANN. algo for searching, and for the small amount data it worked very well. However, I am planning to build a better evaluation workflow and perform a hybrid search for the documtns.
 ### Vector Database
 
 **Weaviate** is used as the knowledge base and vector database.

@@ -3,3 +3,21 @@
 arxiv_papers_1
 eval
 eval.ipynb
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models / ML
+models/
+cache/
+*.bin
+*.safetensors
+
+# downloaded papers
+*.pdf

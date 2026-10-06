@@ -1,0 +1,51 @@
+﻿golden_id,status,reason,keep_for_evaluation
+1,REVISE,"The answer adds the mechanism ""model knows when to stop"", which the context does not explicitly state.",False
+2,REVISE,"There are unsupported details about sampling, resampling, and prompting.",False
+3,PASS,The answer follows directly from the context.,True
+4,REVISE,"Overall good, but the initialization method is described more specifically than in the context.",False
+5,REVISE,"Repair/differentiation/translation are supported, but specific implementations are partly invented.",False
+6,PASS,"The numbers 7.7×, 35%, and ~2× are supported by the context.",True
+7,PASS,The answer matches the context well.,True
+8,REVISE,Mathematical details/equations are added that are not present in the context.,False
+9,PASS,"A simple factual golden, fully supported by the context.",True
+10,REVISE,"The RVA criteria are present, but their detailed interpretation partly goes beyond the context.",False
+11,REVISE,Specific Haitian/French comparisons are added that the context does not provide.,False
+12,REVISE,"The main idea is correct, but the attention/memory explanation is an inference.",False
+13,PASS,The answer is well grounded in the context.,True
+14,REVISE,The answer is substantially more specific than the provided context.,False
+15,PASS,A good factual golden.,True
+16,PASS,"Short, specific, and supported by the context.",True
+17,PASS,The comparison matches the content of the context.,True
+18,REVISE,Some details of the SeLATM mechanism are too specific.,False
+19,PASS,The signals and datasets are clearly verifiable from the context.,True
+20,PASS,The numerical results are suitable for a golden.,True
+21,PASS,A good factual comparison.,True
+22,REVISE,"The question asks for reasons, but some of the reasons are model interpretation.",False
+23,PASS,The LOHA description is well supported by the context.,True
+24,PASS,APG vs passive logging is well supported.,True
+25,REVISE,The explanation for ignoring shading is speculative.,False
+26,REVISE,"The main Intent2Tc idea is correct, but the workflow contains unnecessary details.",False
+27,PASS,ActKV is well grounded and contains supported numerical results.,True
+28,PASS,ECO matches the context well.,True
+29,PASS,H2S matches the context well.,True
+30,PASS,A very good numerical golden.,True
+31,PASS,PoLar is mostly well grounded.,True
+32,PASS,The MCP/SDC comparison is well supported.,True
+33,REVISE,"The main conclusion is correct, but some claimed user benefits are too specific.",False
+34,PASS,DyMD matches the described mechanism.,True
+35,PASS,A good golden with quantitative results.,True
+36,PASS,CG-HAF is well grounded.,True
+37,REVISE,It cannot be confidently concluded that runtime exploitation is the main bottleneck.,False
+38,REVISE,Concept paper: the expected answer presents hypotheses as proven results.,False
+39,PASS,EffectMatch matches the context well.,True
+40,REVISE,"The main UniAR idea is correct, but interpretability is explained too specifically.",False
+41,PASS,An excellent quantitative golden.,True
+42,PASS,Well grounded and contains specific supported results.,True
+43,PASS,Blockchain/attestation/allow-block are supported by the context.,True
+44,PASS,A very good quantitative golden.,True
+45,REVISE,AI literacy/ethics/lifelong learning and some recommendations go beyond the context.,False
+46,REVISE,"Some computational consequences are presented as facts, although the context is more cautious.",False
+47,REVISE,"The question asks for thresholds, but the context does not provide numerical thresholds.",False
+48,REVISE,The expected answer adds details about mask creation/training supervision.,False
+49,PASS,Purin matches the context well.,True
+50,PASS,Acoustic→text KV compression is well grounded.,True

@@ -1,0 +1,51 @@
+﻿golden_id,status,reason,keep_for_evaluation
+1,REVISE,"Ответ добавляет механизм «model knows when to stop», который context явно не утверждает.",False
+2,REVISE,"Есть неподтверждённые детали про sampling, resampling и prompting.",False
+3,PASS,Ответ непосредственно следует из context.,True
+4,REVISE,"В целом хороший, но способ initialization описан конкретнее, чем в context.",False
+5,REVISE,"Repair/differentiation/translation поддерживаются, но конкретные реализации частично додуманы.",False
+6,PASS,"Числа 7.7×, 35% и ~2× поддерживаются context.",True
+7,PASS,Ответ хорошо соответствует context.,True
+8,REVISE,"Добавлены математические детали/equations, которых нет в context.",False
+9,PASS,"Простой factual golden, полностью поддерживаемый context.",True
+10,REVISE,"Критерии RVA есть, но их подробная интерпретация частично выходит за context.",False
+11,REVISE,"Добавлены конкретные сравнения Haitian/French, которых context не даёт.",False
+12,REVISE,"Основная идея верна, но объяснение attention/memory является inference.",False
+13,PASS,Ответ хорошо grounded в context.,True
+14,REVISE,Ответ существенно конкретнее предоставленного context.,False
+15,PASS,Хороший factual golden.,True
+16,PASS,"Короткий, конкретный и поддерживаемый context.",True
+17,PASS,Сравнение соответствует содержанию context.,True
+18,REVISE,Некоторые детали механизма SeLATM слишком конкретные.,False
+19,PASS,Сигналы и datasets хорошо проверяемы по context.,True
+20,PASS,Численные результаты подходят для golden.,True
+21,PASS,Хороший factual comparison.,True
+22,REVISE,"Вопрос просит причины, а часть причин является интерпретацией модели.",False
+23,PASS,Описание LOHA хорошо поддерживается context.,True
+24,PASS,APG vs passive logging хорошо поддерживается.,True
+25,REVISE,Объяснение причины игнорирования shading спекулятивное.,False
+26,REVISE,"Основная идея Intent2Tc верна, но workflow содержит лишние детали.",False
+27,PASS,ActKV хорошо grounded и содержит поддерживаемые численные результаты.,True
+28,PASS,ECO хорошо соответствует context.,True
+29,PASS,H2S хорошо соответствует context.,True
+30,PASS,Очень хороший числовой golden.,True
+31,PASS,PoLar в основном хорошо grounded.,True
+32,PASS,Сравнение MCP/SDC хорошо поддерживается.,True
+33,REVISE,"Основной вывод верен, но часть claimed user benefits слишком конкретная.",False
+34,PASS,DyMD соответствует описанному механизму.,True
+35,PASS,Хороший golden с количественными результатами.,True
+36,PASS,CG-HAF хорошо grounded.,True
+37,REVISE,"Нельзя уверенно заключить, что runtime exploitation — главный bottleneck.",False
+38,REVISE,Concept paper: expected answer представляет гипотезы как доказанные результаты.,False
+39,PASS,EffectMatch хорошо соответствует context.,True
+40,REVISE,"Основная идея UniAR верна, но interpretability объяснена слишком конкретно.",False
+41,PASS,Отличный quantitative golden.,True
+42,PASS,Хорошо grounded и содержит конкретные поддерживаемые результаты.,True
+43,PASS,Blockchain/attestation/allow-block поддерживаются context.,True
+44,PASS,Очень хороший quantitative golden.,True
+45,REVISE,AI literacy/ethics/lifelong learning и часть рекомендаций выходят за context.,False
+46,REVISE,"Некоторые computational consequences представлены как факт, хотя context осторожнее.",False
+47,REVISE,"Вопрос просит thresholds, но context не даёт численных thresholds.",False
+48,REVISE,Expected answer добавляет детали создания masks/training supervision.,False
+49,PASS,Purin хорошо соответствует context.,True
+50,PASS,Acoustic→text KV compression хорошо grounded.,True

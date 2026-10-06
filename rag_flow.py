@@ -3,6 +3,7 @@ import re
 from dotenv import load_dotenv
 from ArxivSearch import ArxivSearch
 from sentence_transformers import CrossEncoder
+from prompts import PROMPTS
 load_dotenv()
 
 
@@ -13,9 +14,8 @@ logging.basicConfig(
 
 logger = logging.getLogger(__name__)
 
-cross_encoder = CrossEncoder(
-    "cross-encoder/ms-marco-MiniLM-L6-v2"
-)
+cross_encoder = CrossEncoder("cross-encoder/ms-marco-MiniLM-L6-v2")
+
 
 
 class RAGFlow:
@@ -41,12 +41,8 @@ class RAGFlow:
 
 
 
-    def _generate_arxiv_query(self, prompt):
-        system_prompt = (
-            "Generate a search query for arXiv extracting the key words "
-            f"out of this question: {prompt}. "
-            "Return the search query only."
-        )
+    def _generate_arxiv_query(self, system_prompt, prompt):
+
         messages = [
             {"role": "user", "content": system_prompt}
         ]
@@ -74,16 +70,32 @@ class RAGFlow:
         logger.info(
             f"user prompt: {prompt}, web query: {query}"
         )
-        print(query)
+
         return query
 
 
     def _retrieve_top_k_titles(self, prompt):
-        query = self._generate_arxiv_query(prompt).strip().strip('"').strip("'")
+        system_prompt = PROMPTS["arxiv_query"].format(
+            prompt=prompt
+        )
+        query = self._generate_arxiv_query(system_prompt, prompt).strip().strip('"').strip("'")
         self.titles_to_urls = self.arxiv.search_titles(
             query,
             limit=self.titles_limit
         )
+        if self.titles_to_urls.get("status") == "timeout":
+            system_prompt = PROMPTS["arxiv_query_retry"].format(
+                prompt=prompt,
+                query=query
+            )
+            query = (
+                self._generate_arxiv_query(system_prompt, prompt).strip().strip('"').strip("'"))
+            logger.info(f"Retry query: {query}")
+            self.titles_to_urls = self.arxiv.search_titles(
+                query,
+                limit=self.titles_limit
+            )
+
         titles = list(self.titles_to_urls.keys())
         ranks = cross_encoder.rank(
             prompt,
@@ -218,11 +230,43 @@ class RAGFlow:
         return answer
 
 
+    # def run(self, prompt):
+    #     articles = self._retrieve_articles(prompt)
+    #     chunks = self._get_chunks_fixed_size_with_overlap(
+    #         articles
+    #     )
+    #     top_chunks = self._select_top_k_chunks(chunks, prompt)
+    #     answer = self._generate_answer(top_chunks, prompt)
+    #     return answer
+
     def run(self, prompt):
-        articles = self._retrieve_articles(prompt)
-        chunks = self._get_chunks_fixed_size_with_overlap(
-            articles
-        )
-        top_chunks = self._select_top_k_chunks(chunks, prompt)
-        answer = self._generate_answer(top_chunks, prompt)
-        return answer
+        try:
+            articles = self._retrieve_articles(prompt)
+            if not articles:
+                return {
+                    "answer": None,
+                    "status": "failed",
+                    "error": "No articles found on arXiv"
+                }
+            chunks = self._get_chunks_fixed_size_with_overlap(articles)
+            if not chunks:
+                return {
+                    "answer": None,
+                    "status": "failed",
+                    "error": "No chunks generated"
+                }
+            top_chunks = self._select_top_k_chunks(chunks, prompt)
+            answer = self._generate_answer(top_chunks, prompt)
+            return {
+                "answer": answer,
+                "status": "success",
+                "error": None
+            }
+
+        except Exception as e:
+            logger.error(f"RAG failed: {e}")
+            return {
+                "answer": None,
+                "status": "failed",
+                "error": str(e)
+            }

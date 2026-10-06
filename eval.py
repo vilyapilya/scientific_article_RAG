@@ -13,16 +13,23 @@ import pandas as pd
 from IPython.display import display, Markdown
 from golden_generator import GoldenGenerator
 from deepeval import evaluate
+from deepeval.models import OllamaModel
 
+judge = OllamaModel(
+    model="gpt-oss:20b",
+    base_url="http://localhost:11434",
+    temperature=0
+)
 class Eval:
-    def __init__(self, judge):
+    def __init__(self, judge = judge):
         self.model = judge
 
     def answer_relevancy(self, df, threshold):
         metric = AnswerRelevancyMetric(
             model=self.model,
             async_mode=False,
-            threshold=threshold
+            threshold=threshold,
+            verbose_mode=False,
         )
         test_cases = []
         results = []

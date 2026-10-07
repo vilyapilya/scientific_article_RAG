@@ -4,7 +4,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 from urllib.parse import quote_plus
-import LLM_model
+
 
 def search_arxiv(query, limit=20):
 

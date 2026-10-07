@@ -34,5 +34,17 @@ PROMPTS = {
        - Focus on the main research topic.
        - Do not use quotation marks.
        - Return only the search query.
-   """
+   """,
+    "answer_prompt": """
+        Answer the question using only the information provided in the context. Include the url of the content that 
+        you have used for generating the answer.
+        If the context does not contain enough information to answer the question, say:
+        "I don't have enough information in the provided context."
+        Do not use information that is not supported by the context.
+        Context:
+        {context}  
+        Question:
+        {prompt}
+        Answer:
+    """
 }

@@ -8,8 +8,10 @@ import time
 from urllib.parse import quote_plus
 from selenium.common.exceptions import TimeoutException
 import logging
+from selenium.webdriver.chrome.options import Options
 
-
+options = Options()
+options.add_argument("--headless=new")
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s | %(levelname)s | %(message)s"
@@ -18,7 +20,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 class ArxivSearch:
     def search_titles(self, query, limit=20):
-        driver = webdriver.Chrome()
+        driver = webdriver.Chrome(options=options)
 
         try:
             search_url = (

@@ -1,19 +1,8 @@
-import csv
-import json
-import numpy as np
-from deepeval.models import OllamaModel
 from deepeval.metrics import AnswerRelevancyMetric
-from deepeval.test_case import LLMTestCase
-import json
-import re
-from deepeval.models import OllamaModel
-from deepeval.synthesizer import Synthesizer
 from pygments.lexers.mosel import FUNCTIONS
-import pandas as pd
-from IPython.display import display, Markdown
-from golden_generator import GoldenGenerator
-from deepeval import evaluate
 from deepeval.models import OllamaModel
+from deepeval.metrics import FaithfulnessMetric
+from deepeval.test_case import LLMTestCase
 
 judge = OllamaModel(
     model="gpt-oss:20b",
@@ -46,5 +35,24 @@ class Eval:
             results.append(res)
         return results
 
+    def faithfullness(self, df, chunks, threshold):
+        metric = AnswerRelevancyMetric()
+        faithfulness = FaithfulnessMetric(
+            threshold=0.5,
+            model=judge,
+            include_reason=True,
+            async_mode=False
+        )
+
+        test_case = LLMTestCase(
+            input=df["question"],
+            actual_output=["answer"],
+            retrieval_context=chunks
+        )
+
+        faithfulness.measure(test_case)
+
+        print("Score:", faithfulness.score)
+        print("Reason:", faithfulness.reason)
 
 

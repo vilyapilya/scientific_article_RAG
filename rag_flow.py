@@ -183,20 +183,7 @@ class RAGFlow:
                 URL: {item["article_url"]}
                 ---
                 """
-
-        prompt = f"""
-                Answer the question using only the information provided in the context. Include the url of the content that 
-                you have used for generating the answer.
-                If the context does not contain enough information to answer the question, say:
-                "I don't have enough information in the provided context."
-                Do not use information that is not supported by the context.
-                Context:
-                {context}  
-                Question:
-                {prompt}
-                Answer:
-                """
-
+        prompt = PROMPTS["answer_prompt"].format(context = context, prompt=prompt)
         messages = [
             {"role": "user", "content": prompt}
         ]
@@ -223,10 +210,11 @@ class RAGFlow:
         output_ids = generated_ids[0][
             len(model_inputs.input_ids[0]):
         ].tolist()
-        answer = self.tokenizer.decode(
-            output_ids,
-            skip_special_tokens=True
-        )
+        answer = {
+            "text": self.tokenizer.decode(output_ids,skip_special_tokens=True),
+            "token_usage": model_inputs['input_ids'].shape[1]
+        }
+
         return answer
 
 
@@ -258,9 +246,11 @@ class RAGFlow:
             top_chunks = self._select_top_k_chunks(chunks, prompt)
             answer = self._generate_answer(top_chunks, prompt)
             return {
-                "answer": answer,
+                "answer": answer["text"],
                 "status": "success",
-                "error": None
+                "error": None,
+                "token_usage": answer["token_usage"],
+                "chunks": top_chunks
             }
 
         except Exception as e:

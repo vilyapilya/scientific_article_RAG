@@ -105,7 +105,7 @@ class ArxivSearch:
     def get_article_text(self, pdf_url):
         response = requests.get(
             pdf_url,
-            timeout=30,
+            timeout=(10, 120),
             headers={"User-Agent": "Mozilla/5.0"}
         )
         response.raise_for_status()

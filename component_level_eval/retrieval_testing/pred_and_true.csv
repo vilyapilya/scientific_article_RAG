@@ -1,0 +1,1411 @@
+,question,url,chunk_index,rank,true_relevance
+0,What are the main limitations of economic growth models?,https://arxiv.org/pdf/2609.05894,3,1,0
+1,What are the main limitations of economic growth models?,https://arxiv.org/pdf/2609.31236,46,2,0
+2,What are the main limitations of economic growth models?,https://arxiv.org/pdf/2609.05894,8,3,0
+3,What are the main limitations of economic growth models?,https://arxiv.org/pdf/2609.34966,2,4,0
+4,What are the main limitations of economic growth models?,https://arxiv.org/pdf/2609.05894,4,5,0
+5,What are the main limitations of economic growth models?,https://arxiv.org/pdf/2609.05894,12,6,0
+6,What are the main limitations of economic growth models?,https://arxiv.org/pdf/2609.05894,1,7,0
+7,What are the main limitations of economic growth models?,https://arxiv.org/pdf/2609.05894,2,8,0
+8,What are the main limitations of economic growth models?,https://arxiv.org/pdf/2609.05894,10,9,0
+9,What are the main limitations of economic growth models?,https://arxiv.org/pdf/2609.05894,9,10,0
+10,What are the main limitations of operating system scheduling?,https://arxiv.org/pdf/2610.05963,2,1,0
+11,What are the main limitations of operating system scheduling?,https://arxiv.org/pdf/2610.05963,12,2,0
+12,What are the main limitations of operating system scheduling?,https://arxiv.org/pdf/2610.00605,1,3,0
+13,What are the main limitations of operating system scheduling?,https://arxiv.org/pdf/2610.05963,10,4,0
+14,What are the main limitations of operating system scheduling?,https://arxiv.org/pdf/2610.09243,264,5,0
+15,What are the main limitations of operating system scheduling?,https://arxiv.org/pdf/2610.09243,138,6,0
+16,What are the main limitations of operating system scheduling?,https://arxiv.org/pdf/2610.05963,5,7,0
+17,What are the main limitations of operating system scheduling?,https://arxiv.org/pdf/2610.00605,6,8,0
+18,What are the main limitations of operating system scheduling?,https://arxiv.org/pdf/2610.09243,258,9,0
+19,What are the main limitations of operating system scheduling?,https://arxiv.org/pdf/2610.00605,5,10,0
+20,How can researchers evaluate optical interference?,https://arxiv.org/pdf/2610.11624,1,1,0
+21,How can researchers evaluate optical interference?,https://arxiv.org/pdf/2610.00750,39,2,0
+22,How can researchers evaluate optical interference?,https://arxiv.org/pdf/2610.01200,12,3,0
+23,How can researchers evaluate optical interference?,https://arxiv.org/pdf/2610.01200,22,4,0
+24,How can researchers evaluate optical interference?,https://arxiv.org/pdf/2610.00750,41,5,0
+25,How can researchers evaluate optical interference?,https://arxiv.org/pdf/2610.00750,42,6,0
+26,How can researchers evaluate optical interference?,https://arxiv.org/pdf/2610.00750,23,7,0
+27,How can researchers evaluate optical interference?,https://arxiv.org/pdf/2610.01200,19,8,0
+28,How can researchers evaluate optical interference?,https://arxiv.org/pdf/2610.00750,8,9,0
+29,How can researchers evaluate optical interference?,https://arxiv.org/pdf/2610.00750,49,10,0
+30,How can researchers evaluate SQL query optimization?,https://arxiv.org/pdf/2610.06857,63,1,0
+31,How can researchers evaluate SQL query optimization?,https://arxiv.org/pdf/2610.06857,56,2,0
+32,How can researchers evaluate SQL query optimization?,https://arxiv.org/pdf/2610.02607,80,3,0
+33,How can researchers evaluate SQL query optimization?,https://arxiv.org/pdf/2610.06857,9,4,0
+34,How can researchers evaluate SQL query optimization?,https://arxiv.org/pdf/2610.02607,2,5,0
+35,How can researchers evaluate SQL query optimization?,https://arxiv.org/pdf/2609.16218,1,6,0
+36,How can researchers evaluate SQL query optimization?,https://arxiv.org/pdf/2610.02607,79,7,0
+37,How can researchers evaluate SQL query optimization?,https://arxiv.org/pdf/2610.02607,29,8,0
+38,How can researchers evaluate SQL query optimization?,https://arxiv.org/pdf/2610.06857,55,9,0
+39,How can researchers evaluate SQL query optimization?,https://arxiv.org/pdf/2610.06857,7,10,0
+40,What is prompt engineering?,https://arxiv.org/pdf/2609.36289,4,1,1
+41,What is prompt engineering?,https://arxiv.org/pdf/2609.36289,3,2,1
+42,What is prompt engineering?,https://arxiv.org/pdf/2609.36289,1,3,0
+43,What is prompt engineering?,https://arxiv.org/pdf/2609.36289,2,4,1
+44,What is prompt engineering?,https://arxiv.org/pdf/2609.36289,48,5,1
+45,What is prompt engineering?,https://arxiv.org/pdf/2609.36289,40,6,0
+46,What is prompt engineering?,https://arxiv.org/pdf/2609.36289,44,7,0
+47,What is prompt engineering?,https://arxiv.org/pdf/2610.07573,33,8,0
+48,What is prompt engineering?,https://arxiv.org/pdf/2610.07573,32,9,0
+49,What is prompt engineering?,https://arxiv.org/pdf/2610.07573,23,10,0
+50,What are the main limitations of gradient descent optimization?,https://arxiv.org/pdf/2610.06070,44,1,1
+51,What are the main limitations of gradient descent optimization?,https://arxiv.org/pdf/2610.06070,3,2,1
+52,What are the main limitations of gradient descent optimization?,https://arxiv.org/pdf/2610.11515,12,3,0
+53,What are the main limitations of gradient descent optimization?,https://arxiv.org/pdf/2610.06115,43,4,0
+54,What are the main limitations of gradient descent optimization?,https://arxiv.org/pdf/2610.06070,1,5,1
+55,What are the main limitations of gradient descent optimization?,https://arxiv.org/pdf/2610.10242,4,6,0
+56,What are the main limitations of gradient descent optimization?,https://arxiv.org/pdf/2610.11515,38,7,1
+57,What are the main limitations of gradient descent optimization?,https://arxiv.org/pdf/2610.06070,4,8,1
+58,What are the main limitations of gradient descent optimization?,https://arxiv.org/pdf/2610.06070,12,9,1
+59,What are the main limitations of gradient descent optimization?,https://arxiv.org/pdf/2610.06070,10,10,0
+60,How does database indexing work?,https://arxiv.org/pdf/2609.02143,4,1,0
+61,How does database indexing work?,https://arxiv.org/pdf/2609.02143,13,2,0
+62,How does database indexing work?,https://arxiv.org/pdf/2608.27758,8,3,0
+63,How does database indexing work?,https://arxiv.org/pdf/2609.02143,23,4,0
+64,How does database indexing work?,https://arxiv.org/pdf/2609.02143,5,5,0
+65,How does database indexing work?,https://arxiv.org/pdf/2608.27758,6,6,0
+66,How does database indexing work?,https://arxiv.org/pdf/2609.02143,26,7,0
+67,How does database indexing work?,https://arxiv.org/pdf/2609.02143,1,8,0
+68,How does database indexing work?,https://arxiv.org/pdf/2609.02143,84,9,0
+69,How does database indexing work?,https://arxiv.org/pdf/2610.03170,24,10,0
+70,What are the main limitations of option pricing models?,https://arxiv.org/pdf/2506.05565,1,1,1
+71,What are the main limitations of option pricing models?,https://arxiv.org/pdf/2506.05565,2,2,1
+72,What are the main limitations of option pricing models?,https://arxiv.org/pdf/2603.27501,26,3,0
+73,What are the main limitations of option pricing models?,https://arxiv.org/pdf/2603.27501,88,4,1
+74,What are the main limitations of option pricing models?,https://arxiv.org/pdf/2310.16703,10,5,0
+75,What are the main limitations of option pricing models?,https://arxiv.org/pdf/2603.27501,4,6,0
+76,What are the main limitations of option pricing models?,https://arxiv.org/pdf/2310.16703,8,7,0
+77,What are the main limitations of option pricing models?,https://arxiv.org/pdf/2506.05565,5,8,1
+78,What are the main limitations of option pricing models?,https://arxiv.org/pdf/2506.05565,9,9,1
+79,What are the main limitations of option pricing models?,https://arxiv.org/pdf/2506.05565,8,10,1
+80,How can researchers evaluate operating system scheduling?,https://arxiv.org/pdf/2610.07742,45,1,0
+81,How can researchers evaluate operating system scheduling?,https://arxiv.org/pdf/2610.07742,9,2,0
+82,How can researchers evaluate operating system scheduling?,https://arxiv.org/pdf/2610.11398,7,3,0
+83,How can researchers evaluate operating system scheduling?,https://arxiv.org/pdf/2610.11398,17,4,0
+84,How can researchers evaluate operating system scheduling?,https://arxiv.org/pdf/2610.07742,77,5,0
+85,How can researchers evaluate operating system scheduling?,https://arxiv.org/pdf/2610.07742,65,6,0
+86,How can researchers evaluate operating system scheduling?,https://arxiv.org/pdf/2610.07593,67,7,0
+87,How can researchers evaluate operating system scheduling?,https://arxiv.org/pdf/2610.07742,16,8,0
+88,How can researchers evaluate operating system scheduling?,https://arxiv.org/pdf/2610.11398,50,9,0
+89,How can researchers evaluate operating system scheduling?,https://arxiv.org/pdf/2610.07742,1,10,0
+90,How can I improve the performance of a database query?,https://arxiv.org/pdf/2610.02607,74,1,0
+91,How can I improve the performance of a database query?,https://arxiv.org/pdf/2610.02607,78,2,1
+92,How can I improve the performance of a database query?,https://arxiv.org/pdf/2610.02607,15,3,0
+93,How can I improve the performance of a database query?,https://arxiv.org/pdf/2609.13561,30,4,0
+94,How can I improve the performance of a database query?,https://arxiv.org/pdf/2610.02607,76,5,0
+95,How can I improve the performance of a database query?,https://arxiv.org/pdf/2610.02607,83,6,0
+96,How can I improve the performance of a database query?,https://arxiv.org/pdf/2610.02607,79,7,0
+97,How can I improve the performance of a database query?,https://arxiv.org/pdf/2609.18501,2,8,0
+98,How can I improve the performance of a database query?,https://arxiv.org/pdf/2609.13561,22,9,0
+99,How can I improve the performance of a database query?,https://arxiv.org/pdf/2610.02607,75,10,0
+100,What are the main limitations of transformer attention mechanisms?,https://arxiv.org/pdf/2610.11798,2,1,0
+101,What are the main limitations of transformer attention mechanisms?,https://arxiv.org/pdf/2610.10761,2,2,0
+102,What are the main limitations of transformer attention mechanisms?,https://arxiv.org/pdf/2610.10761,4,3,0
+103,What are the main limitations of transformer attention mechanisms?,https://arxiv.org/pdf/2610.11798,36,4,0
+104,What are the main limitations of transformer attention mechanisms?,https://arxiv.org/pdf/2610.10761,1,5,0
+105,What are the main limitations of transformer attention mechanisms?,https://arxiv.org/pdf/2610.11798,1,6,0
+106,What are the main limitations of transformer attention mechanisms?,https://arxiv.org/pdf/2610.10761,3,7,0
+107,What are the main limitations of transformer attention mechanisms?,https://arxiv.org/pdf/2610.12147,1,8,0
+108,What are the main limitations of transformer attention mechanisms?,https://arxiv.org/pdf/2610.11798,32,9,0
+109,What are the main limitations of transformer attention mechanisms?,https://arxiv.org/pdf/2610.10952,4,10,0
+110,How do I install a Python package in a virtual environment?,https://arxiv.org/pdf/2211.15445,19,1,0
+111,How do I install a Python package in a virtual environment?,https://arxiv.org/pdf/2211.15445,5,2,1
+112,How do I install a Python package in a virtual environment?,https://arxiv.org/pdf/2211.15445,14,3,1
+113,How do I install a Python package in a virtual environment?,https://arxiv.org/pdf/2211.15445,4,4,1
+114,How do I install a Python package in a virtual environment?,https://arxiv.org/pdf/2211.15445,9,5,1
+115,How do I install a Python package in a virtual environment?,https://arxiv.org/pdf/2211.15445,6,6,0
+116,How do I install a Python package in a virtual environment?,https://arxiv.org/pdf/2211.15445,10,7,0
+117,How do I install a Python package in a virtual environment?,https://arxiv.org/pdf/2211.15445,21,8,0
+118,How do I install a Python package in a virtual environment?,https://arxiv.org/pdf/2211.15445,20,9,0
+119,How do I install a Python package in a virtual environment?,https://arxiv.org/pdf/2211.15445,60,10,0
+120,How can researchers evaluate particle acceleration?,https://arxiv.org/pdf/2610.06550,19,1,1
+121,How can researchers evaluate particle acceleration?,https://arxiv.org/pdf/2610.06550,49,2,1
+122,How can researchers evaluate particle acceleration?,https://arxiv.org/pdf/2610.06550,53,3,0
+123,How can researchers evaluate particle acceleration?,https://arxiv.org/pdf/2610.06550,1,4,1
+124,How can researchers evaluate particle acceleration?,https://arxiv.org/pdf/2610.06550,2,5,1
+125,How can researchers evaluate particle acceleration?,https://arxiv.org/pdf/2610.06550,48,6,0
+126,How can researchers evaluate particle acceleration?,https://arxiv.org/pdf/2610.06550,38,7,1
+127,How can researchers evaluate particle acceleration?,https://arxiv.org/pdf/2610.06550,7,8,1
+128,How can researchers evaluate particle acceleration?,https://arxiv.org/pdf/2610.06550,54,9,1
+129,How can researchers evaluate particle acceleration?,https://arxiv.org/pdf/2610.06550,57,10,1
+130,How can researchers evaluate retrieval-augmented generation?,https://arxiv.org/pdf/2610.11183,1,1,1
+131,How can researchers evaluate retrieval-augmented generation?,https://arxiv.org/pdf/2610.11183,34,2,1
+132,How can researchers evaluate retrieval-augmented generation?,https://arxiv.org/pdf/2610.12085,42,3,0
+133,How can researchers evaluate retrieval-augmented generation?,https://arxiv.org/pdf/2610.12085,40,4,0
+134,How can researchers evaluate retrieval-augmented generation?,https://arxiv.org/pdf/2610.11183,2,5,1
+135,How can researchers evaluate retrieval-augmented generation?,https://arxiv.org/pdf/2610.12085,34,6,0
+136,How can researchers evaluate retrieval-augmented generation?,https://arxiv.org/pdf/2610.11183,7,7,0
+137,How can researchers evaluate retrieval-augmented generation?,https://arxiv.org/pdf/2610.12085,8,8,0
+138,How can researchers evaluate retrieval-augmented generation?,https://arxiv.org/pdf/2610.11375,13,9,0
+139,How can researchers evaluate retrieval-augmented generation?,https://arxiv.org/pdf/2610.11375,38,10,0
+140,What are the main limitations of cryptographic hash functions?,https://arxiv.org/pdf/2609.25535,17,1,0
+141,What are the main limitations of cryptographic hash functions?,https://arxiv.org/pdf/2609.28469,2,2,0
+142,What are the main limitations of cryptographic hash functions?,https://arxiv.org/pdf/2609.25535,9,3,0
+143,What are the main limitations of cryptographic hash functions?,https://arxiv.org/pdf/2609.28469,88,4,0
+144,What are the main limitations of cryptographic hash functions?,https://arxiv.org/pdf/2609.13147,28,5,0
+145,What are the main limitations of cryptographic hash functions?,https://arxiv.org/pdf/2607.13722,2,6,0
+146,What are the main limitations of cryptographic hash functions?,https://arxiv.org/pdf/2609.28469,87,7,0
+147,What are the main limitations of cryptographic hash functions?,https://arxiv.org/pdf/2606.24408,2,8,0
+148,What are the main limitations of cryptographic hash functions?,https://arxiv.org/pdf/2609.13147,39,9,0
+149,What are the main limitations of cryptographic hash functions?,https://arxiv.org/pdf/2609.13147,2,10,0
+150,Why does my machine learning model overfit?,https://arxiv.org/pdf/2610.12015,3,1,0
+151,Why does my machine learning model overfit?,https://arxiv.org/pdf/2610.11146,3,2,0
+152,Why does my machine learning model overfit?,https://arxiv.org/pdf/2610.11146,1,3,0
+153,Why does my machine learning model overfit?,https://arxiv.org/pdf/2610.12015,219,4,0
+154,Why does my machine learning model overfit?,https://arxiv.org/pdf/2610.07500,1,5,0
+155,Why does my machine learning model overfit?,https://arxiv.org/pdf/2610.07500,5,6,0
+156,Why does my machine learning model overfit?,https://arxiv.org/pdf/2610.12015,216,7,0
+157,Why does my machine learning model overfit?,https://arxiv.org/pdf/2610.12015,218,8,0
+158,Why does my machine learning model overfit?,https://arxiv.org/pdf/2610.09635,9,9,0
+159,Why does my machine learning model overfit?,https://arxiv.org/pdf/2610.07500,4,10,0
+160,How can researchers evaluate economic growth models?,https://arxiv.org/pdf/2609.06123,3,1,0
+161,How can researchers evaluate economic growth models?,https://arxiv.org/pdf/2609.06123,41,2,0
+162,How can researchers evaluate economic growth models?,https://arxiv.org/pdf/2609.06123,1,3,0
+163,How can researchers evaluate economic growth models?,https://arxiv.org/pdf/2609.06123,11,4,0
+164,How can researchers evaluate economic growth models?,https://arxiv.org/pdf/2609.06123,2,5,0
+165,How can researchers evaluate economic growth models?,https://arxiv.org/pdf/2609.06123,10,6,0
+166,How can researchers evaluate economic growth models?,https://arxiv.org/pdf/2609.06123,43,7,0
+167,How can researchers evaluate economic growth models?,https://arxiv.org/pdf/2609.06123,30,8,0
+168,How can researchers evaluate economic growth models?,https://arxiv.org/pdf/2609.06123,12,9,0
+169,How can researchers evaluate economic growth models?,https://arxiv.org/pdf/2609.06123,5,10,0
+170,What are the main limitations of numerical linear algebra?,https://arxiv.org/pdf/2609.35878,2,1,0
+171,What are the main limitations of numerical linear algebra?,https://arxiv.org/pdf/2609.35878,35,2,0
+172,What are the main limitations of numerical linear algebra?,https://arxiv.org/pdf/2609.35878,61,3,0
+173,What are the main limitations of numerical linear algebra?,https://arxiv.org/pdf/2609.35878,146,4,0
+174,What are the main limitations of numerical linear algebra?,https://arxiv.org/pdf/2609.35878,145,5,0
+175,What are the main limitations of numerical linear algebra?,https://arxiv.org/pdf/2609.33906,15,6,0
+176,What are the main limitations of numerical linear algebra?,https://arxiv.org/pdf/2609.36445,8,7,0
+177,What are the main limitations of numerical linear algebra?,https://arxiv.org/pdf/2609.36594,88,8,0
+178,What are the main limitations of numerical linear algebra?,https://arxiv.org/pdf/2609.35878,124,9,0
+179,What are the main limitations of numerical linear algebra?,https://arxiv.org/pdf/2609.36445,9,10,0
+180,How does computational complexity work?,https://arxiv.org/pdf/2610.11972,130,1,0
+181,How does computational complexity work?,https://arxiv.org/pdf/2610.11972,131,2,0
+182,How does computational complexity work?,https://arxiv.org/pdf/2610.11972,128,3,0
+183,How does computational complexity work?,https://arxiv.org/pdf/2610.11976,13,4,0
+184,How does computational complexity work?,https://arxiv.org/pdf/2610.11972,129,5,0
+185,How does computational complexity work?,https://arxiv.org/pdf/2610.11976,12,6,0
+186,How does computational complexity work?,https://arxiv.org/pdf/2610.11972,132,7,0
+187,How does computational complexity work?,https://arxiv.org/pdf/2610.11972,8,8,0
+188,How does computational complexity work?,https://arxiv.org/pdf/2610.10514,403,9,0
+189,How does computational complexity work?,https://arxiv.org/pdf/2610.11972,165,10,0
+190,What is a primary key in a database?,https://arxiv.org/pdf/2204.10592,39,1,0
+191,What is a primary key in a database?,https://arxiv.org/pdf/2204.10592,79,2,0
+192,What is a primary key in a database?,https://arxiv.org/pdf/2204.10592,60,3,0
+193,What is a primary key in a database?,https://arxiv.org/pdf/2312.08038,20,4,0
+194,What is a primary key in a database?,https://arxiv.org/pdf/2204.10592,48,5,0
+195,What is a primary key in a database?,https://arxiv.org/pdf/2312.08038,37,6,0
+196,What is a primary key in a database?,https://arxiv.org/pdf/2312.08038,11,7,0
+197,What is a primary key in a database?,https://arxiv.org/pdf/2204.10592,196,8,0
+198,What is a primary key in a database?,https://arxiv.org/pdf/2204.10592,81,9,0
+199,What is a primary key in a database?,https://arxiv.org/pdf/2312.08038,138,10,0
+200,How do I fix a SQL JOIN that returns duplicate rows?,https://arxiv.org/pdf/2403.15839,11,1,0
+201,How do I fix a SQL JOIN that returns duplicate rows?,https://arxiv.org/pdf/2609.29573,1,2,0
+202,How do I fix a SQL JOIN that returns duplicate rows?,https://arxiv.org/pdf/2609.29573,10,3,0
+203,How do I fix a SQL JOIN that returns duplicate rows?,https://arxiv.org/pdf/2609.29573,9,4,0
+204,How do I fix a SQL JOIN that returns duplicate rows?,https://arxiv.org/pdf/2609.29573,4,5,0
+205,How do I fix a SQL JOIN that returns duplicate rows?,https://arxiv.org/pdf/2609.29573,17,6,0
+206,How do I fix a SQL JOIN that returns duplicate rows?,https://arxiv.org/pdf/2609.29573,44,7,0
+207,How do I fix a SQL JOIN that returns duplicate rows?,https://arxiv.org/pdf/2403.15839,20,8,0
+208,How do I fix a SQL JOIN that returns duplicate rows?,https://arxiv.org/pdf/2609.29573,16,9,0
+209,How do I fix a SQL JOIN that returns duplicate rows?,https://arxiv.org/pdf/2609.29573,3,10,0
+210,What are the main limitations of control systems stability?,https://arxiv.org/pdf/2610.07930,43,1,0
+211,What are the main limitations of control systems stability?,https://arxiv.org/pdf/2610.11852,17,2,0
+212,What are the main limitations of control systems stability?,https://arxiv.org/pdf/2610.07930,15,3,0
+213,What are the main limitations of control systems stability?,https://arxiv.org/pdf/2610.09988,45,4,0
+214,What are the main limitations of control systems stability?,https://arxiv.org/pdf/2610.07930,22,5,0
+215,What are the main limitations of control systems stability?,https://arxiv.org/pdf/2610.11852,31,6,0
+216,What are the main limitations of control systems stability?,https://arxiv.org/pdf/2610.11852,29,7,0
+217,What are the main limitations of control systems stability?,https://arxiv.org/pdf/2610.11852,25,8,0
+218,What are the main limitations of control systems stability?,https://arxiv.org/pdf/2610.09988,6,9,0
+219,What are the main limitations of control systems stability?,https://arxiv.org/pdf/2610.07930,44,10,0
+220,What is a confidence interval?,https://arxiv.org/pdf/2610.10885,18,1,0
+221,What is a confidence interval?,https://arxiv.org/pdf/2610.10885,4,2,1
+222,What is a confidence interval?,https://arxiv.org/pdf/2610.12215,14,3,1
+223,What is a confidence interval?,https://arxiv.org/pdf/2610.10885,6,4,0
+224,What is a confidence interval?,https://arxiv.org/pdf/2610.10885,32,5,1
+225,What is a confidence interval?,https://arxiv.org/pdf/2610.10885,16,6,0
+226,What is a confidence interval?,https://arxiv.org/pdf/2610.12332,3,7,0
+227,What is a confidence interval?,https://arxiv.org/pdf/2610.10885,29,8,0
+228,What is a confidence interval?,https://arxiv.org/pdf/2610.12332,26,9,0
+229,What is a confidence interval?,https://arxiv.org/pdf/2610.12215,13,10,0
+230,What are the main limitations of portfolio optimization?,https://arxiv.org/pdf/2609.34643,44,1,0
+231,What are the main limitations of portfolio optimization?,https://arxiv.org/pdf/2610.00104,11,2,0
+232,What are the main limitations of portfolio optimization?,https://arxiv.org/pdf/2610.05922,2,3,0
+233,What are the main limitations of portfolio optimization?,https://arxiv.org/pdf/2610.00104,30,4,0
+234,What are the main limitations of portfolio optimization?,https://arxiv.org/pdf/2610.09220,2,5,0
+235,What are the main limitations of portfolio optimization?,https://arxiv.org/pdf/2609.34643,12,6,0
+236,What are the main limitations of portfolio optimization?,https://arxiv.org/pdf/2609.34643,15,7,0
+237,What are the main limitations of portfolio optimization?,https://arxiv.org/pdf/2609.34643,4,8,0
+238,What are the main limitations of portfolio optimization?,https://arxiv.org/pdf/2610.00104,28,9,0
+239,What are the main limitations of portfolio optimization?,https://arxiv.org/pdf/2610.01325,7,10,0
+240,How do I calculate a percentage discount?,https://arxiv.org/pdf/1911.07311,23,1,0
+241,How do I calculate a percentage discount?,https://arxiv.org/pdf/1911.07311,22,2,0
+242,How do I calculate a percentage discount?,https://arxiv.org/pdf/1911.07311,15,3,0
+243,How do I calculate a percentage discount?,https://arxiv.org/pdf/1911.07311,21,4,0
+244,How do I calculate a percentage discount?,https://arxiv.org/pdf/1911.07311,36,5,0
+245,How do I calculate a percentage discount?,https://arxiv.org/pdf/1911.07311,30,6,0
+246,How do I calculate a percentage discount?,https://arxiv.org/pdf/1911.07311,18,7,1
+247,How do I calculate a percentage discount?,https://arxiv.org/pdf/1911.07311,14,8,0
+248,How do I calculate a percentage discount?,https://arxiv.org/pdf/1911.07311,17,9,0
+249,How do I calculate a percentage discount?,https://arxiv.org/pdf/1911.07311,35,10,0
+250,What are the main limitations of causal inference?,https://arxiv.org/pdf/2610.12377,16,1,0
+251,What are the main limitations of causal inference?,https://arxiv.org/pdf/2610.08689,1,2,0
+252,What are the main limitations of causal inference?,https://arxiv.org/pdf/2610.08689,38,3,0
+253,What are the main limitations of causal inference?,https://arxiv.org/pdf/2610.09558,47,4,0
+254,What are the main limitations of causal inference?,https://arxiv.org/pdf/2610.12377,46,5,0
+255,What are the main limitations of causal inference?,https://arxiv.org/pdf/2610.09558,73,6,0
+256,What are the main limitations of causal inference?,https://arxiv.org/pdf/2610.09558,46,7,0
+257,What are the main limitations of causal inference?,https://arxiv.org/pdf/2610.08689,37,8,0
+258,What are the main limitations of causal inference?,https://arxiv.org/pdf/2610.12377,6,9,0
+259,What are the main limitations of causal inference?,https://arxiv.org/pdf/2610.08792,16,10,0
+260,How does vector databases work?,https://arxiv.org/pdf/2609.38402,32,1,0
+261,How does vector databases work?,https://arxiv.org/pdf/2610.00042,5,2,0
+262,How does vector databases work?,https://arxiv.org/pdf/2609.27579,11,3,0
+263,How does vector databases work?,https://arxiv.org/pdf/2609.27579,8,4,0
+264,How does vector databases work?,https://arxiv.org/pdf/2609.27579,3,5,0
+265,How does vector databases work?,https://arxiv.org/pdf/2609.38402,15,6,0
+266,How does vector databases work?,https://arxiv.org/pdf/2610.00042,17,7,0
+267,How does vector databases work?,https://arxiv.org/pdf/2609.38402,19,8,0
+268,How does vector databases work?,https://arxiv.org/pdf/2610.11230,4,9,0
+269,How does vector databases work?,https://arxiv.org/pdf/2609.38402,14,10,0
+270,How does GPS determine location?,https://arxiv.org/pdf/2608.30471,32,1,0
+271,How does GPS determine location?,https://arxiv.org/pdf/2606.08918,14,2,0
+272,How does GPS determine location?,https://arxiv.org/pdf/2606.16468,30,3,0
+273,How does GPS determine location?,https://arxiv.org/pdf/2606.08918,9,4,0
+274,How does GPS determine location?,https://arxiv.org/pdf/2606.08918,13,5,0
+275,How does GPS determine location?,https://arxiv.org/pdf/2606.08918,1,6,0
+276,How does GPS determine location?,https://arxiv.org/pdf/2606.08918,2,7,0
+277,How does GPS determine location?,https://arxiv.org/pdf/2606.08918,5,8,0
+278,How does GPS determine location?,https://arxiv.org/pdf/2608.30471,2,9,0
+279,How does GPS determine location?,https://arxiv.org/pdf/2606.16468,2,10,0
+280,How can researchers evaluate database indexing?,https://arxiv.org/pdf/2610.11684,4,1,0
+281,How can researchers evaluate database indexing?,https://arxiv.org/pdf/2610.09414,66,2,0
+282,How can researchers evaluate database indexing?,https://arxiv.org/pdf/2610.09414,10,3,0
+283,How can researchers evaluate database indexing?,https://arxiv.org/pdf/2610.09414,52,4,0
+284,How can researchers evaluate database indexing?,https://arxiv.org/pdf/2610.09414,2,5,0
+285,How can researchers evaluate database indexing?,https://arxiv.org/pdf/2610.09414,55,6,0
+286,How can researchers evaluate database indexing?,https://arxiv.org/pdf/2610.09414,70,7,0
+287,How can researchers evaluate database indexing?,https://arxiv.org/pdf/2610.09414,18,8,0
+288,How can researchers evaluate database indexing?,https://arxiv.org/pdf/2610.11684,42,9,0
+289,How can researchers evaluate database indexing?,https://arxiv.org/pdf/2610.02046,38,10,0
+290,How can researchers evaluate probability distributions?,https://arxiv.org/pdf/2610.11362,36,1,0
+291,How can researchers evaluate probability distributions?,https://arxiv.org/pdf/2610.11967,2,2,0
+292,How can researchers evaluate probability distributions?,https://arxiv.org/pdf/2610.11316,17,3,0
+293,How can researchers evaluate probability distributions?,https://arxiv.org/pdf/2610.11362,10,4,0
+294,How can researchers evaluate probability distributions?,https://arxiv.org/pdf/2610.11362,26,5,0
+295,How can researchers evaluate probability distributions?,https://arxiv.org/pdf/2610.11362,6,6,0
+296,How can researchers evaluate probability distributions?,https://arxiv.org/pdf/2610.11362,2,7,0
+297,How can researchers evaluate probability distributions?,https://arxiv.org/pdf/2610.12102,1,8,0
+298,How can researchers evaluate probability distributions?,https://arxiv.org/pdf/2610.12102,16,9,0
+299,How can researchers evaluate probability distributions?,https://arxiv.org/pdf/2610.11362,11,10,0
+300,How does economic growth models work?,https://arxiv.org/pdf/2608.14426,81,1,0
+301,How does economic growth models work?,https://arxiv.org/pdf/2608.14426,7,2,0
+302,How does economic growth models work?,https://arxiv.org/pdf/2608.14426,73,3,0
+303,How does economic growth models work?,https://arxiv.org/pdf/2608.14426,79,4,0
+304,How does economic growth models work?,https://arxiv.org/pdf/2608.14426,11,5,0
+305,How does economic growth models work?,https://arxiv.org/pdf/2608.14426,10,6,0
+306,How does economic growth models work?,https://arxiv.org/pdf/2608.14426,71,7,0
+307,How does economic growth models work?,https://arxiv.org/pdf/2608.14426,17,8,0
+308,How does economic growth models work?,https://arxiv.org/pdf/2608.14426,16,9,0
+309,How does economic growth models work?,https://arxiv.org/pdf/2608.14426,72,10,0
+310,What are the main limitations of graph search algorithms?,https://arxiv.org/pdf/2608.22762,17,1,0
+311,What are the main limitations of graph search algorithms?,https://arxiv.org/pdf/2608.22762,2,2,0
+312,What are the main limitations of graph search algorithms?,https://arxiv.org/pdf/2608.22762,1,3,0
+313,What are the main limitations of graph search algorithms?,https://arxiv.org/pdf/2610.07252,6,4,0
+314,What are the main limitations of graph search algorithms?,https://arxiv.org/pdf/2609.16882,74,5,0
+315,What are the main limitations of graph search algorithms?,https://arxiv.org/pdf/2609.16882,8,6,0
+316,What are the main limitations of graph search algorithms?,https://arxiv.org/pdf/2609.16882,43,7,0
+317,What are the main limitations of graph search algorithms?,https://arxiv.org/pdf/2609.35000,9,8,0
+318,What are the main limitations of graph search algorithms?,https://arxiv.org/pdf/2609.16882,72,9,0
+319,What are the main limitations of graph search algorithms?,https://arxiv.org/pdf/2609.16882,55,10,0
+320,How does a Wi-Fi router transmit data?,https://arxiv.org/pdf/2603.02105,11,1,0
+321,How does a Wi-Fi router transmit data?,https://arxiv.org/pdf/1308.2797,17,2,0
+322,How does a Wi-Fi router transmit data?,https://arxiv.org/pdf/2303.03287,20,3,0
+323,How does a Wi-Fi router transmit data?,https://arxiv.org/pdf/2603.02105,3,4,0
+324,How does a Wi-Fi router transmit data?,https://arxiv.org/pdf/2303.03287,5,5,0
+325,How does a Wi-Fi router transmit data?,https://arxiv.org/pdf/1308.2797,10,6,0
+326,How does a Wi-Fi router transmit data?,https://arxiv.org/pdf/1308.2797,31,7,0
+327,How does a Wi-Fi router transmit data?,https://arxiv.org/pdf/2303.03287,4,8,0
+328,How does a Wi-Fi router transmit data?,https://arxiv.org/pdf/2603.02105,17,9,0
+329,How does a Wi-Fi router transmit data?,https://arxiv.org/pdf/1308.2797,5,10,0
+330,How can researchers evaluate general relativity?,https://arxiv.org/pdf/2610.11966,75,1,0
+331,How can researchers evaluate general relativity?,https://arxiv.org/pdf/2610.11966,22,2,0
+332,How can researchers evaluate general relativity?,https://arxiv.org/pdf/2610.12190,5,3,0
+333,How can researchers evaluate general relativity?,https://arxiv.org/pdf/2610.11966,27,4,0
+334,How can researchers evaluate general relativity?,https://arxiv.org/pdf/2610.11966,76,5,0
+335,How can researchers evaluate general relativity?,https://arxiv.org/pdf/2610.11966,62,6,0
+336,How can researchers evaluate general relativity?,https://arxiv.org/pdf/2610.11966,11,7,0
+337,How can researchers evaluate general relativity?,https://arxiv.org/pdf/2610.11966,23,8,0
+338,How can researchers evaluate general relativity?,https://arxiv.org/pdf/2610.11966,51,9,0
+339,How can researchers evaluate general relativity?,https://arxiv.org/pdf/2610.12190,1,10,0
+340,How does software testing strategies work?,https://arxiv.org/pdf/2609.24341,11,1,0
+341,How does software testing strategies work?,https://arxiv.org/pdf/2610.01158,5,2,0
+342,How does software testing strategies work?,https://arxiv.org/pdf/2609.24341,33,3,0
+343,How does software testing strategies work?,https://arxiv.org/pdf/2610.08405,16,4,0
+344,How does software testing strategies work?,https://arxiv.org/pdf/2609.20747,2,5,0
+345,How does software testing strategies work?,https://arxiv.org/pdf/2610.02995,42,6,0
+346,How does software testing strategies work?,https://arxiv.org/pdf/2609.24341,30,7,0
+347,How does software testing strategies work?,https://arxiv.org/pdf/2609.24341,87,8,0
+348,How does software testing strategies work?,https://arxiv.org/pdf/2609.24341,3,9,0
+349,How does software testing strategies work?,https://arxiv.org/pdf/2610.01158,22,10,0
+350,How does graph neural networks work?,https://arxiv.org/pdf/2610.11506,4,1,0
+351,How does graph neural networks work?,https://arxiv.org/pdf/2610.11506,44,2,0
+352,How does graph neural networks work?,https://arxiv.org/pdf/2610.09059,43,3,1
+353,How does graph neural networks work?,https://arxiv.org/pdf/2610.12039,1,4,0
+354,How does graph neural networks work?,https://arxiv.org/pdf/2610.08823,38,5,0
+355,How does graph neural networks work?,https://arxiv.org/pdf/2610.09059,42,6,1
+356,How does graph neural networks work?,https://arxiv.org/pdf/2610.08353,42,7,0
+357,How does graph neural networks work?,https://arxiv.org/pdf/2610.09059,1,8,1
+358,How does graph neural networks work?,https://arxiv.org/pdf/2610.12039,82,9,0
+359,How does graph neural networks work?,https://arxiv.org/pdf/2610.08353,46,10,0
+360,How does portfolio optimization work?,https://arxiv.org/pdf/2610.00998,2,1,0
+361,How does portfolio optimization work?,https://arxiv.org/pdf/2610.00998,1,2,0
+362,How does portfolio optimization work?,https://arxiv.org/pdf/2610.02485,5,3,0
+363,How does portfolio optimization work?,https://arxiv.org/pdf/2610.00998,10,4,0
+364,How does portfolio optimization work?,https://arxiv.org/pdf/2610.10768,7,5,0
+365,How does portfolio optimization work?,https://arxiv.org/pdf/2610.05544,8,6,0
+366,How does portfolio optimization work?,https://arxiv.org/pdf/2610.02485,6,7,0
+367,How does portfolio optimization work?,https://arxiv.org/pdf/2610.10768,71,8,0
+368,How does portfolio optimization work?,https://arxiv.org/pdf/2610.05544,64,9,0
+369,How does portfolio optimization work?,https://arxiv.org/pdf/2610.02485,24,10,0
+370,What is the difference between AC and DC current?,https://arxiv.org/pdf/2505.20374,2,1,1
+371,What is the difference between AC and DC current?,https://arxiv.org/pdf/2502.05842,52,2,0
+372,What is the difference between AC and DC current?,https://arxiv.org/pdf/2502.05842,17,3,1
+373,What is the difference between AC and DC current?,https://arxiv.org/pdf/2502.05842,47,4,0
+374,What is the difference between AC and DC current?,https://arxiv.org/pdf/2502.05842,54,5,0
+375,What is the difference between AC and DC current?,https://arxiv.org/pdf/2505.20374,1,6,0
+376,What is the difference between AC and DC current?,https://arxiv.org/pdf/2502.05842,23,7,0
+377,What is the difference between AC and DC current?,https://arxiv.org/pdf/2502.05842,13,8,0
+378,What is the difference between AC and DC current?,https://arxiv.org/pdf/2502.05842,14,9,0
+379,What is the difference between AC and DC current?,https://arxiv.org/pdf/2502.05842,16,10,0
+380,What are the main limitations of SQL query optimization?,https://arxiv.org/pdf/2609.12426,51,1,0
+381,What are the main limitations of SQL query optimization?,https://arxiv.org/pdf/2609.12426,55,2,0
+382,What are the main limitations of SQL query optimization?,https://arxiv.org/pdf/2609.24186,30,3,0
+383,What are the main limitations of SQL query optimization?,https://arxiv.org/pdf/2609.24186,6,4,0
+384,What are the main limitations of SQL query optimization?,https://arxiv.org/pdf/2609.24186,1,5,0
+385,What are the main limitations of SQL query optimization?,https://arxiv.org/pdf/2609.40022,3,6,0
+386,What are the main limitations of SQL query optimization?,https://arxiv.org/pdf/2609.24186,7,7,0
+387,What are the main limitations of SQL query optimization?,https://arxiv.org/pdf/2609.05355,2,8,0
+388,What are the main limitations of SQL query optimization?,https://arxiv.org/pdf/2609.24186,14,9,0
+389,What are the main limitations of SQL query optimization?,https://arxiv.org/pdf/2609.12426,37,10,0
+390,How does electromagnetic induction work?,https://arxiv.org/pdf/2610.09069,12,1,0
+391,How does electromagnetic induction work?,https://arxiv.org/pdf/2610.09069,11,2,0
+392,How does electromagnetic induction work?,https://arxiv.org/pdf/2609.31728,3,3,0
+393,How does electromagnetic induction work?,https://arxiv.org/pdf/2610.09069,13,4,0
+394,How does electromagnetic induction work?,https://arxiv.org/pdf/2609.31728,4,5,0
+395,How does electromagnetic induction work?,https://arxiv.org/pdf/2610.09069,4,6,0
+396,How does electromagnetic induction work?,https://arxiv.org/pdf/2609.26221,3,7,0
+397,How does electromagnetic induction work?,https://arxiv.org/pdf/2610.09069,10,8,0
+398,How does electromagnetic induction work?,https://arxiv.org/pdf/2608.29129,1,9,0
+399,How does electromagnetic induction work?,https://arxiv.org/pdf/2609.26221,56,10,0
+400,How can I calculate the average of a dataset?,https://arxiv.org/pdf/2609.37178,16,1,0
+401,How can I calculate the average of a dataset?,https://arxiv.org/pdf/2609.37178,6,2,0
+402,How can I calculate the average of a dataset?,https://arxiv.org/pdf/2609.37178,4,3,0
+403,How can I calculate the average of a dataset?,https://arxiv.org/pdf/2609.37178,23,4,0
+404,How can I calculate the average of a dataset?,https://arxiv.org/pdf/2609.37178,1,5,0
+405,How can I calculate the average of a dataset?,https://arxiv.org/pdf/2609.37178,10,6,0
+406,How can I calculate the average of a dataset?,https://arxiv.org/pdf/2610.10895,2,7,0
+407,How can I calculate the average of a dataset?,https://arxiv.org/pdf/2609.37178,7,8,0
+408,How can I calculate the average of a dataset?,https://arxiv.org/pdf/2609.37178,15,9,0
+409,How can I calculate the average of a dataset?,https://arxiv.org/pdf/2610.01370,1,10,0
+410,What are the main limitations of particle acceleration?,https://arxiv.org/pdf/2610.08034,4,1,0
+411,What are the main limitations of particle acceleration?,https://arxiv.org/pdf/2610.07322,1,2,0
+412,What are the main limitations of particle acceleration?,https://arxiv.org/pdf/2610.07322,14,3,0
+413,What are the main limitations of particle acceleration?,https://arxiv.org/pdf/2610.08034,3,4,0
+414,What are the main limitations of particle acceleration?,https://arxiv.org/pdf/2610.07322,2,5,0
+415,What are the main limitations of particle acceleration?,https://arxiv.org/pdf/2610.07322,25,6,0
+416,What are the main limitations of particle acceleration?,https://arxiv.org/pdf/2610.07322,6,7,0
+417,What are the main limitations of particle acceleration?,https://arxiv.org/pdf/2610.08034,1,8,0
+418,What are the main limitations of particle acceleration?,https://arxiv.org/pdf/2610.08034,5,9,0
+419,What are the main limitations of particle acceleration?,https://arxiv.org/pdf/2610.08034,2,10,0
+420,How does time series forecasting work?,https://arxiv.org/pdf/2610.11924,16,1,1
+421,How does time series forecasting work?,https://arxiv.org/pdf/2610.12240,9,2,1
+422,How does time series forecasting work?,https://arxiv.org/pdf/2610.11924,1,3,1
+423,How does time series forecasting work?,https://arxiv.org/pdf/2610.12240,6,4,1
+424,How does time series forecasting work?,https://arxiv.org/pdf/2610.12240,2,5,1
+425,How does time series forecasting work?,https://arxiv.org/pdf/2610.12148,9,6,1
+426,How does time series forecasting work?,https://arxiv.org/pdf/2610.12148,19,7,1
+427,How does time series forecasting work?,https://arxiv.org/pdf/2610.12148,25,8,1
+428,How does time series forecasting work?,https://arxiv.org/pdf/2610.12240,3,9,1
+429,How does time series forecasting work?,https://arxiv.org/pdf/2610.12148,6,10,1
+430,What are the main limitations of game theory equilibria?,https://arxiv.org/pdf/2607.11752,80,1,0
+431,What are the main limitations of game theory equilibria?,https://arxiv.org/pdf/2607.11752,1,2,1
+432,What are the main limitations of game theory equilibria?,https://arxiv.org/pdf/2607.11752,12,3,0
+433,What are the main limitations of game theory equilibria?,https://arxiv.org/pdf/2607.15452,15,4,1
+434,What are the main limitations of game theory equilibria?,https://arxiv.org/pdf/2607.11752,79,5,1
+435,What are the main limitations of game theory equilibria?,https://arxiv.org/pdf/2607.15452,68,6,0
+436,What are the main limitations of game theory equilibria?,https://arxiv.org/pdf/2607.11752,6,7,0
+437,What are the main limitations of game theory equilibria?,https://arxiv.org/pdf/2607.15452,36,8,0
+438,What are the main limitations of game theory equilibria?,https://arxiv.org/pdf/2607.15452,18,9,0
+439,What are the main limitations of game theory equilibria?,https://arxiv.org/pdf/2607.15452,17,10,0
+440,What are the main limitations of optical interference?,https://arxiv.org/pdf/2609.39152,2,1,0
+441,What are the main limitations of optical interference?,https://arxiv.org/pdf/2609.36122,24,2,0
+442,What are the main limitations of optical interference?,https://arxiv.org/pdf/2609.31842,2,3,0
+443,What are the main limitations of optical interference?,https://arxiv.org/pdf/2609.36122,19,4,0
+444,What are the main limitations of optical interference?,https://arxiv.org/pdf/2609.32023,114,5,0
+445,What are the main limitations of optical interference?,https://arxiv.org/pdf/2609.36122,10,6,0
+446,What are the main limitations of optical interference?,https://arxiv.org/pdf/2609.36122,30,7,0
+447,What are the main limitations of optical interference?,https://arxiv.org/pdf/2609.32023,108,8,0
+448,What are the main limitations of optical interference?,https://arxiv.org/pdf/2609.31842,67,9,0
+449,What are the main limitations of optical interference?,https://arxiv.org/pdf/2609.36122,1,10,0
+450,How does market efficiency work?,https://arxiv.org/pdf/2610.10053,39,1,0
+451,How does market efficiency work?,https://arxiv.org/pdf/2609.40267,5,2,0
+452,How does market efficiency work?,https://arxiv.org/pdf/2610.10053,29,3,0
+453,How does market efficiency work?,https://arxiv.org/pdf/2609.40267,6,4,0
+454,How does market efficiency work?,https://arxiv.org/pdf/2609.40267,14,5,0
+455,How does market efficiency work?,https://arxiv.org/pdf/2610.10053,38,6,0
+456,How does market efficiency work?,https://arxiv.org/pdf/2609.40267,95,7,0
+457,How does market efficiency work?,https://arxiv.org/pdf/2609.40267,8,8,0
+458,How does market efficiency work?,https://arxiv.org/pdf/2609.40267,10,9,0
+459,How does market efficiency work?,https://arxiv.org/pdf/2610.03791,17,10,0
+460,How can researchers evaluate signal processing?,https://arxiv.org/pdf/2610.09225,85,1,0
+461,How can researchers evaluate signal processing?,https://arxiv.org/pdf/2610.07075,4,2,0
+462,How can researchers evaluate signal processing?,https://arxiv.org/pdf/2610.09225,86,3,0
+463,How can researchers evaluate signal processing?,https://arxiv.org/pdf/2610.09225,78,4,0
+464,How can researchers evaluate signal processing?,https://arxiv.org/pdf/2610.11142,1,5,0
+465,How can researchers evaluate signal processing?,https://arxiv.org/pdf/2610.09563,16,6,0
+466,How can researchers evaluate signal processing?,https://arxiv.org/pdf/2610.07075,8,7,0
+467,How can researchers evaluate signal processing?,https://arxiv.org/pdf/2610.07075,10,8,0
+468,How can researchers evaluate signal processing?,https://arxiv.org/pdf/2610.11142,77,9,0
+469,How can researchers evaluate signal processing?,https://arxiv.org/pdf/2610.09225,88,10,0
+470,How does cryptographic hash functions work?,https://arxiv.org/pdf/2607.04991,3,1,0
+471,How does cryptographic hash functions work?,https://arxiv.org/pdf/2607.04991,27,2,0
+472,How does cryptographic hash functions work?,https://arxiv.org/pdf/2609.24296,23,3,0
+473,How does cryptographic hash functions work?,https://arxiv.org/pdf/2607.04991,28,4,0
+474,How does cryptographic hash functions work?,https://arxiv.org/pdf/2607.04991,21,5,0
+475,How does cryptographic hash functions work?,https://arxiv.org/pdf/2609.24296,2,6,0
+476,How does cryptographic hash functions work?,https://arxiv.org/pdf/2607.04991,19,7,0
+477,How does cryptographic hash functions work?,https://arxiv.org/pdf/2607.04991,16,8,0
+478,How does cryptographic hash functions work?,https://arxiv.org/pdf/2604.22893,20,9,0
+479,How does cryptographic hash functions work?,https://arxiv.org/pdf/2607.04991,2,10,0
+480,How does convolutional neural networks work?,https://arxiv.org/pdf/2610.12141,51,1,1
+481,How does convolutional neural networks work?,https://arxiv.org/pdf/2610.12317,50,2,0
+482,How does convolutional neural networks work?,https://arxiv.org/pdf/2610.12141,1,3,1
+483,How does convolutional neural networks work?,https://arxiv.org/pdf/2610.12141,18,4,0
+484,How does convolutional neural networks work?,https://arxiv.org/pdf/2610.12317,29,5,0
+485,How does convolutional neural networks work?,https://arxiv.org/pdf/2610.10972,47,6,0
+486,How does convolutional neural networks work?,https://arxiv.org/pdf/2610.12317,2,7,0
+487,How does convolutional neural networks work?,https://arxiv.org/pdf/2610.10972,48,8,0
+488,How does convolutional neural networks work?,https://arxiv.org/pdf/2610.12141,4,9,0
+489,How does convolutional neural networks work?,https://arxiv.org/pdf/2610.12317,24,10,0
+490,What are the main limitations of semiconductor transistors?,https://arxiv.org/pdf/2610.10953,3,1,0
+491,What are the main limitations of semiconductor transistors?,https://arxiv.org/pdf/2609.11015,4,2,0
+492,What are the main limitations of semiconductor transistors?,https://arxiv.org/pdf/2610.10953,4,3,0
+493,What are the main limitations of semiconductor transistors?,https://arxiv.org/pdf/2610.10953,2,4,0
+494,What are the main limitations of semiconductor transistors?,https://arxiv.org/pdf/2610.10953,31,5,0
+495,What are the main limitations of semiconductor transistors?,https://arxiv.org/pdf/2610.10953,33,6,0
+496,What are the main limitations of semiconductor transistors?,https://arxiv.org/pdf/2609.39878,2,7,0
+497,What are the main limitations of semiconductor transistors?,https://arxiv.org/pdf/2610.10953,43,8,0
+498,What are the main limitations of semiconductor transistors?,https://arxiv.org/pdf/2610.10953,5,9,0
+499,What are the main limitations of semiconductor transistors?,https://arxiv.org/pdf/2610.10953,32,10,0
+500,How does quantum entanglement work?,https://arxiv.org/pdf/2610.08216,40,1,0
+501,How does quantum entanglement work?,https://arxiv.org/pdf/2610.08216,36,2,0
+502,How does quantum entanglement work?,https://arxiv.org/pdf/2610.08216,2,3,0
+503,How does quantum entanglement work?,https://arxiv.org/pdf/2610.08710,2,4,0
+504,How does quantum entanglement work?,https://arxiv.org/pdf/2610.08710,43,5,1
+505,How does quantum entanglement work?,https://arxiv.org/pdf/2610.08216,1,6,0
+506,How does quantum entanglement work?,https://arxiv.org/pdf/2610.08710,6,7,0
+507,How does quantum entanglement work?,https://arxiv.org/pdf/2610.08710,41,8,0
+508,How does quantum entanglement work?,https://arxiv.org/pdf/2610.08216,10,9,0
+509,How does quantum entanglement work?,https://arxiv.org/pdf/2610.08710,17,10,0
+510,How does particle acceleration work?,https://arxiv.org/pdf/2610.08474,2,1,0
+511,How does particle acceleration work?,https://arxiv.org/pdf/2610.08474,31,2,0
+512,How does particle acceleration work?,https://arxiv.org/pdf/2610.08474,48,3,0
+513,How does particle acceleration work?,https://arxiv.org/pdf/2610.06550,19,4,0
+514,How does particle acceleration work?,https://arxiv.org/pdf/2610.08474,13,5,0
+515,How does particle acceleration work?,https://arxiv.org/pdf/2610.08474,37,6,0
+516,How does particle acceleration work?,https://arxiv.org/pdf/2610.08474,14,7,0
+517,How does particle acceleration work?,https://arxiv.org/pdf/2610.06550,49,8,1
+518,How does particle acceleration work?,https://arxiv.org/pdf/2610.08474,18,9,0
+519,How does particle acceleration work?,https://arxiv.org/pdf/2610.07322,2,10,0
+520,How can researchers evaluate option pricing models?,https://arxiv.org/pdf/2610.06495,6,1,0
+521,How can researchers evaluate option pricing models?,https://arxiv.org/pdf/2610.06495,2,2,0
+522,How can researchers evaluate option pricing models?,https://arxiv.org/pdf/2609.37741,12,3,0
+523,How can researchers evaluate option pricing models?,https://arxiv.org/pdf/2610.07590,6,4,0
+524,How can researchers evaluate option pricing models?,https://arxiv.org/pdf/2610.07590,5,5,0
+525,How can researchers evaluate option pricing models?,https://arxiv.org/pdf/2610.07590,37,6,0
+526,How can researchers evaluate option pricing models?,https://arxiv.org/pdf/2610.07590,10,7,0
+527,How can researchers evaluate option pricing models?,https://arxiv.org/pdf/2610.06495,1,8,0
+528,How can researchers evaluate option pricing models?,https://arxiv.org/pdf/2610.07590,1,9,0
+529,How can researchers evaluate option pricing models?,https://arxiv.org/pdf/2610.07590,7,10,0
+530,What is the probability of rolling two sixes?,https://arxiv.org/pdf/2209.09843,1,1,0
+531,What is the probability of rolling two sixes?,https://arxiv.org/pdf/2209.09843,8,2,0
+532,What is the probability of rolling two sixes?,https://arxiv.org/pdf/2209.09843,99,3,0
+533,What is the probability of rolling two sixes?,https://arxiv.org/pdf/2209.09843,3,4,0
+534,What is the probability of rolling two sixes?,https://arxiv.org/pdf/2209.09843,87,5,0
+535,What is the probability of rolling two sixes?,https://arxiv.org/pdf/2209.09843,67,6,0
+536,What is the probability of rolling two sixes?,https://arxiv.org/pdf/2209.09843,73,7,0
+537,What is the probability of rolling two sixes?,https://arxiv.org/pdf/2209.09843,64,8,0
+538,What is the probability of rolling two sixes?,https://arxiv.org/pdf/2209.09843,72,9,0
+539,What is the probability of rolling two sixes?,https://arxiv.org/pdf/2209.09843,58,10,0
+540,What are the main limitations of graph neural networks?,https://arxiv.org/pdf/2610.11571,45,1,1
+541,What are the main limitations of graph neural networks?,https://arxiv.org/pdf/2610.11571,17,2,0
+542,What are the main limitations of graph neural networks?,https://arxiv.org/pdf/2610.12247,2,3,0
+543,What are the main limitations of graph neural networks?,https://arxiv.org/pdf/2610.11571,46,4,1
+544,What are the main limitations of graph neural networks?,https://arxiv.org/pdf/2610.11665,64,5,0
+545,What are the main limitations of graph neural networks?,https://arxiv.org/pdf/2610.12151,25,6,0
+546,What are the main limitations of graph neural networks?,https://arxiv.org/pdf/2610.11571,16,7,0
+547,What are the main limitations of graph neural networks?,https://arxiv.org/pdf/2610.12151,14,8,0
+548,What are the main limitations of graph neural networks?,https://arxiv.org/pdf/2610.11665,66,9,1
+549,What are the main limitations of graph neural networks?,https://arxiv.org/pdf/2610.11665,67,10,0
+550,How does control systems stability work?,https://arxiv.org/pdf/2610.12226,44,1,0
+551,How does control systems stability work?,https://arxiv.org/pdf/2610.11964,52,2,0
+552,How does control systems stability work?,https://arxiv.org/pdf/2610.11964,9,3,0
+553,How does control systems stability work?,https://arxiv.org/pdf/2610.12226,59,4,0
+554,How does control systems stability work?,https://arxiv.org/pdf/2610.12226,60,5,0
+555,How does control systems stability work?,https://arxiv.org/pdf/2610.11964,6,6,0
+556,How does control systems stability work?,https://arxiv.org/pdf/2610.11964,264,7,0
+557,How does control systems stability work?,https://arxiv.org/pdf/2610.12226,61,8,0
+558,How does control systems stability work?,https://arxiv.org/pdf/2610.11964,3,9,0
+559,How does control systems stability work?,https://arxiv.org/pdf/2610.11964,123,10,0
+560,How does SQL query optimization work?,https://arxiv.org/pdf/2606.08620,12,1,1
+561,How does SQL query optimization work?,https://arxiv.org/pdf/2610.02607,80,2,0
+562,How does SQL query optimization work?,https://arxiv.org/pdf/2607.20630,6,3,0
+563,How does SQL query optimization work?,https://arxiv.org/pdf/2606.08620,27,4,0
+564,How does SQL query optimization work?,https://arxiv.org/pdf/2610.02607,79,5,0
+565,How does SQL query optimization work?,https://arxiv.org/pdf/2606.08620,25,6,0
+566,How does SQL query optimization work?,https://arxiv.org/pdf/2610.02607,2,7,0
+567,How does SQL query optimization work?,https://arxiv.org/pdf/2606.08620,11,8,0
+568,How does SQL query optimization work?,https://arxiv.org/pdf/2606.08620,1,9,0
+569,How does SQL query optimization work?,https://arxiv.org/pdf/2610.02607,1,10,0
+570,What are the main limitations of vector databases?,https://arxiv.org/pdf/2609.04767,13,1,1
+571,What are the main limitations of vector databases?,https://arxiv.org/pdf/2609.04767,4,2,1
+572,What are the main limitations of vector databases?,https://arxiv.org/pdf/2609.13802,2,3,0
+573,What are the main limitations of vector databases?,https://arxiv.org/pdf/2609.13452,27,4,0
+574,What are the main limitations of vector databases?,https://arxiv.org/pdf/2610.11230,8,5,0
+575,What are the main limitations of vector databases?,https://arxiv.org/pdf/2609.16221,5,6,0
+576,What are the main limitations of vector databases?,https://arxiv.org/pdf/2610.11230,11,7,0
+577,What are the main limitations of vector databases?,https://arxiv.org/pdf/2609.04767,6,8,1
+578,What are the main limitations of vector databases?,https://arxiv.org/pdf/2609.04767,1,9,1
+579,What are the main limitations of vector databases?,https://arxiv.org/pdf/2609.04767,3,10,0
+580,What are the main limitations of quantum entanglement?,https://arxiv.org/pdf/2610.11261,6,1,0
+581,What are the main limitations of quantum entanglement?,https://arxiv.org/pdf/2610.11094,10,2,0
+582,What are the main limitations of quantum entanglement?,https://arxiv.org/pdf/2610.11094,3,3,0
+583,What are the main limitations of quantum entanglement?,https://arxiv.org/pdf/2610.11629,2,4,0
+584,What are the main limitations of quantum entanglement?,https://arxiv.org/pdf/2610.10705,1,5,0
+585,What are the main limitations of quantum entanglement?,https://arxiv.org/pdf/2610.11261,4,6,0
+586,What are the main limitations of quantum entanglement?,https://arxiv.org/pdf/2610.12348,118,7,0
+587,What are the main limitations of quantum entanglement?,https://arxiv.org/pdf/2610.11094,2,8,0
+588,What are the main limitations of quantum entanglement?,https://arxiv.org/pdf/2610.11629,45,9,0
+589,What are the main limitations of quantum entanglement?,https://arxiv.org/pdf/2610.11261,9,10,0
+590,How does fluid dynamics work?,https://arxiv.org/pdf/2610.05837,8,1,0
+591,How does fluid dynamics work?,https://arxiv.org/pdf/2610.04032,34,2,0
+592,How does fluid dynamics work?,https://arxiv.org/pdf/2610.03679,19,3,0
+593,How does fluid dynamics work?,https://arxiv.org/pdf/2610.05837,1,4,1
+594,How does fluid dynamics work?,https://arxiv.org/pdf/2610.05837,10,5,0
+595,How does fluid dynamics work?,https://arxiv.org/pdf/2610.04032,2,6,0
+596,How does fluid dynamics work?,https://arxiv.org/pdf/2610.04032,4,7,0
+597,How does fluid dynamics work?,https://arxiv.org/pdf/2610.03679,1,8,0
+598,How does fluid dynamics work?,https://arxiv.org/pdf/2610.09432,5,9,0
+599,How does fluid dynamics work?,https://arxiv.org/pdf/2610.04032,33,10,0
+600,What are the main limitations of retrieval-augmented generation?,https://arxiv.org/pdf/2610.11183,1,1,1
+601,What are the main limitations of retrieval-augmented generation?,https://arxiv.org/pdf/2610.11899,16,2,0
+602,What are the main limitations of retrieval-augmented generation?,https://arxiv.org/pdf/2610.08674,5,3,0
+603,What are the main limitations of retrieval-augmented generation?,https://arxiv.org/pdf/2610.08674,1,4,1
+604,What are the main limitations of retrieval-augmented generation?,https://arxiv.org/pdf/2610.07902,16,5,0
+605,What are the main limitations of retrieval-augmented generation?,https://arxiv.org/pdf/2610.11899,3,6,0
+606,What are the main limitations of retrieval-augmented generation?,https://arxiv.org/pdf/2610.11183,31,7,1
+607,What are the main limitations of retrieval-augmented generation?,https://arxiv.org/pdf/2610.11183,2,8,1
+608,What are the main limitations of retrieval-augmented generation?,https://arxiv.org/pdf/2610.11085,32,9,0
+609,What are the main limitations of retrieval-augmented generation?,https://arxiv.org/pdf/2610.11183,34,10,1
+610,What are the main limitations of thermodynamic entropy?,https://arxiv.org/pdf/2610.07964,5,1,0
+611,What are the main limitations of thermodynamic entropy?,https://arxiv.org/pdf/2610.07746,3,2,0
+612,What are the main limitations of thermodynamic entropy?,https://arxiv.org/pdf/2610.07964,6,3,0
+613,What are the main limitations of thermodynamic entropy?,https://arxiv.org/pdf/2610.07964,3,4,0
+614,What are the main limitations of thermodynamic entropy?,https://arxiv.org/pdf/2610.07746,45,5,0
+615,What are the main limitations of thermodynamic entropy?,https://arxiv.org/pdf/2610.07746,5,6,0
+616,What are the main limitations of thermodynamic entropy?,https://arxiv.org/pdf/2610.08265,4,7,0
+617,What are the main limitations of thermodynamic entropy?,https://arxiv.org/pdf/2610.05050,1,8,0
+618,What are the main limitations of thermodynamic entropy?,https://arxiv.org/pdf/2610.07746,4,9,0
+619,What are the main limitations of thermodynamic entropy?,https://arxiv.org/pdf/2610.07517,37,10,0
+620,How does a recommendation algorithm choose movies?,https://arxiv.org/pdf/2511.23312,61,1,0
+621,How does a recommendation algorithm choose movies?,https://arxiv.org/pdf/2511.23312,20,2,0
+622,How does a recommendation algorithm choose movies?,https://arxiv.org/pdf/2512.16891,6,3,0
+623,How does a recommendation algorithm choose movies?,https://arxiv.org/pdf/2604.09698,2,4,0
+624,How does a recommendation algorithm choose movies?,https://arxiv.org/pdf/2511.23312,14,5,0
+625,How does a recommendation algorithm choose movies?,https://arxiv.org/pdf/2604.09698,32,6,0
+626,How does a recommendation algorithm choose movies?,https://arxiv.org/pdf/2511.23312,18,7,0
+627,How does a recommendation algorithm choose movies?,https://arxiv.org/pdf/2604.09698,45,8,0
+628,How does a recommendation algorithm choose movies?,https://arxiv.org/pdf/2511.23312,19,9,0
+629,How does a recommendation algorithm choose movies?,https://arxiv.org/pdf/2511.23312,13,10,0
+630,How can researchers evaluate inflation dynamics?,https://arxiv.org/pdf/2609.27816,86,1,0
+631,How can researchers evaluate inflation dynamics?,https://arxiv.org/pdf/2609.31415,23,2,0
+632,How can researchers evaluate inflation dynamics?,https://arxiv.org/pdf/2609.31415,92,3,0
+633,How can researchers evaluate inflation dynamics?,https://arxiv.org/pdf/2609.27816,64,4,0
+634,How can researchers evaluate inflation dynamics?,https://arxiv.org/pdf/2609.31415,45,5,0
+635,How can researchers evaluate inflation dynamics?,https://arxiv.org/pdf/2609.31415,91,6,0
+636,How can researchers evaluate inflation dynamics?,https://arxiv.org/pdf/2609.27816,59,7,0
+637,How can researchers evaluate inflation dynamics?,https://arxiv.org/pdf/2610.03396,2,8,0
+638,How can researchers evaluate inflation dynamics?,https://arxiv.org/pdf/2610.03396,5,9,0
+639,How can researchers evaluate inflation dynamics?,https://arxiv.org/pdf/2609.31415,22,10,0
+640,How can researchers evaluate computational complexity?,https://arxiv.org/pdf/2610.11736,32,1,0
+641,How can researchers evaluate computational complexity?,https://arxiv.org/pdf/2610.11696,1,2,0
+642,How can researchers evaluate computational complexity?,https://arxiv.org/pdf/2610.12151,4,3,0
+643,How can researchers evaluate computational complexity?,https://arxiv.org/pdf/2610.11736,31,4,0
+644,How can researchers evaluate computational complexity?,https://arxiv.org/pdf/2610.11696,8,5,0
+645,How can researchers evaluate computational complexity?,https://arxiv.org/pdf/2610.11696,51,6,0
+646,How can researchers evaluate computational complexity?,https://arxiv.org/pdf/2610.11736,91,7,0
+647,How can researchers evaluate computational complexity?,https://arxiv.org/pdf/2610.11696,9,8,0
+648,How can researchers evaluate computational complexity?,https://arxiv.org/pdf/2610.12151,3,9,0
+649,How can researchers evaluate computational complexity?,https://arxiv.org/pdf/2610.12151,34,10,0
+650,What is the difference between RAM and disk storage?,https://arxiv.org/pdf/2604.02522,50,1,0
+651,What is the difference between RAM and disk storage?,https://arxiv.org/pdf/2604.02522,5,2,0
+652,What is the difference between RAM and disk storage?,https://arxiv.org/pdf/2605.01260,27,3,0
+653,What is the difference between RAM and disk storage?,https://arxiv.org/pdf/2604.02522,18,4,0
+654,What is the difference between RAM and disk storage?,https://arxiv.org/pdf/2604.02522,49,5,0
+655,What is the difference between RAM and disk storage?,https://arxiv.org/pdf/2605.01260,26,6,0
+656,What is the difference between RAM and disk storage?,https://arxiv.org/pdf/2609.26616,39,7,0
+657,What is the difference between RAM and disk storage?,https://arxiv.org/pdf/2609.26616,4,8,0
+658,What is the difference between RAM and disk storage?,https://arxiv.org/pdf/2605.01260,3,9,0
+659,What is the difference between RAM and disk storage?,https://arxiv.org/pdf/2604.02522,46,10,0
+660,What are the main limitations of signal processing?,https://arxiv.org/pdf/2610.10025,4,1,0
+661,What are the main limitations of signal processing?,https://arxiv.org/pdf/2610.09792,5,2,0
+662,What are the main limitations of signal processing?,https://arxiv.org/pdf/2610.09663,34,3,0
+663,What are the main limitations of signal processing?,https://arxiv.org/pdf/2610.10025,20,4,0
+664,What are the main limitations of signal processing?,https://arxiv.org/pdf/2610.10025,24,5,0
+665,What are the main limitations of signal processing?,https://arxiv.org/pdf/2610.10025,22,6,0
+666,What are the main limitations of signal processing?,https://arxiv.org/pdf/2610.09792,30,7,0
+667,What are the main limitations of signal processing?,https://arxiv.org/pdf/2610.09663,14,8,0
+668,What are the main limitations of signal processing?,https://arxiv.org/pdf/2610.09792,37,9,0
+669,What are the main limitations of signal processing?,https://arxiv.org/pdf/2610.10025,21,10,0
+670,How does distributed consensus algorithms work?,https://arxiv.org/pdf/2610.08489,1,1,1
+671,How does distributed consensus algorithms work?,https://arxiv.org/pdf/2610.02901,52,2,0
+672,How does distributed consensus algorithms work?,https://arxiv.org/pdf/2610.05666,4,3,0
+673,How does distributed consensus algorithms work?,https://arxiv.org/pdf/2610.08489,22,4,1
+674,How does distributed consensus algorithms work?,https://arxiv.org/pdf/2610.08489,2,5,1
+675,How does distributed consensus algorithms work?,https://arxiv.org/pdf/2610.08489,23,6,0
+676,How does distributed consensus algorithms work?,https://arxiv.org/pdf/2610.05666,36,7,0
+677,How does distributed consensus algorithms work?,https://arxiv.org/pdf/2610.05666,2,8,0
+678,How does distributed consensus algorithms work?,https://arxiv.org/pdf/2610.11805,3,9,0
+679,How does distributed consensus algorithms work?,https://arxiv.org/pdf/2610.02901,51,10,0
+680,How does graph search algorithms work?,https://arxiv.org/pdf/2610.12068,40,1,0
+681,How does graph search algorithms work?,https://arxiv.org/pdf/2610.11862,6,2,0
+682,How does graph search algorithms work?,https://arxiv.org/pdf/2610.10100,11,3,0
+683,How does graph search algorithms work?,https://arxiv.org/pdf/2610.11862,1,4,0
+684,How does graph search algorithms work?,https://arxiv.org/pdf/2610.11862,8,5,0
+685,How does graph search algorithms work?,https://arxiv.org/pdf/2610.11862,11,6,0
+686,How does graph search algorithms work?,https://arxiv.org/pdf/2610.12068,34,7,0
+687,How does graph search algorithms work?,https://arxiv.org/pdf/2610.11701,43,8,0
+688,How does graph search algorithms work?,https://arxiv.org/pdf/2610.11862,37,9,0
+689,How does graph search algorithms work?,https://arxiv.org/pdf/2610.12068,2,10,0
+690,What is the difference between REST and GraphQL?,https://arxiv.org/pdf/1701.00626,2,1,1
+691,What is the difference between REST and GraphQL?,https://arxiv.org/pdf/1701.00626,42,2,0
+692,What is the difference between REST and GraphQL?,https://arxiv.org/pdf/1701.00626,16,3,1
+693,What is the difference between REST and GraphQL?,https://arxiv.org/pdf/1701.00626,15,4,1
+694,What is the difference between REST and GraphQL?,https://arxiv.org/pdf/1701.00626,4,5,0
+695,What is the difference between REST and GraphQL?,https://arxiv.org/pdf/1701.00626,17,6,1
+696,What is the difference between REST and GraphQL?,https://arxiv.org/pdf/1701.00626,1,7,1
+697,What is the difference between REST and GraphQL?,https://arxiv.org/pdf/1701.00626,40,8,0
+698,What is the difference between REST and GraphQL?,https://arxiv.org/pdf/1701.00626,8,9,0
+699,What is the difference between REST and GraphQL?,https://arxiv.org/pdf/2412.12961,17,10,0
+700,How does transformer attention mechanisms work?,https://arxiv.org/pdf/2609.34273,1,1,1
+701,How does transformer attention mechanisms work?,https://arxiv.org/pdf/2610.06415,90,2,0
+702,How does transformer attention mechanisms work?,https://arxiv.org/pdf/2609.34273,2,3,0
+703,How does transformer attention mechanisms work?,https://arxiv.org/pdf/2610.06415,88,4,0
+704,How does transformer attention mechanisms work?,https://arxiv.org/pdf/2610.06415,5,5,0
+705,How does transformer attention mechanisms work?,https://arxiv.org/pdf/2609.34273,8,6,0
+706,How does transformer attention mechanisms work?,https://arxiv.org/pdf/2610.06415,60,7,0
+707,How does transformer attention mechanisms work?,https://arxiv.org/pdf/2610.06415,56,8,0
+708,How does transformer attention mechanisms work?,https://arxiv.org/pdf/2609.34273,32,9,0
+709,How does transformer attention mechanisms work?,https://arxiv.org/pdf/2610.07907,9,10,0
+710,How does signal processing work?,https://arxiv.org/pdf/2610.09663,2,1,0
+711,How does signal processing work?,https://arxiv.org/pdf/2610.09663,34,2,0
+712,How does signal processing work?,https://arxiv.org/pdf/2610.09663,14,3,0
+713,How does signal processing work?,https://arxiv.org/pdf/2610.12158,15,4,0
+714,How does signal processing work?,https://arxiv.org/pdf/2610.09663,35,5,0
+715,How does signal processing work?,https://arxiv.org/pdf/2610.09663,25,6,0
+716,How does signal processing work?,https://arxiv.org/pdf/2610.11540,9,7,0
+717,How does signal processing work?,https://arxiv.org/pdf/2610.11540,88,8,0
+718,How does signal processing work?,https://arxiv.org/pdf/2610.11540,42,9,0
+719,How does signal processing work?,https://arxiv.org/pdf/2610.12158,194,10,0
+720,How does optical interference work?,https://arxiv.org/pdf/2609.36122,30,1,0
+721,How does optical interference work?,https://arxiv.org/pdf/2610.03493,17,2,0
+722,How does optical interference work?,https://arxiv.org/pdf/2609.38564,26,3,0
+723,How does optical interference work?,https://arxiv.org/pdf/2609.38564,5,4,0
+724,How does optical interference work?,https://arxiv.org/pdf/2609.38770,2,5,0
+725,How does optical interference work?,https://arxiv.org/pdf/2609.38564,1,6,0
+726,How does optical interference work?,https://arxiv.org/pdf/2609.38770,5,7,0
+727,How does optical interference work?,https://arxiv.org/pdf/2609.38770,1,8,0
+728,How does optical interference work?,https://arxiv.org/pdf/2610.03493,30,9,0
+729,How does optical interference work?,https://arxiv.org/pdf/2609.36122,16,10,0
+730,How can researchers evaluate distributed consensus algorithms?,https://arxiv.org/pdf/2610.07570,2,1,0
+731,How can researchers evaluate distributed consensus algorithms?,https://arxiv.org/pdf/2610.04412,174,2,0
+732,How can researchers evaluate distributed consensus algorithms?,https://arxiv.org/pdf/2610.07971,26,3,0
+733,How can researchers evaluate distributed consensus algorithms?,https://arxiv.org/pdf/2610.07971,43,4,0
+734,How can researchers evaluate distributed consensus algorithms?,https://arxiv.org/pdf/2610.04412,248,5,0
+735,How can researchers evaluate distributed consensus algorithms?,https://arxiv.org/pdf/2610.07971,32,6,0
+736,How can researchers evaluate distributed consensus algorithms?,https://arxiv.org/pdf/2610.07971,33,7,0
+737,How can researchers evaluate distributed consensus algorithms?,https://arxiv.org/pdf/2610.07570,8,8,0
+738,How can researchers evaluate distributed consensus algorithms?,https://arxiv.org/pdf/2610.07971,23,9,0
+739,How can researchers evaluate distributed consensus algorithms?,https://arxiv.org/pdf/2610.07971,40,10,0
+740,How can researchers evaluate transformer attention mechanisms?,https://arxiv.org/pdf/2610.12379,53,1,0
+741,How can researchers evaluate transformer attention mechanisms?,https://arxiv.org/pdf/2610.12147,2,2,0
+742,How can researchers evaluate transformer attention mechanisms?,https://arxiv.org/pdf/2610.12379,121,3,0
+743,How can researchers evaluate transformer attention mechanisms?,https://arxiv.org/pdf/2610.11945,4,4,0
+744,How can researchers evaluate transformer attention mechanisms?,https://arxiv.org/pdf/2610.11631,14,5,0
+745,How can researchers evaluate transformer attention mechanisms?,https://arxiv.org/pdf/2610.11583,2,6,0
+746,How can researchers evaluate transformer attention mechanisms?,https://arxiv.org/pdf/2610.11583,10,7,0
+747,How can researchers evaluate transformer attention mechanisms?,https://arxiv.org/pdf/2610.12379,78,8,0
+748,How can researchers evaluate transformer attention mechanisms?,https://arxiv.org/pdf/2610.12379,99,9,0
+749,How can researchers evaluate transformer attention mechanisms?,https://arxiv.org/pdf/2610.12379,1,10,0
+750,What are the main limitations of general relativity?,https://arxiv.org/pdf/2610.12372,42,1,0
+751,What are the main limitations of general relativity?,https://arxiv.org/pdf/2610.12372,8,2,0
+752,What are the main limitations of general relativity?,https://arxiv.org/pdf/2610.12372,35,3,0
+753,What are the main limitations of general relativity?,https://arxiv.org/pdf/2610.12372,54,4,0
+754,What are the main limitations of general relativity?,https://arxiv.org/pdf/2610.12372,2,5,0
+755,What are the main limitations of general relativity?,https://arxiv.org/pdf/2610.12254,24,6,0
+756,What are the main limitations of general relativity?,https://arxiv.org/pdf/2610.12372,55,7,0
+757,What are the main limitations of general relativity?,https://arxiv.org/pdf/2610.12372,26,8,0
+758,What are the main limitations of general relativity?,https://arxiv.org/pdf/2610.12372,6,9,0
+759,What are the main limitations of general relativity?,https://arxiv.org/pdf/2610.12372,44,10,0
+760,Why does ice float in water?,https://arxiv.org/pdf/2411.09620,7,1,0
+761,Why does ice float in water?,https://arxiv.org/pdf/2411.09620,73,2,1
+762,Why does ice float in water?,https://arxiv.org/pdf/2411.09620,20,3,1
+763,Why does ice float in water?,https://arxiv.org/pdf/2411.09620,13,4,0
+764,Why does ice float in water?,https://arxiv.org/pdf/2411.09620,61,5,0
+765,Why does ice float in water?,https://arxiv.org/pdf/2411.09620,66,6,0
+766,Why does ice float in water?,https://arxiv.org/pdf/2411.09620,72,7,1
+767,Why does ice float in water?,https://arxiv.org/pdf/2511.13184,1,8,0
+768,Why does ice float in water?,https://arxiv.org/pdf/2411.09620,12,9,0
+769,Why does ice float in water?,https://arxiv.org/pdf/2411.09620,35,10,0
+770,How can researchers evaluate market efficiency?,https://arxiv.org/pdf/2610.09641,2,1,0
+771,How can researchers evaluate market efficiency?,https://arxiv.org/pdf/2610.09641,5,2,0
+772,How can researchers evaluate market efficiency?,https://arxiv.org/pdf/2610.09641,7,3,0
+773,How can researchers evaluate market efficiency?,https://arxiv.org/pdf/2610.09641,12,4,0
+774,How can researchers evaluate market efficiency?,https://arxiv.org/pdf/2610.09641,35,5,0
+775,How can researchers evaluate market efficiency?,https://arxiv.org/pdf/2610.09641,34,6,0
+776,How can researchers evaluate market efficiency?,https://arxiv.org/pdf/2609.24444,14,7,0
+777,How can researchers evaluate market efficiency?,https://arxiv.org/pdf/2610.09641,31,8,0
+778,How can researchers evaluate market efficiency?,https://arxiv.org/pdf/2610.09641,37,9,0
+779,How can researchers evaluate market efficiency?,https://arxiv.org/pdf/2609.24444,60,10,0
+780,How does regression analysis work?,https://arxiv.org/pdf/2610.10266,18,1,0
+781,How does regression analysis work?,https://arxiv.org/pdf/2610.10266,87,2,0
+782,How does regression analysis work?,https://arxiv.org/pdf/2610.10266,10,3,0
+783,How does regression analysis work?,https://arxiv.org/pdf/2610.12231,34,4,0
+784,How does regression analysis work?,https://arxiv.org/pdf/2610.12231,22,5,0
+785,How does regression analysis work?,https://arxiv.org/pdf/2610.12231,6,6,0
+786,How does regression analysis work?,https://arxiv.org/pdf/2610.12231,28,7,0
+787,How does regression analysis work?,https://arxiv.org/pdf/2610.12231,4,8,0
+788,How does regression analysis work?,https://arxiv.org/pdf/2610.12231,9,9,0
+789,How does regression analysis work?,https://arxiv.org/pdf/2610.12231,10,10,0
+790,How does compiler optimization work?,https://arxiv.org/pdf/2609.22636,46,1,0
+791,How does compiler optimization work?,https://arxiv.org/pdf/2610.06291,10,2,0
+792,How does compiler optimization work?,https://arxiv.org/pdf/2609.22636,12,3,0
+793,How does compiler optimization work?,https://arxiv.org/pdf/2609.22636,47,4,0
+794,How does compiler optimization work?,https://arxiv.org/pdf/2609.22636,5,5,0
+795,How does compiler optimization work?,https://arxiv.org/pdf/2610.06291,9,6,0
+796,How does compiler optimization work?,https://arxiv.org/pdf/2609.22636,45,7,0
+797,How does compiler optimization work?,https://arxiv.org/pdf/2609.25384,2,8,0
+798,How does compiler optimization work?,https://arxiv.org/pdf/2609.22636,43,9,0
+799,How does compiler optimization work?,https://arxiv.org/pdf/2610.06379,13,10,0
+800,What are the main limitations of distributed consensus algorithms?,https://arxiv.org/pdf/2610.05666,4,1,0
+801,What are the main limitations of distributed consensus algorithms?,https://arxiv.org/pdf/2610.05666,2,2,0
+802,What are the main limitations of distributed consensus algorithms?,https://arxiv.org/pdf/2610.02901,52,3,0
+803,What are the main limitations of distributed consensus algorithms?,https://arxiv.org/pdf/2610.05666,1,4,0
+804,What are the main limitations of distributed consensus algorithms?,https://arxiv.org/pdf/2610.02901,169,5,0
+805,What are the main limitations of distributed consensus algorithms?,https://arxiv.org/pdf/2610.04700,7,6,0
+806,What are the main limitations of distributed consensus algorithms?,https://arxiv.org/pdf/2610.04854,38,7,0
+807,What are the main limitations of distributed consensus algorithms?,https://arxiv.org/pdf/2610.05666,5,8,0
+808,What are the main limitations of distributed consensus algorithms?,https://arxiv.org/pdf/2610.05666,36,9,0
+809,What are the main limitations of distributed consensus algorithms?,https://arxiv.org/pdf/2610.07550,38,10,0
+810,How can researchers evaluate convolutional neural networks?,https://arxiv.org/pdf/2610.12317,50,1,0
+811,How can researchers evaluate convolutional neural networks?,https://arxiv.org/pdf/2610.12317,2,2,0
+812,How can researchers evaluate convolutional neural networks?,https://arxiv.org/pdf/2610.12317,29,3,0
+813,How can researchers evaluate convolutional neural networks?,https://arxiv.org/pdf/2610.12141,51,4,1
+814,How can researchers evaluate convolutional neural networks?,https://arxiv.org/pdf/2610.12147,2,5,0
+815,How can researchers evaluate convolutional neural networks?,https://arxiv.org/pdf/2610.12141,1,6,1
+816,How can researchers evaluate convolutional neural networks?,https://arxiv.org/pdf/2610.12317,8,7,0
+817,How can researchers evaluate convolutional neural networks?,https://arxiv.org/pdf/2610.12317,24,8,0
+818,How can researchers evaluate convolutional neural networks?,https://arxiv.org/pdf/2610.11631,6,9,0
+819,How can researchers evaluate convolutional neural networks?,https://arxiv.org/pdf/2610.11742,2,10,0
+820,How can researchers evaluate game theory equilibria?,https://arxiv.org/pdf/2609.31897,37,1,0
+821,How can researchers evaluate game theory equilibria?,https://arxiv.org/pdf/2609.31897,58,2,0
+822,How can researchers evaluate game theory equilibria?,https://arxiv.org/pdf/2609.31897,43,3,0
+823,How can researchers evaluate game theory equilibria?,https://arxiv.org/pdf/2609.31897,59,4,0
+824,How can researchers evaluate game theory equilibria?,https://arxiv.org/pdf/2609.31897,80,5,0
+825,How can researchers evaluate game theory equilibria?,https://arxiv.org/pdf/2609.31897,47,6,0
+826,How can researchers evaluate game theory equilibria?,https://arxiv.org/pdf/2609.31897,1,7,0
+827,How can researchers evaluate game theory equilibria?,https://arxiv.org/pdf/2610.00902,213,8,0
+828,How can researchers evaluate game theory equilibria?,https://arxiv.org/pdf/2609.31897,40,9,0
+829,How can researchers evaluate game theory equilibria?,https://arxiv.org/pdf/2609.31897,66,10,0
+830,What are the main limitations of regression analysis?,https://arxiv.org/pdf/2610.10266,10,1,0
+831,What are the main limitations of regression analysis?,https://arxiv.org/pdf/2610.09722,3,2,0
+832,What are the main limitations of regression analysis?,https://arxiv.org/pdf/2610.09722,9,3,0
+833,What are the main limitations of regression analysis?,https://arxiv.org/pdf/2610.07888,7,4,0
+834,What are the main limitations of regression analysis?,https://arxiv.org/pdf/2610.09722,2,5,0
+835,What are the main limitations of regression analysis?,https://arxiv.org/pdf/2610.09722,4,6,0
+836,What are the main limitations of regression analysis?,https://arxiv.org/pdf/2610.07888,10,7,0
+837,What are the main limitations of regression analysis?,https://arxiv.org/pdf/2610.07888,29,8,0
+838,What are the main limitations of regression analysis?,https://arxiv.org/pdf/2610.10266,87,9,0
+839,What are the main limitations of regression analysis?,https://arxiv.org/pdf/2610.09722,5,10,0
+840,How can researchers evaluate cryptographic hash functions?,https://arxiv.org/pdf/2604.16669,6,1,0
+841,How can researchers evaluate cryptographic hash functions?,https://arxiv.org/pdf/2607.13845,30,2,0
+842,How can researchers evaluate cryptographic hash functions?,https://arxiv.org/pdf/2607.16648,71,3,0
+843,How can researchers evaluate cryptographic hash functions?,https://arxiv.org/pdf/2607.16648,18,4,0
+844,How can researchers evaluate cryptographic hash functions?,https://arxiv.org/pdf/2607.16648,16,5,0
+845,How can researchers evaluate cryptographic hash functions?,https://arxiv.org/pdf/2604.16669,4,6,0
+846,How can researchers evaluate cryptographic hash functions?,https://arxiv.org/pdf/2604.16669,18,7,0
+847,How can researchers evaluate cryptographic hash functions?,https://arxiv.org/pdf/2604.16669,1,8,0
+848,How can researchers evaluate cryptographic hash functions?,https://arxiv.org/pdf/2604.16669,2,9,0
+849,How can researchers evaluate cryptographic hash functions?,https://arxiv.org/pdf/2607.16648,49,10,0
+850,What are the main limitations of electromagnetic induction?,https://arxiv.org/pdf/2609.31728,29,1,0
+851,What are the main limitations of electromagnetic induction?,https://arxiv.org/pdf/2610.09069,1,2,0
+852,What are the main limitations of electromagnetic induction?,https://arxiv.org/pdf/2610.09069,12,3,0
+853,What are the main limitations of electromagnetic induction?,https://arxiv.org/pdf/2609.26224,52,4,0
+854,What are the main limitations of electromagnetic induction?,https://arxiv.org/pdf/2609.31728,3,5,0
+855,What are the main limitations of electromagnetic induction?,https://arxiv.org/pdf/2610.09069,5,6,0
+856,What are the main limitations of electromagnetic induction?,https://arxiv.org/pdf/2609.26224,1,7,0
+857,What are the main limitations of electromagnetic induction?,https://arxiv.org/pdf/2610.09069,21,8,0
+858,What are the main limitations of electromagnetic induction?,https://arxiv.org/pdf/2609.05786,90,9,0
+859,What are the main limitations of electromagnetic induction?,https://arxiv.org/pdf/2609.31728,28,10,0
+860,How does operating system scheduling work?,https://arxiv.org/pdf/2610.09243,140,1,0
+861,How does operating system scheduling work?,https://arxiv.org/pdf/2610.09243,139,2,0
+862,How does operating system scheduling work?,https://arxiv.org/pdf/2610.09243,264,3,0
+863,How does operating system scheduling work?,https://arxiv.org/pdf/2610.09243,138,4,0
+864,How does operating system scheduling work?,https://arxiv.org/pdf/2610.04861,6,5,0
+865,How does operating system scheduling work?,https://arxiv.org/pdf/2610.04861,34,6,0
+866,How does operating system scheduling work?,https://arxiv.org/pdf/2610.04861,4,7,0
+867,How does operating system scheduling work?,https://arxiv.org/pdf/2610.04861,5,8,0
+868,How does operating system scheduling work?,https://arxiv.org/pdf/2610.04861,20,9,0
+869,How does operating system scheduling work?,https://arxiv.org/pdf/2609.33592,2,10,0
+870,How does robot motion planning work?,https://arxiv.org/pdf/2610.02469,27,1,1
+871,How does robot motion planning work?,https://arxiv.org/pdf/2609.31099,14,2,0
+872,How does robot motion planning work?,https://arxiv.org/pdf/2609.32806,1,3,1
+873,How does robot motion planning work?,https://arxiv.org/pdf/2609.30644,7,4,1
+874,How does robot motion planning work?,https://arxiv.org/pdf/2609.32354,1,5,1
+875,How does robot motion planning work?,https://arxiv.org/pdf/2609.32354,2,6,1
+876,How does robot motion planning work?,https://arxiv.org/pdf/2609.32354,8,7,1
+877,How does robot motion planning work?,https://arxiv.org/pdf/2609.31099,3,8,0
+878,How does robot motion planning work?,https://arxiv.org/pdf/2610.02469,26,9,1
+879,How does robot motion planning work?,https://arxiv.org/pdf/2609.31099,74,10,0
+880,Why does a rainbow form?,https://arxiv.org/pdf/2603.15629,2,1,0
+881,Why does a rainbow form?,https://arxiv.org/pdf/2603.15629,14,2,1
+882,Why does a rainbow form?,https://arxiv.org/pdf/2603.15629,1,3,0
+883,Why does a rainbow form?,https://arxiv.org/pdf/2603.15629,3,4,0
+884,Why does a rainbow form?,https://arxiv.org/pdf/2603.15629,19,5,0
+885,Why does a rainbow form?,https://arxiv.org/pdf/2603.15629,20,6,0
+886,Why does a rainbow form?,https://arxiv.org/pdf/2603.15629,17,7,0
+887,Why does a rainbow form?,https://arxiv.org/pdf/2603.15629,4,8,0
+888,Why does a rainbow form?,https://arxiv.org/pdf/2603.15629,23,9,0
+889,Why does a rainbow form?,https://arxiv.org/pdf/2512.25046,29,10,0
+890,How does causal inference work?,https://arxiv.org/pdf/2610.08092,2,1,0
+891,How does causal inference work?,https://arxiv.org/pdf/2610.07791,97,2,0
+892,How does causal inference work?,https://arxiv.org/pdf/2610.08092,1,3,0
+893,How does causal inference work?,https://arxiv.org/pdf/2610.08092,46,4,0
+894,How does causal inference work?,https://arxiv.org/pdf/2610.08092,45,5,0
+895,How does causal inference work?,https://arxiv.org/pdf/2610.08689,1,6,0
+896,How does causal inference work?,https://arxiv.org/pdf/2610.11986,13,7,0
+897,How does causal inference work?,https://arxiv.org/pdf/2610.08689,38,8,0
+898,How does causal inference work?,https://arxiv.org/pdf/2610.08092,43,9,0
+899,How does causal inference work?,https://arxiv.org/pdf/2610.08689,3,10,0
+900,How does option pricing models work?,https://arxiv.org/pdf/2610.01187,74,1,0
+901,How does option pricing models work?,https://arxiv.org/pdf/2607.25199,11,2,0
+902,How does option pricing models work?,https://arxiv.org/pdf/2610.01187,6,3,0
+903,How does option pricing models work?,https://arxiv.org/pdf/2610.01187,1,4,0
+904,How does option pricing models work?,https://arxiv.org/pdf/2607.25199,3,5,0
+905,How does option pricing models work?,https://arxiv.org/pdf/2610.01187,7,6,0
+906,How does option pricing models work?,https://arxiv.org/pdf/2610.01187,5,7,0
+907,How does option pricing models work?,https://arxiv.org/pdf/2610.01187,75,8,0
+908,How does option pricing models work?,https://arxiv.org/pdf/2607.25199,6,9,1
+909,How does option pricing models work?,https://arxiv.org/pdf/2610.01187,3,10,0
+910,How can researchers evaluate fluid dynamics?,https://arxiv.org/pdf/2609.32150,4,1,0
+911,How can researchers evaluate fluid dynamics?,https://arxiv.org/pdf/2609.32150,2,2,0
+912,How can researchers evaluate fluid dynamics?,https://arxiv.org/pdf/2609.19750,28,3,0
+913,How can researchers evaluate fluid dynamics?,https://arxiv.org/pdf/2608.01071,6,4,0
+914,How can researchers evaluate fluid dynamics?,https://arxiv.org/pdf/2609.19750,83,5,0
+915,How can researchers evaluate fluid dynamics?,https://arxiv.org/pdf/2608.01071,7,6,0
+916,How can researchers evaluate fluid dynamics?,https://arxiv.org/pdf/2609.19750,52,7,0
+917,How can researchers evaluate fluid dynamics?,https://arxiv.org/pdf/2608.01071,60,8,0
+918,How can researchers evaluate fluid dynamics?,https://arxiv.org/pdf/2609.32150,5,9,0
+919,How can researchers evaluate fluid dynamics?,https://arxiv.org/pdf/2608.01071,1,10,0
+920,How can researchers evaluate vector databases?,https://arxiv.org/pdf/2608.12812,3,1,0
+921,How can researchers evaluate vector databases?,https://arxiv.org/pdf/2608.12812,1,2,0
+922,How can researchers evaluate vector databases?,https://arxiv.org/pdf/2608.12812,5,3,0
+923,How can researchers evaluate vector databases?,https://arxiv.org/pdf/2609.05760,12,4,0
+924,How can researchers evaluate vector databases?,https://arxiv.org/pdf/2606.20089,6,5,0
+925,How can researchers evaluate vector databases?,https://arxiv.org/pdf/2608.12812,2,6,0
+926,How can researchers evaluate vector databases?,https://arxiv.org/pdf/2606.20089,5,7,0
+927,How can researchers evaluate vector databases?,https://arxiv.org/pdf/2606.28570,26,8,0
+928,How can researchers evaluate vector databases?,https://arxiv.org/pdf/2606.20089,4,9,0
+929,How can researchers evaluate vector databases?,https://arxiv.org/pdf/2608.12812,20,10,0
+930,How do I train a simple image classifier?,https://arxiv.org/pdf/2610.11374,10,1,0
+931,How do I train a simple image classifier?,https://arxiv.org/pdf/2610.11534,58,2,0
+932,How do I train a simple image classifier?,https://arxiv.org/pdf/2610.11374,11,3,0
+933,How do I train a simple image classifier?,https://arxiv.org/pdf/2610.11534,2,4,0
+934,How do I train a simple image classifier?,https://arxiv.org/pdf/2610.12147,10,5,0
+935,How do I train a simple image classifier?,https://arxiv.org/pdf/2610.12048,47,6,0
+936,How do I train a simple image classifier?,https://arxiv.org/pdf/2610.11374,14,7,0
+937,How do I train a simple image classifier?,https://arxiv.org/pdf/2610.11374,18,8,0
+938,How do I train a simple image classifier?,https://arxiv.org/pdf/2610.11534,29,9,0
+939,How do I train a simple image classifier?,https://arxiv.org/pdf/2610.11374,13,10,0
+940,How can researchers evaluate reinforcement learning?,https://arxiv.org/pdf/2610.10740,2,1,0
+941,How can researchers evaluate reinforcement learning?,https://arxiv.org/pdf/2610.09891,1,2,0
+942,How can researchers evaluate reinforcement learning?,https://arxiv.org/pdf/2610.09408,9,3,0
+943,How can researchers evaluate reinforcement learning?,https://arxiv.org/pdf/2610.09226,93,4,0
+944,How can researchers evaluate reinforcement learning?,https://arxiv.org/pdf/2610.09563,66,5,0
+945,How can researchers evaluate reinforcement learning?,https://arxiv.org/pdf/2610.10740,42,6,0
+946,How can researchers evaluate reinforcement learning?,https://arxiv.org/pdf/2610.09563,70,7,0
+947,How can researchers evaluate reinforcement learning?,https://arxiv.org/pdf/2610.09563,62,8,0
+948,How can researchers evaluate reinforcement learning?,https://arxiv.org/pdf/2610.09563,67,9,0
+949,How can researchers evaluate reinforcement learning?,https://arxiv.org/pdf/2610.10740,47,10,0
+950,How can researchers evaluate thermodynamic entropy?,https://arxiv.org/pdf/2610.04476,8,1,0
+951,How can researchers evaluate thermodynamic entropy?,https://arxiv.org/pdf/2610.08040,2,2,0
+952,How can researchers evaluate thermodynamic entropy?,https://arxiv.org/pdf/2610.04476,2,3,0
+953,How can researchers evaluate thermodynamic entropy?,https://arxiv.org/pdf/2610.06470,5,4,0
+954,How can researchers evaluate thermodynamic entropy?,https://arxiv.org/pdf/2610.04476,7,5,0
+955,How can researchers evaluate thermodynamic entropy?,https://arxiv.org/pdf/2610.05050,1,6,0
+956,How can researchers evaluate thermodynamic entropy?,https://arxiv.org/pdf/2610.11142,1,7,0
+957,How can researchers evaluate thermodynamic entropy?,https://arxiv.org/pdf/2610.11142,21,8,0
+958,How can researchers evaluate thermodynamic entropy?,https://arxiv.org/pdf/2610.08040,42,9,0
+959,How can researchers evaluate thermodynamic entropy?,https://arxiv.org/pdf/2610.11142,6,10,0
+960,How can researchers evaluate causal inference?,https://arxiv.org/pdf/2610.08689,3,1,0
+961,How can researchers evaluate causal inference?,https://arxiv.org/pdf/2610.09558,66,2,0
+962,How can researchers evaluate causal inference?,https://arxiv.org/pdf/2610.08689,1,3,0
+963,How can researchers evaluate causal inference?,https://arxiv.org/pdf/2610.09558,11,4,0
+964,How can researchers evaluate causal inference?,https://arxiv.org/pdf/2610.09558,3,5,0
+965,How can researchers evaluate causal inference?,https://arxiv.org/pdf/2610.07780,33,6,0
+966,How can researchers evaluate causal inference?,https://arxiv.org/pdf/2610.09558,67,7,0
+967,How can researchers evaluate causal inference?,https://arxiv.org/pdf/2610.09558,150,8,0
+968,How can researchers evaluate causal inference?,https://arxiv.org/pdf/2610.08689,38,9,0
+969,How can researchers evaluate causal inference?,https://arxiv.org/pdf/2610.09558,15,10,0
+970,How does semiconductor transistors work?,https://arxiv.org/pdf/2610.10953,4,1,0
+971,How does semiconductor transistors work?,https://arxiv.org/pdf/2610.10953,32,2,0
+972,How does semiconductor transistors work?,https://arxiv.org/pdf/2609.39878,2,3,0
+973,How does semiconductor transistors work?,https://arxiv.org/pdf/2610.10953,2,4,0
+974,How does semiconductor transistors work?,https://arxiv.org/pdf/2610.10953,34,5,0
+975,How does semiconductor transistors work?,https://arxiv.org/pdf/2608.27528,2,6,0
+976,How does semiconductor transistors work?,https://arxiv.org/pdf/2609.39878,4,7,0
+977,How does semiconductor transistors work?,https://arxiv.org/pdf/2610.10953,31,8,0
+978,How does semiconductor transistors work?,https://arxiv.org/pdf/2609.27464,36,9,1
+979,How does semiconductor transistors work?,https://arxiv.org/pdf/2610.10953,33,10,0
+980,How do I write a Python loop?,https://arxiv.org/pdf/2610.03466,52,1,0
+981,How do I write a Python loop?,https://arxiv.org/pdf/2609.26952,10,2,0
+982,How do I write a Python loop?,https://arxiv.org/pdf/2610.08023,13,3,0
+983,How do I write a Python loop?,https://arxiv.org/pdf/2610.08023,102,4,0
+984,How do I write a Python loop?,https://arxiv.org/pdf/2609.13459,34,5,0
+985,How do I write a Python loop?,https://arxiv.org/pdf/2609.26952,1,6,0
+986,How do I write a Python loop?,https://arxiv.org/pdf/2609.13459,27,7,0
+987,How do I write a Python loop?,https://arxiv.org/pdf/2609.13459,31,8,0
+988,How do I write a Python loop?,https://arxiv.org/pdf/2609.26952,6,9,0
+989,How do I write a Python loop?,https://arxiv.org/pdf/2610.08023,22,10,0
+990,What are the main limitations of robot motion planning?,https://arxiv.org/pdf/2610.07784,34,1,0
+991,What are the main limitations of robot motion planning?,https://arxiv.org/pdf/2610.04612,8,2,0
+992,What are the main limitations of robot motion planning?,https://arxiv.org/pdf/2610.07784,1,3,1
+993,What are the main limitations of robot motion planning?,https://arxiv.org/pdf/2610.06641,21,4,0
+994,What are the main limitations of robot motion planning?,https://arxiv.org/pdf/2610.06863,1,5,0
+995,What are the main limitations of robot motion planning?,https://arxiv.org/pdf/2610.07784,2,6,1
+996,What are the main limitations of robot motion planning?,https://arxiv.org/pdf/2610.06641,20,7,0
+997,What are the main limitations of robot motion planning?,https://arxiv.org/pdf/2610.07784,3,8,0
+998,What are the main limitations of robot motion planning?,https://arxiv.org/pdf/2610.06641,3,9,0
+999,What are the main limitations of robot motion planning?,https://arxiv.org/pdf/2610.07784,28,10,0
+1000,How can researchers evaluate quantum entanglement?,https://arxiv.org/pdf/2610.11094,2,1,0
+1001,How can researchers evaluate quantum entanglement?,https://arxiv.org/pdf/2610.12148,69,2,0
+1002,How can researchers evaluate quantum entanglement?,https://arxiv.org/pdf/2610.11094,32,3,0
+1003,How can researchers evaluate quantum entanglement?,https://arxiv.org/pdf/2610.11094,12,4,0
+1004,How can researchers evaluate quantum entanglement?,https://arxiv.org/pdf/2610.11629,5,5,0
+1005,How can researchers evaluate quantum entanglement?,https://arxiv.org/pdf/2610.11629,3,6,0
+1006,How can researchers evaluate quantum entanglement?,https://arxiv.org/pdf/2610.11094,33,7,0
+1007,How can researchers evaluate quantum entanglement?,https://arxiv.org/pdf/2610.11629,2,8,0
+1008,How can researchers evaluate quantum entanglement?,https://arxiv.org/pdf/2610.12148,2,9,0
+1009,How can researchers evaluate quantum entanglement?,https://arxiv.org/pdf/2610.11629,7,10,0
+1010,What are the main limitations of software testing strategies?,https://arxiv.org/pdf/2610.11447,9,1,0
+1011,What are the main limitations of software testing strategies?,https://arxiv.org/pdf/2610.11593,5,2,0
+1012,What are the main limitations of software testing strategies?,https://arxiv.org/pdf/2610.10619,10,3,0
+1013,What are the main limitations of software testing strategies?,https://arxiv.org/pdf/2610.11593,9,4,0
+1014,What are the main limitations of software testing strategies?,https://arxiv.org/pdf/2610.11593,4,5,0
+1015,What are the main limitations of software testing strategies?,https://arxiv.org/pdf/2610.10619,32,6,0
+1016,What are the main limitations of software testing strategies?,https://arxiv.org/pdf/2610.10619,2,7,0
+1017,What are the main limitations of software testing strategies?,https://arxiv.org/pdf/2610.11593,6,8,0
+1018,What are the main limitations of software testing strategies?,https://arxiv.org/pdf/2610.11593,56,9,0
+1019,What are the main limitations of software testing strategies?,https://arxiv.org/pdf/2610.10619,122,10,0
+1020,How does gradient descent optimization work?,https://arxiv.org/pdf/2610.06797,17,1,0
+1021,How does gradient descent optimization work?,https://arxiv.org/pdf/2610.03858,39,2,0
+1022,How does gradient descent optimization work?,https://arxiv.org/pdf/2610.03858,79,3,0
+1023,How does gradient descent optimization work?,https://arxiv.org/pdf/2610.03858,103,4,0
+1024,How does gradient descent optimization work?,https://arxiv.org/pdf/2610.06797,43,5,0
+1025,How does gradient descent optimization work?,https://arxiv.org/pdf/2610.06797,62,6,0
+1026,How does gradient descent optimization work?,https://arxiv.org/pdf/2610.06797,1,7,0
+1027,How does gradient descent optimization work?,https://arxiv.org/pdf/2610.03858,72,8,0
+1028,How does gradient descent optimization work?,https://arxiv.org/pdf/2610.02798,15,9,0
+1029,How does gradient descent optimization work?,https://arxiv.org/pdf/2610.03858,41,10,0
+1030,How can researchers evaluate electromagnetic induction?,https://arxiv.org/pdf/2608.07136,19,1,0
+1031,How can researchers evaluate electromagnetic induction?,https://arxiv.org/pdf/2610.09069,17,2,0
+1032,How can researchers evaluate electromagnetic induction?,https://arxiv.org/pdf/2610.09069,5,3,0
+1033,How can researchers evaluate electromagnetic induction?,https://arxiv.org/pdf/2609.26221,56,4,0
+1034,How can researchers evaluate electromagnetic induction?,https://arxiv.org/pdf/2610.09069,4,5,0
+1035,How can researchers evaluate electromagnetic induction?,https://arxiv.org/pdf/2608.01945,89,6,0
+1036,How can researchers evaluate electromagnetic induction?,https://arxiv.org/pdf/2608.01945,57,7,0
+1037,How can researchers evaluate electromagnetic induction?,https://arxiv.org/pdf/2608.01945,8,8,0
+1038,How can researchers evaluate electromagnetic induction?,https://arxiv.org/pdf/2608.01945,9,9,0
+1039,How can researchers evaluate electromagnetic induction?,https://arxiv.org/pdf/2608.01945,4,10,0
+1040,How can researchers evaluate time series forecasting?,https://arxiv.org/pdf/2610.11164,9,1,1
+1041,How can researchers evaluate time series forecasting?,https://arxiv.org/pdf/2610.04517,36,2,1
+1042,How can researchers evaluate time series forecasting?,https://arxiv.org/pdf/2610.12148,27,3,1
+1043,How can researchers evaluate time series forecasting?,https://arxiv.org/pdf/2610.10727,16,4,1
+1044,How can researchers evaluate time series forecasting?,https://arxiv.org/pdf/2610.11164,55,5,1
+1045,How can researchers evaluate time series forecasting?,https://arxiv.org/pdf/2610.11164,2,6,1
+1046,How can researchers evaluate time series forecasting?,https://arxiv.org/pdf/2610.10727,26,7,0
+1047,How can researchers evaluate time series forecasting?,https://arxiv.org/pdf/2610.11164,26,8,1
+1048,How can researchers evaluate time series forecasting?,https://arxiv.org/pdf/2610.11164,45,9,1
+1049,How can researchers evaluate time series forecasting?,https://arxiv.org/pdf/2610.04517,102,10,0
+1050,How does game theory equilibria work?,https://arxiv.org/pdf/2609.23200,13,1,0
+1051,How does game theory equilibria work?,https://arxiv.org/pdf/2609.23200,1,2,0
+1052,How does game theory equilibria work?,https://arxiv.org/pdf/2609.27285,10,3,0
+1053,How does game theory equilibria work?,https://arxiv.org/pdf/2609.18309,1,4,0
+1054,How does game theory equilibria work?,https://arxiv.org/pdf/2609.27285,82,5,0
+1055,How does game theory equilibria work?,https://arxiv.org/pdf/2609.27285,1,6,0
+1056,How does game theory equilibria work?,https://arxiv.org/pdf/2609.23200,26,7,0
+1057,How does game theory equilibria work?,https://arxiv.org/pdf/2609.27285,6,8,0
+1058,How does game theory equilibria work?,https://arxiv.org/pdf/2610.04086,13,9,1
+1059,How does game theory equilibria work?,https://arxiv.org/pdf/2609.27285,16,10,0
+1060,What are the main limitations of inflation dynamics?,https://arxiv.org/pdf/2609.32865,56,1,0
+1061,What are the main limitations of inflation dynamics?,https://arxiv.org/pdf/2610.10565,1,2,0
+1062,What are the main limitations of inflation dynamics?,https://arxiv.org/pdf/2609.32865,3,3,0
+1063,What are the main limitations of inflation dynamics?,https://arxiv.org/pdf/2609.32865,61,4,0
+1064,What are the main limitations of inflation dynamics?,https://arxiv.org/pdf/2609.32865,5,5,0
+1065,What are the main limitations of inflation dynamics?,https://arxiv.org/pdf/2609.32865,12,6,0
+1066,What are the main limitations of inflation dynamics?,https://arxiv.org/pdf/2609.32865,55,7,0
+1067,What are the main limitations of inflation dynamics?,https://arxiv.org/pdf/2609.27889,37,8,0
+1068,What are the main limitations of inflation dynamics?,https://arxiv.org/pdf/2609.34788,3,9,0
+1069,What are the main limitations of inflation dynamics?,https://arxiv.org/pdf/2609.32865,11,10,0
+1070,How can researchers evaluate compiler optimization?,https://arxiv.org/pdf/2610.11195,6,1,0
+1071,How can researchers evaluate compiler optimization?,https://arxiv.org/pdf/2610.11195,2,2,0
+1072,How can researchers evaluate compiler optimization?,https://arxiv.org/pdf/2610.11195,15,3,0
+1073,How can researchers evaluate compiler optimization?,https://arxiv.org/pdf/2610.11195,5,4,0
+1074,How can researchers evaluate compiler optimization?,https://arxiv.org/pdf/2610.11195,18,5,0
+1075,How can researchers evaluate compiler optimization?,https://arxiv.org/pdf/2609.12457,2,6,0
+1076,How can researchers evaluate compiler optimization?,https://arxiv.org/pdf/2610.11195,42,7,0
+1077,How can researchers evaluate compiler optimization?,https://arxiv.org/pdf/2610.11195,3,8,0
+1078,How can researchers evaluate compiler optimization?,https://arxiv.org/pdf/2609.12457,109,9,0
+1079,How can researchers evaluate compiler optimization?,https://arxiv.org/pdf/2610.11195,30,10,0
+1080,How does inflation dynamics work?,https://arxiv.org/pdf/2610.10565,9,1,0
+1081,How does inflation dynamics work?,https://arxiv.org/pdf/2610.10693,1,2,0
+1082,How does inflation dynamics work?,https://arxiv.org/pdf/2610.10565,1,3,0
+1083,How does inflation dynamics work?,https://arxiv.org/pdf/2610.10693,20,4,0
+1084,How does inflation dynamics work?,https://arxiv.org/pdf/2610.10565,3,5,0
+1085,How does inflation dynamics work?,https://arxiv.org/pdf/2610.11649,5,6,0
+1086,How does inflation dynamics work?,https://arxiv.org/pdf/2610.10565,38,7,0
+1087,How does inflation dynamics work?,https://arxiv.org/pdf/2610.10693,7,8,0
+1088,How does inflation dynamics work?,https://arxiv.org/pdf/2610.10565,45,9,0
+1089,How does inflation dynamics work?,https://arxiv.org/pdf/2610.11649,4,10,0
+1090,How can researchers evaluate numerical linear algebra?,https://arxiv.org/pdf/2609.40344,19,1,0
+1091,How can researchers evaluate numerical linear algebra?,https://arxiv.org/pdf/2609.37207,107,2,0
+1092,How can researchers evaluate numerical linear algebra?,https://arxiv.org/pdf/2610.00297,60,3,0
+1093,How can researchers evaluate numerical linear algebra?,https://arxiv.org/pdf/2609.40344,10,4,0
+1094,How can researchers evaluate numerical linear algebra?,https://arxiv.org/pdf/2610.00297,43,5,0
+1095,How can researchers evaluate numerical linear algebra?,https://arxiv.org/pdf/2609.40344,61,6,0
+1096,How can researchers evaluate numerical linear algebra?,https://arxiv.org/pdf/2609.37746,13,7,0
+1097,How can researchers evaluate numerical linear algebra?,https://arxiv.org/pdf/2610.00297,6,8,0
+1098,How can researchers evaluate numerical linear algebra?,https://arxiv.org/pdf/2609.40344,2,9,0
+1099,How can researchers evaluate numerical linear algebra?,https://arxiv.org/pdf/2609.28509,2,10,0
+1100,What are the main limitations of market efficiency?,https://arxiv.org/pdf/2609.33058,55,1,0
+1101,What are the main limitations of market efficiency?,https://arxiv.org/pdf/2609.29615,39,2,0
+1102,What are the main limitations of market efficiency?,https://arxiv.org/pdf/2609.33058,26,3,0
+1103,What are the main limitations of market efficiency?,https://arxiv.org/pdf/2609.33058,18,4,0
+1104,What are the main limitations of market efficiency?,https://arxiv.org/pdf/2609.33058,12,5,0
+1105,What are the main limitations of market efficiency?,https://arxiv.org/pdf/2609.35867,34,6,0
+1106,What are the main limitations of market efficiency?,https://arxiv.org/pdf/2609.33058,25,7,0
+1107,What are the main limitations of market efficiency?,https://arxiv.org/pdf/2609.33058,69,8,0
+1108,What are the main limitations of market efficiency?,https://arxiv.org/pdf/2609.33058,75,9,0
+1109,What are the main limitations of market efficiency?,https://arxiv.org/pdf/2609.33058,83,10,0
+1110,What are the main limitations of database indexing?,https://arxiv.org/pdf/2610.09414,34,1,0
+1111,What are the main limitations of database indexing?,https://arxiv.org/pdf/2610.09414,6,2,0
+1112,What are the main limitations of database indexing?,https://arxiv.org/pdf/2610.09414,57,3,0
+1113,What are the main limitations of database indexing?,https://arxiv.org/pdf/2610.11230,8,4,0
+1114,What are the main limitations of database indexing?,https://arxiv.org/pdf/2610.09414,2,5,0
+1115,What are the main limitations of database indexing?,https://arxiv.org/pdf/2610.09414,18,6,0
+1116,What are the main limitations of database indexing?,https://arxiv.org/pdf/2610.09414,35,7,0
+1117,What are the main limitations of database indexing?,https://arxiv.org/pdf/2610.09414,9,8,0
+1118,What are the main limitations of database indexing?,https://arxiv.org/pdf/2610.11230,5,9,0
+1119,What are the main limitations of database indexing?,https://arxiv.org/pdf/2610.07108,2,10,0
+1120,How can researchers evaluate Monte Carlo simulation?,https://arxiv.org/pdf/2610.09749,26,1,0
+1121,How can researchers evaluate Monte Carlo simulation?,https://arxiv.org/pdf/2610.11343,39,2,0
+1122,How can researchers evaluate Monte Carlo simulation?,https://arxiv.org/pdf/2610.10531,24,3,0
+1123,How can researchers evaluate Monte Carlo simulation?,https://arxiv.org/pdf/2610.11343,26,4,0
+1124,How can researchers evaluate Monte Carlo simulation?,https://arxiv.org/pdf/2610.12003,6,5,0
+1125,How can researchers evaluate Monte Carlo simulation?,https://arxiv.org/pdf/2610.09749,31,6,0
+1126,How can researchers evaluate Monte Carlo simulation?,https://arxiv.org/pdf/2610.10531,4,7,0
+1127,How can researchers evaluate Monte Carlo simulation?,https://arxiv.org/pdf/2610.11343,35,8,0
+1128,How can researchers evaluate Monte Carlo simulation?,https://arxiv.org/pdf/2610.12003,1,9,0
+1129,How can researchers evaluate Monte Carlo simulation?,https://arxiv.org/pdf/2610.11343,1,10,0
+1130,How can researchers evaluate gradient descent optimization?,https://arxiv.org/pdf/2610.06329,16,1,0
+1131,How can researchers evaluate gradient descent optimization?,https://arxiv.org/pdf/2610.11515,38,2,1
+1132,How can researchers evaluate gradient descent optimization?,https://arxiv.org/pdf/2610.06329,2,3,0
+1133,How can researchers evaluate gradient descent optimization?,https://arxiv.org/pdf/2610.11515,39,4,0
+1134,How can researchers evaluate gradient descent optimization?,https://arxiv.org/pdf/2610.11515,1,5,1
+1135,How can researchers evaluate gradient descent optimization?,https://arxiv.org/pdf/2610.06329,6,6,0
+1136,How can researchers evaluate gradient descent optimization?,https://arxiv.org/pdf/2610.07515,5,7,0
+1137,How can researchers evaluate gradient descent optimization?,https://arxiv.org/pdf/2610.05517,47,8,0
+1138,How can researchers evaluate gradient descent optimization?,https://arxiv.org/pdf/2610.11515,12,9,0
+1139,How can researchers evaluate gradient descent optimization?,https://arxiv.org/pdf/2610.11515,37,10,1
+1140,How can researchers evaluate control systems stability?,https://arxiv.org/pdf/2610.03041,136,1,0
+1141,How can researchers evaluate control systems stability?,https://arxiv.org/pdf/2610.09988,1,2,0
+1142,How can researchers evaluate control systems stability?,https://arxiv.org/pdf/2610.03041,1,3,0
+1143,How can researchers evaluate control systems stability?,https://arxiv.org/pdf/2610.03041,8,4,0
+1144,How can researchers evaluate control systems stability?,https://arxiv.org/pdf/2610.08793,20,5,0
+1145,How can researchers evaluate control systems stability?,https://arxiv.org/pdf/2610.08793,5,6,0
+1146,How can researchers evaluate control systems stability?,https://arxiv.org/pdf/2610.09988,45,7,0
+1147,How can researchers evaluate control systems stability?,https://arxiv.org/pdf/2610.09988,46,8,0
+1148,How can researchers evaluate control systems stability?,https://arxiv.org/pdf/2610.08793,27,9,0
+1149,How can researchers evaluate control systems stability?,https://arxiv.org/pdf/2610.09988,44,10,0
+1150,What are the main limitations of Monte Carlo simulation?,https://arxiv.org/pdf/2610.09204,2,1,0
+1151,What are the main limitations of Monte Carlo simulation?,https://arxiv.org/pdf/2610.10983,5,2,0
+1152,What are the main limitations of Monte Carlo simulation?,https://arxiv.org/pdf/2610.09848,12,3,0
+1153,What are the main limitations of Monte Carlo simulation?,https://arxiv.org/pdf/2610.09848,52,4,0
+1154,What are the main limitations of Monte Carlo simulation?,https://arxiv.org/pdf/2610.09204,59,5,0
+1155,What are the main limitations of Monte Carlo simulation?,https://arxiv.org/pdf/2610.10605,11,6,0
+1156,What are the main limitations of Monte Carlo simulation?,https://arxiv.org/pdf/2610.10983,2,7,0
+1157,What are the main limitations of Monte Carlo simulation?,https://arxiv.org/pdf/2610.09204,15,8,0
+1158,What are the main limitations of Monte Carlo simulation?,https://arxiv.org/pdf/2610.09848,11,9,0
+1159,What are the main limitations of Monte Carlo simulation?,https://arxiv.org/pdf/2610.10983,1,10,0
+1160,How can researchers evaluate graph neural networks?,https://arxiv.org/pdf/2610.12039,79,1,1
+1161,How can researchers evaluate graph neural networks?,https://arxiv.org/pdf/2610.12119,11,2,0
+1162,How can researchers evaluate graph neural networks?,https://arxiv.org/pdf/2610.12039,82,3,0
+1163,How can researchers evaluate graph neural networks?,https://arxiv.org/pdf/2610.12039,1,4,0
+1164,How can researchers evaluate graph neural networks?,https://arxiv.org/pdf/2610.12151,25,5,0
+1165,How can researchers evaluate graph neural networks?,https://arxiv.org/pdf/2610.12151,96,6,0
+1166,How can researchers evaluate graph neural networks?,https://arxiv.org/pdf/2610.12039,2,7,0
+1167,How can researchers evaluate graph neural networks?,https://arxiv.org/pdf/2610.12039,83,8,0
+1168,How can researchers evaluate graph neural networks?,https://arxiv.org/pdf/2610.12039,80,9,0
+1169,How can researchers evaluate graph neural networks?,https://arxiv.org/pdf/2610.11022,8,10,0
+1170,How can researchers evaluate Bayesian inference?,https://arxiv.org/pdf/2610.09214,1,1,1
+1171,How can researchers evaluate Bayesian inference?,https://arxiv.org/pdf/2610.12213,39,2,0
+1172,How can researchers evaluate Bayesian inference?,https://arxiv.org/pdf/2610.12213,31,3,0
+1173,How can researchers evaluate Bayesian inference?,https://arxiv.org/pdf/2610.11116,30,4,0
+1174,How can researchers evaluate Bayesian inference?,https://arxiv.org/pdf/2610.11116,8,5,0
+1175,How can researchers evaluate Bayesian inference?,https://arxiv.org/pdf/2610.11343,9,6,0
+1176,How can researchers evaluate Bayesian inference?,https://arxiv.org/pdf/2610.11116,6,7,0
+1177,How can researchers evaluate Bayesian inference?,https://arxiv.org/pdf/2610.11343,40,8,0
+1178,How can researchers evaluate Bayesian inference?,https://arxiv.org/pdf/2610.09214,4,9,1
+1179,How can researchers evaluate Bayesian inference?,https://arxiv.org/pdf/2610.11343,1,10,0
+1180,How does an electric motor work?,https://arxiv.org/pdf/2210.05765,4,1,0
+1181,How does an electric motor work?,https://arxiv.org/pdf/2109.11113,3,2,0
+1182,How does an electric motor work?,https://arxiv.org/pdf/2210.05765,8,3,0
+1183,How does an electric motor work?,https://arxiv.org/pdf/2109.11113,2,4,1
+1184,How does an electric motor work?,https://arxiv.org/pdf/2109.11113,1,5,0
+1185,How does an electric motor work?,https://arxiv.org/pdf/2210.05765,17,6,1
+1186,How does an electric motor work?,https://arxiv.org/pdf/2112.13984,13,7,0
+1187,How does an electric motor work?,https://arxiv.org/pdf/2210.05765,2,8,0
+1188,How does an electric motor work?,https://arxiv.org/pdf/2210.05765,16,9,0
+1189,How does an electric motor work?,https://arxiv.org/pdf/2505.05726,2,10,0
+1190,What are the main limitations of compiler optimization?,https://arxiv.org/pdf/2610.03571,51,1,0
+1191,What are the main limitations of compiler optimization?,https://arxiv.org/pdf/2610.03571,2,2,0
+1192,What are the main limitations of compiler optimization?,https://arxiv.org/pdf/2609.38601,9,3,0
+1193,What are the main limitations of compiler optimization?,https://arxiv.org/pdf/2610.02624,15,4,0
+1194,What are the main limitations of compiler optimization?,https://arxiv.org/pdf/2610.03571,29,5,0
+1195,What are the main limitations of compiler optimization?,https://arxiv.org/pdf/2610.03571,48,6,0
+1196,What are the main limitations of compiler optimization?,https://arxiv.org/pdf/2610.03571,46,7,0
+1197,What are the main limitations of compiler optimization?,https://arxiv.org/pdf/2609.38601,2,8,0
+1198,What are the main limitations of compiler optimization?,https://arxiv.org/pdf/2610.02624,114,9,0
+1199,What are the main limitations of compiler optimization?,https://arxiv.org/pdf/2610.03571,63,10,0
+1200,How does general relativity work?,https://arxiv.org/pdf/2609.38292,22,1,0
+1201,How does general relativity work?,https://arxiv.org/pdf/2609.12279,23,2,0
+1202,How does general relativity work?,https://arxiv.org/pdf/2609.38292,27,3,0
+1203,How does general relativity work?,https://arxiv.org/pdf/2609.11570,58,4,0
+1204,How does general relativity work?,https://arxiv.org/pdf/2609.12279,18,5,0
+1205,How does general relativity work?,https://arxiv.org/pdf/2609.11570,3,6,0
+1206,How does general relativity work?,https://arxiv.org/pdf/2609.38292,8,7,0
+1207,How does general relativity work?,https://arxiv.org/pdf/2609.12279,25,8,0
+1208,How does general relativity work?,https://arxiv.org/pdf/2609.38292,28,9,0
+1209,How does general relativity work?,https://arxiv.org/pdf/2609.11570,57,10,1
+1210,What are the main limitations of convolutional neural networks?,https://arxiv.org/pdf/2610.12141,1,1,1
+1211,What are the main limitations of convolutional neural networks?,https://arxiv.org/pdf/2610.11117,5,2,0
+1212,What are the main limitations of convolutional neural networks?,https://arxiv.org/pdf/2610.11571,17,3,0
+1213,What are the main limitations of convolutional neural networks?,https://arxiv.org/pdf/2610.12141,51,4,1
+1214,What are the main limitations of convolutional neural networks?,https://arxiv.org/pdf/2610.12147,1,5,0
+1215,What are the main limitations of convolutional neural networks?,https://arxiv.org/pdf/2610.11117,1,6,0
+1216,What are the main limitations of convolutional neural networks?,https://arxiv.org/pdf/2610.12141,8,7,0
+1217,What are the main limitations of convolutional neural networks?,https://arxiv.org/pdf/2610.11117,4,8,0
+1218,What are the main limitations of convolutional neural networks?,https://arxiv.org/pdf/2610.11571,51,9,0
+1219,What are the main limitations of convolutional neural networks?,https://arxiv.org/pdf/2610.11117,45,10,0
+1220,What are the main limitations of computational complexity?,https://arxiv.org/pdf/2610.12151,4,1,0
+1221,What are the main limitations of computational complexity?,https://arxiv.org/pdf/2610.12151,2,2,0
+1222,What are the main limitations of computational complexity?,https://arxiv.org/pdf/2610.12438,7,3,0
+1223,What are the main limitations of computational complexity?,https://arxiv.org/pdf/2610.12247,6,4,0
+1224,What are the main limitations of computational complexity?,https://arxiv.org/pdf/2610.11894,2,5,0
+1225,What are the main limitations of computational complexity?,https://arxiv.org/pdf/2610.12438,114,6,0
+1226,What are the main limitations of computational complexity?,https://arxiv.org/pdf/2610.12438,6,7,0
+1227,What are the main limitations of computational complexity?,https://arxiv.org/pdf/2610.11894,50,8,0
+1228,What are the main limitations of computational complexity?,https://arxiv.org/pdf/2610.12151,3,9,0
+1229,What are the main limitations of computational complexity?,https://arxiv.org/pdf/2610.12400,2,10,0
+1230,How can researchers evaluate regression analysis?,https://arxiv.org/pdf/2610.10276,13,1,0
+1231,How can researchers evaluate regression analysis?,https://arxiv.org/pdf/2610.10276,31,2,0
+1232,How can researchers evaluate regression analysis?,https://arxiv.org/pdf/2610.11146,2,3,0
+1233,How can researchers evaluate regression analysis?,https://arxiv.org/pdf/2610.11781,43,4,0
+1234,How can researchers evaluate regression analysis?,https://arxiv.org/pdf/2610.11781,45,5,0
+1235,How can researchers evaluate regression analysis?,https://arxiv.org/pdf/2610.10276,30,6,0
+1236,How can researchers evaluate regression analysis?,https://arxiv.org/pdf/2610.11146,30,7,0
+1237,How can researchers evaluate regression analysis?,https://arxiv.org/pdf/2610.11049,25,8,0
+1238,How can researchers evaluate regression analysis?,https://arxiv.org/pdf/2610.10276,26,9,0
+1239,How can researchers evaluate regression analysis?,https://arxiv.org/pdf/2610.10815,2,10,0
+1240,What are the main limitations of fluid dynamics?,https://arxiv.org/pdf/2609.39962,3,1,1
+1241,What are the main limitations of fluid dynamics?,https://arxiv.org/pdf/2609.39962,4,2,1
+1242,What are the main limitations of fluid dynamics?,https://arxiv.org/pdf/2609.39391,26,3,0
+1243,What are the main limitations of fluid dynamics?,https://arxiv.org/pdf/2609.39962,18,4,1
+1244,What are the main limitations of fluid dynamics?,https://arxiv.org/pdf/2610.00732,11,5,0
+1245,What are the main limitations of fluid dynamics?,https://arxiv.org/pdf/2609.39962,108,6,0
+1246,What are the main limitations of fluid dynamics?,https://arxiv.org/pdf/2610.09432,5,7,0
+1247,What are the main limitations of fluid dynamics?,https://arxiv.org/pdf/2609.39962,37,8,0
+1248,What are the main limitations of fluid dynamics?,https://arxiv.org/pdf/2609.39391,7,9,0
+1249,What are the main limitations of fluid dynamics?,https://arxiv.org/pdf/2609.39962,155,10,1
+1250,How does thermodynamic entropy work?,https://arxiv.org/pdf/2609.13720,20,1,0
+1251,How does thermodynamic entropy work?,https://arxiv.org/pdf/2609.18093,4,2,0
+1252,How does thermodynamic entropy work?,https://arxiv.org/pdf/2609.18093,29,3,0
+1253,How does thermodynamic entropy work?,https://arxiv.org/pdf/2609.18093,6,4,0
+1254,How does thermodynamic entropy work?,https://arxiv.org/pdf/2609.13720,4,5,0
+1255,How does thermodynamic entropy work?,https://arxiv.org/pdf/2609.13720,7,6,0
+1256,How does thermodynamic entropy work?,https://arxiv.org/pdf/2609.18093,26,7,0
+1257,How does thermodynamic entropy work?,https://arxiv.org/pdf/2609.13720,5,8,0
+1258,How does thermodynamic entropy work?,https://arxiv.org/pdf/2609.13720,6,9,0
+1259,How does thermodynamic entropy work?,https://arxiv.org/pdf/2609.18093,19,10,0
+1260,How does retrieval-augmented generation work?,https://arxiv.org/pdf/2610.11899,16,1,0
+1261,How does retrieval-augmented generation work?,https://arxiv.org/pdf/2610.11893,1,2,1
+1262,How does retrieval-augmented generation work?,https://arxiv.org/pdf/2610.11893,52,3,1
+1263,How does retrieval-augmented generation work?,https://arxiv.org/pdf/2610.11899,3,4,0
+1264,How does retrieval-augmented generation work?,https://arxiv.org/pdf/2610.12085,40,5,0
+1265,How does retrieval-augmented generation work?,https://arxiv.org/pdf/2610.11893,51,6,1
+1266,How does retrieval-augmented generation work?,https://arxiv.org/pdf/2610.12415,8,7,0
+1267,How does retrieval-augmented generation work?,https://arxiv.org/pdf/2610.11893,45,8,1
+1268,How does retrieval-augmented generation work?,https://arxiv.org/pdf/2610.11893,20,9,1
+1269,How does retrieval-augmented generation work?,https://arxiv.org/pdf/2610.12312,58,10,0
+1270,What are the main limitations of probability distributions?,https://arxiv.org/pdf/2610.12437,2,1,0
+1271,What are the main limitations of probability distributions?,https://arxiv.org/pdf/2610.11865,3,2,0
+1272,What are the main limitations of probability distributions?,https://arxiv.org/pdf/2610.12174,38,3,0
+1273,What are the main limitations of probability distributions?,https://arxiv.org/pdf/2610.11865,25,4,0
+1274,What are the main limitations of probability distributions?,https://arxiv.org/pdf/2610.12174,26,5,0
+1275,What are the main limitations of probability distributions?,https://arxiv.org/pdf/2610.11865,2,6,0
+1276,What are the main limitations of probability distributions?,https://arxiv.org/pdf/2610.12437,58,7,0
+1277,What are the main limitations of probability distributions?,https://arxiv.org/pdf/2610.11865,4,8,0
+1278,What are the main limitations of probability distributions?,https://arxiv.org/pdf/2610.12437,1,9,0
+1279,What are the main limitations of probability distributions?,https://arxiv.org/pdf/2610.12437,18,10,0
+1280,How can researchers evaluate portfolio optimization?,https://arxiv.org/pdf/2609.21427,24,1,1
+1281,How can researchers evaluate portfolio optimization?,https://arxiv.org/pdf/2609.01811,2,2,0
+1282,How can researchers evaluate portfolio optimization?,https://arxiv.org/pdf/2609.01811,6,3,0
+1283,How can researchers evaluate portfolio optimization?,https://arxiv.org/pdf/2609.21427,14,4,0
+1284,How can researchers evaluate portfolio optimization?,https://arxiv.org/pdf/2609.21427,2,5,1
+1285,How can researchers evaluate portfolio optimization?,https://arxiv.org/pdf/2609.01811,5,6,0
+1286,How can researchers evaluate portfolio optimization?,https://arxiv.org/pdf/2609.07946,14,7,0
+1287,How can researchers evaluate portfolio optimization?,https://arxiv.org/pdf/2609.01811,34,8,0
+1288,How can researchers evaluate portfolio optimization?,https://arxiv.org/pdf/2609.07946,53,9,0
+1289,How can researchers evaluate portfolio optimization?,https://arxiv.org/pdf/2609.21427,3,10,0
+1290,What are the main limitations of reinforcement learning?,https://arxiv.org/pdf/2610.12272,23,1,0
+1291,What are the main limitations of reinforcement learning?,https://arxiv.org/pdf/2610.12470,5,2,0
+1292,What are the main limitations of reinforcement learning?,https://arxiv.org/pdf/2610.12420,1,3,1
+1293,What are the main limitations of reinforcement learning?,https://arxiv.org/pdf/2610.12468,32,4,0
+1294,What are the main limitations of reinforcement learning?,https://arxiv.org/pdf/2610.12420,49,5,1
+1295,What are the main limitations of reinforcement learning?,https://arxiv.org/pdf/2610.12420,2,6,0
+1296,What are the main limitations of reinforcement learning?,https://arxiv.org/pdf/2610.12272,22,7,0
+1297,What are the main limitations of reinforcement learning?,https://arxiv.org/pdf/2610.12420,43,8,1
+1298,What are the main limitations of reinforcement learning?,https://arxiv.org/pdf/2610.12420,50,9,1
+1299,What are the main limitations of reinforcement learning?,https://arxiv.org/pdf/2610.12470,55,10,0
+1300,How can researchers evaluate robot motion planning?,https://arxiv.org/pdf/2610.10748,2,1,0
+1301,How can researchers evaluate robot motion planning?,https://arxiv.org/pdf/2610.09438,5,2,0
+1302,How can researchers evaluate robot motion planning?,https://arxiv.org/pdf/2610.05349,73,3,0
+1303,How can researchers evaluate robot motion planning?,https://arxiv.org/pdf/2610.09438,2,4,0
+1304,How can researchers evaluate robot motion planning?,https://arxiv.org/pdf/2610.05349,34,5,0
+1305,How can researchers evaluate robot motion planning?,https://arxiv.org/pdf/2610.09454,6,6,0
+1306,How can researchers evaluate robot motion planning?,https://arxiv.org/pdf/2610.05349,35,7,0
+1307,How can researchers evaluate robot motion planning?,https://arxiv.org/pdf/2610.05349,2,8,0
+1308,How can researchers evaluate robot motion planning?,https://arxiv.org/pdf/2610.10748,6,9,0
+1309,How can researchers evaluate robot motion planning?,https://arxiv.org/pdf/2610.10748,5,10,0
+1310,How does probability distributions work?,https://arxiv.org/pdf/2610.12115,82,1,0
+1311,How does probability distributions work?,https://arxiv.org/pdf/2610.12115,83,2,0
+1312,How does probability distributions work?,https://arxiv.org/pdf/2610.12115,3,3,0
+1313,How does probability distributions work?,https://arxiv.org/pdf/2610.11967,2,4,0
+1314,How does probability distributions work?,https://arxiv.org/pdf/2610.12174,38,5,0
+1315,How does probability distributions work?,https://arxiv.org/pdf/2610.12115,15,6,0
+1316,How does probability distributions work?,https://arxiv.org/pdf/2610.12115,6,7,0
+1317,How does probability distributions work?,https://arxiv.org/pdf/2610.12115,12,8,0
+1318,How does probability distributions work?,https://arxiv.org/pdf/2610.12174,26,9,0
+1319,How does probability distributions work?,https://arxiv.org/pdf/2610.12174,24,10,0
+1320,How can researchers evaluate graph search algorithms?,https://arxiv.org/pdf/2609.39673,5,1,0
+1321,How can researchers evaluate graph search algorithms?,https://arxiv.org/pdf/2609.39673,124,2,0
+1322,How can researchers evaluate graph search algorithms?,https://arxiv.org/pdf/2609.39673,32,3,0
+1323,How can researchers evaluate graph search algorithms?,https://arxiv.org/pdf/2609.39673,10,4,0
+1324,How can researchers evaluate graph search algorithms?,https://arxiv.org/pdf/2609.39673,73,5,0
+1325,How can researchers evaluate graph search algorithms?,https://arxiv.org/pdf/2609.39673,1,6,0
+1326,How can researchers evaluate graph search algorithms?,https://arxiv.org/pdf/2610.04904,34,7,0
+1327,How can researchers evaluate graph search algorithms?,https://arxiv.org/pdf/2609.39673,37,8,0
+1328,How can researchers evaluate graph search algorithms?,https://arxiv.org/pdf/2610.04904,18,9,0
+1329,How can researchers evaluate graph search algorithms?,https://arxiv.org/pdf/2609.39673,109,10,0
+1330,How does Bayesian inference work?,https://arxiv.org/pdf/2610.09653,4,1,0
+1331,How does Bayesian inference work?,https://arxiv.org/pdf/2610.09653,6,2,0
+1332,How does Bayesian inference work?,https://arxiv.org/pdf/2610.06516,53,3,0
+1333,How does Bayesian inference work?,https://arxiv.org/pdf/2610.11116,30,4,0
+1334,How does Bayesian inference work?,https://arxiv.org/pdf/2610.11116,8,5,0
+1335,How does Bayesian inference work?,https://arxiv.org/pdf/2610.06516,35,6,0
+1336,How does Bayesian inference work?,https://arxiv.org/pdf/2610.09653,5,7,0
+1337,How does Bayesian inference work?,https://arxiv.org/pdf/2610.06516,52,8,0
+1338,How does Bayesian inference work?,https://arxiv.org/pdf/2610.11116,7,9,0
+1339,How does Bayesian inference work?,https://arxiv.org/pdf/2610.11737,1,10,0
+1340,What are the main limitations of Bayesian inference?,https://arxiv.org/pdf/2610.09214,1,1,1
+1341,What are the main limitations of Bayesian inference?,https://arxiv.org/pdf/2610.12076,10,2,0
+1342,What are the main limitations of Bayesian inference?,https://arxiv.org/pdf/2610.09214,4,3,1
+1343,What are the main limitations of Bayesian inference?,https://arxiv.org/pdf/2610.10698,28,4,0
+1344,What are the main limitations of Bayesian inference?,https://arxiv.org/pdf/2610.09214,20,5,1
+1345,What are the main limitations of Bayesian inference?,https://arxiv.org/pdf/2610.12076,3,6,1
+1346,What are the main limitations of Bayesian inference?,https://arxiv.org/pdf/2610.09214,38,7,1
+1347,What are the main limitations of Bayesian inference?,https://arxiv.org/pdf/2610.12076,4,8,0
+1348,What are the main limitations of Bayesian inference?,https://arxiv.org/pdf/2610.12076,38,9,1
+1349,What are the main limitations of Bayesian inference?,https://arxiv.org/pdf/2610.12076,2,10,1
+1350,How can researchers evaluate software testing strategies?,https://arxiv.org/pdf/2610.05001,45,1,0
+1351,How can researchers evaluate software testing strategies?,https://arxiv.org/pdf/2610.05001,5,2,0
+1352,How can researchers evaluate software testing strategies?,https://arxiv.org/pdf/2610.04461,1,3,0
+1353,How can researchers evaluate software testing strategies?,https://arxiv.org/pdf/2610.05001,6,4,0
+1354,How can researchers evaluate software testing strategies?,https://arxiv.org/pdf/2610.05001,2,5,0
+1355,How can researchers evaluate software testing strategies?,https://arxiv.org/pdf/2610.01158,3,6,0
+1356,How can researchers evaluate software testing strategies?,https://arxiv.org/pdf/2610.08405,16,7,0
+1357,How can researchers evaluate software testing strategies?,https://arxiv.org/pdf/2610.08405,4,8,0
+1358,How can researchers evaluate software testing strategies?,https://arxiv.org/pdf/2610.01158,22,9,0
+1359,How can researchers evaluate software testing strategies?,https://arxiv.org/pdf/2610.02995,42,10,0
+1360,What are the main limitations of time series forecasting?,https://arxiv.org/pdf/2610.12240,3,1,1
+1361,What are the main limitations of time series forecasting?,https://arxiv.org/pdf/2610.07430,2,2,0
+1362,What are the main limitations of time series forecasting?,https://arxiv.org/pdf/2610.08363,12,3,0
+1363,What are the main limitations of time series forecasting?,https://arxiv.org/pdf/2610.12240,38,4,1
+1364,What are the main limitations of time series forecasting?,https://arxiv.org/pdf/2610.12240,2,5,1
+1365,What are the main limitations of time series forecasting?,https://arxiv.org/pdf/2610.08363,45,6,0
+1366,What are the main limitations of time series forecasting?,https://arxiv.org/pdf/2610.12240,1,7,1
+1367,What are the main limitations of time series forecasting?,https://arxiv.org/pdf/2610.12240,11,8,1
+1368,What are the main limitations of time series forecasting?,https://arxiv.org/pdf/2610.12240,41,9,1
+1369,What are the main limitations of time series forecasting?,https://arxiv.org/pdf/2610.12240,9,10,1
+1370,How can researchers evaluate semiconductor transistors?,https://arxiv.org/pdf/2605.31206,8,1,0
+1371,How can researchers evaluate semiconductor transistors?,https://arxiv.org/pdf/2607.12707,4,2,0
+1372,How can researchers evaluate semiconductor transistors?,https://arxiv.org/pdf/2609.12184,1,3,1
+1373,How can researchers evaluate semiconductor transistors?,https://arxiv.org/pdf/2607.12707,7,4,0
+1374,How can researchers evaluate semiconductor transistors?,https://arxiv.org/pdf/2609.12184,22,5,1
+1375,How can researchers evaluate semiconductor transistors?,https://arxiv.org/pdf/2605.31206,4,6,0
+1376,How can researchers evaluate semiconductor transistors?,https://arxiv.org/pdf/2607.12707,2,7,0
+1377,How can researchers evaluate semiconductor transistors?,https://arxiv.org/pdf/2609.12184,21,8,1
+1378,How can researchers evaluate semiconductor transistors?,https://arxiv.org/pdf/2605.31206,2,9,0
+1379,How can researchers evaluate semiconductor transistors?,https://arxiv.org/pdf/2609.12184,2,10,1
+1380,How does numerical linear algebra work?,https://arxiv.org/pdf/2610.06678,15,1,0
+1381,How does numerical linear algebra work?,https://arxiv.org/pdf/2610.04431,16,2,0
+1382,How does numerical linear algebra work?,https://arxiv.org/pdf/2610.04431,4,3,0
+1383,How does numerical linear algebra work?,https://arxiv.org/pdf/2610.06678,13,4,0
+1384,How does numerical linear algebra work?,https://arxiv.org/pdf/2610.04431,50,5,0
+1385,How does numerical linear algebra work?,https://arxiv.org/pdf/2610.04431,10,6,0
+1386,How does numerical linear algebra work?,https://arxiv.org/pdf/2610.04431,18,7,0
+1387,How does numerical linear algebra work?,https://arxiv.org/pdf/2610.06678,2,8,0
+1388,How does numerical linear algebra work?,https://arxiv.org/pdf/2610.06678,18,9,0
+1389,How does numerical linear algebra work?,https://arxiv.org/pdf/2610.04431,11,10,0
+1390,How does reinforcement learning work?,https://arxiv.org/pdf/2610.12272,23,1,0
+1391,How does reinforcement learning work?,https://arxiv.org/pdf/2610.12403,7,2,0
+1392,How does reinforcement learning work?,https://arxiv.org/pdf/2610.11546,83,3,1
+1393,How does reinforcement learning work?,https://arxiv.org/pdf/2610.12403,38,4,0
+1394,How does reinforcement learning work?,https://arxiv.org/pdf/2610.11546,84,5,0
+1395,How does reinforcement learning work?,https://arxiv.org/pdf/2610.11546,78,6,0
+1396,How does reinforcement learning work?,https://arxiv.org/pdf/2610.11546,1,7,0
+1397,How does reinforcement learning work?,https://arxiv.org/pdf/2610.11546,7,8,0
+1398,How does reinforcement learning work?,https://arxiv.org/pdf/2610.12403,41,9,0
+1399,How does reinforcement learning work?,https://arxiv.org/pdf/2610.12403,9,10,0
+1400,How does Monte Carlo simulation work?,https://arxiv.org/pdf/2610.08799,33,1,0
+1401,How does Monte Carlo simulation work?,https://arxiv.org/pdf/2610.09848,52,2,0
+1402,How does Monte Carlo simulation work?,https://arxiv.org/pdf/2610.09190,3,3,0
+1403,How does Monte Carlo simulation work?,https://arxiv.org/pdf/2610.08799,32,4,0
+1404,How does Monte Carlo simulation work?,https://arxiv.org/pdf/2610.08652,54,5,1
+1405,How does Monte Carlo simulation work?,https://arxiv.org/pdf/2610.08652,1,6,1
+1406,How does Monte Carlo simulation work?,https://arxiv.org/pdf/2610.08652,188,7,0
+1407,How does Monte Carlo simulation work?,https://arxiv.org/pdf/2610.09190,6,8,0
+1408,How does Monte Carlo simulation work?,https://arxiv.org/pdf/2610.08652,2,9,0
+1409,How does Monte Carlo simulation work?,https://arxiv.org/pdf/2610.08652,6,10,0

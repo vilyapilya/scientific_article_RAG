@@ -1,0 +1,301 @@
+,question,label,source,difficulty,topic,qwen_prediction,qwen_latency
+0,What are the main limitations of economic growth models?,arxiv,synthetic,easy,economics,arxiv,5.5197158340597525
+1,What are some practical tips for a neighborhood barbecue?,not_valid,synthetic,easy,everyday,not_valid,4.303891042014584
+2,What are the main limitations of operating system scheduling?,arxiv,synthetic,easy,computer science,arxiv,3.548985542031005
+3,How can researchers evaluate optical interference?,arxiv,synthetic,easy,physics,arxiv,4.300589457969181
+4,How can researchers evaluate SQL query optimization?,arxiv,synthetic,easy,databases,arxiv,4.46945762494579
+5,What is prompt engineering?,arxiv,synthetic,borderline,technical_applied,arxiv,12.853146709036082
+6,What should I prepare for a yoga session?,not_valid,synthetic,easy,everyday,not_valid,4.8472400000318885
+7,What should I prepare for a birthday party?,not_valid,synthetic,easy,everyday,not_valid,2.7547987499274313
+8,What are the main limitations of gradient descent optimization?,arxiv,synthetic,easy,mathematics,arxiv,4.026557334000245
+9,What should I prepare for a concert visit?,not_valid,synthetic,easy,everyday,not_valid,2.904626667033881
+10,How does database indexing work?,arxiv,synthetic,easy,databases,arxiv,2.6875999580370262
+11,What are fun decorations for a robot-themed birthday party?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,3.3866460419958457
+12,What are the main limitations of option pricing models?,arxiv,synthetic,easy,quantitative finance,arxiv,4.085857999976724
+13,Can you suggest a simple plan for a novel discussion?,not_valid,synthetic,easy,everyday,not_valid,5.812159874942154
+14,Can you suggest a simple plan for a photography walk?,not_valid,synthetic,easy,everyday,not_valid,4.538428333005868
+15,Which coffee drink should I order before my physics exam?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,2.6643868329701945
+16,Can you create a dinner menu for an engineering graduation?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,5.818001332925633
+17,How can researchers evaluate operating system scheduling?,arxiv,synthetic,easy,computer science,arxiv,3.6359148329356685
+18,What are some practical tips for a pasta dinner?,not_valid,synthetic,easy,everyday,not_valid,4.984781084000133
+19,What are some practical tips for a living room cleanup?,not_valid,synthetic,easy,everyday,not_valid,2.66300262499135
+20,How can I improve the performance of a database query?,arxiv,synthetic,borderline,technical_applied,arxiv,4.659713917062618
+21,What are the main limitations of transformer attention mechanisms?,arxiv,synthetic,easy,machine learning,arxiv,3.3189967500511557
+22,What are some practical tips for a theater outing?,not_valid,synthetic,easy,everyday,not_valid,3.168285207939334
+23,How do I install a Python package in a virtual environment?,arxiv,synthetic,borderline,technical_applied,arxiv,7.034827542025596
+24,What should I prepare for a vegetable garden?,not_valid,synthetic,easy,everyday,not_valid,4.688331790966913
+25,Can you suggest a simple plan for a weekend road trip?,not_valid,synthetic,easy,everyday,not_valid,3.038493290892802
+26,How do I center a div using CSS?,arxiv,synthetic,borderline,technical_applied,not_valid,13.864160542027093
+27,What are some practical tips for a photography walk?,not_valid,synthetic,easy,everyday,not_valid,5.720276999985799
+28,How can researchers evaluate particle acceleration?,arxiv,synthetic,easy,physics,arxiv,6.02488637494389
+29,How can researchers evaluate retrieval-augmented generation?,arxiv,synthetic,easy,information retrieval,arxiv,5.838020000024699
+30,What color should I paint my home office?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,4.8073989999247715
+31,What should I prepare for a family picnic?,not_valid,synthetic,easy,everyday,not_valid,2.670513749937527
+32,Can you suggest a simple plan for a puppy playdate?,not_valid,synthetic,easy,everyday,not_valid,5.882080499897711
+33,What are the main limitations of cryptographic hash functions?,arxiv,synthetic,easy,computer science,arxiv,5.681966749951243
+34,What should I prepare for a coffee tasting?,not_valid,synthetic,easy,everyday,not_valid,2.4939415419939905
+35,Can you suggest a simple plan for a pet adoption event?,not_valid,synthetic,easy,everyday,not_valid,6.278614750015549
+36,Why does my machine learning model overfit?,arxiv,synthetic,borderline,technical_applied,arxiv,4.967269583023153
+37,How can researchers evaluate economic growth models?,arxiv,synthetic,easy,economics,arxiv,3.4297247079666704
+38,What are the main limitations of numerical linear algebra?,arxiv,synthetic,easy,mathematics,arxiv,4.4666389169869944
+39,How does computational complexity work?,arxiv,synthetic,easy,mathematics,arxiv,3.392705583013594
+40,What is a primary key in a database?,arxiv,synthetic,borderline,technical_applied,arxiv,3.2039692910620943
+41,How do I fix a SQL JOIN that returns duplicate rows?,arxiv,synthetic,borderline,technical_applied,arxiv,4.369227207964286
+42,Can you make a shopping list for a physics club picnic?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,6.418800208019093
+43,What are the main limitations of control systems stability?,arxiv,synthetic,easy,electrical engineering,arxiv,2.7480501249665394
+44,What is a confidence interval?,arxiv,synthetic,borderline,technical_applied,arxiv,2.860754832974635
+45,What are the main limitations of portfolio optimization?,arxiv,synthetic,easy,quantitative finance,arxiv,3.8241805410943925
+46,How do I calculate a percentage discount?,arxiv,synthetic,borderline,technical_applied,arxiv,5.9751570840599015
+47,What should I prepare for a breakfast smoothie?,not_valid,synthetic,easy,everyday,not_valid,4.850613708025776
+48,Can you suggest a simple plan for a watercolor painting?,not_valid,synthetic,easy,everyday,not_valid,3.32071499992162
+49,What are the main limitations of causal inference?,arxiv,synthetic,easy,statistics,arxiv,6.796302416012622
+50,How does vector databases work?,arxiv,synthetic,easy,databases,arxiv,4.9697527919197455
+51,How does GPS determine location?,arxiv,synthetic,borderline,technical_applied,not_valid,8.200774915982038
+52,How can researchers evaluate database indexing?,arxiv,synthetic,easy,databases,arxiv,3.002604875015095
+53,What are some practical tips for a coffee tasting?,not_valid,synthetic,easy,everyday,not_valid,4.354773541097529
+54,How can researchers evaluate probability distributions?,arxiv,synthetic,easy,mathematics,arxiv,3.646724040969275
+55,Can you suggest a simple plan for a camping trip?,not_valid,synthetic,easy,everyday,not_valid,3.4046751250280067
+56,What should I prepare for a chocolate cake?,not_valid,synthetic,easy,everyday,not_valid,6.020338249974884
+57,How does economic growth models work?,arxiv,synthetic,easy,economics,arxiv,4.062214249977842
+58,Can you help me apologize to my economics professor?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,6.246198917040601
+59,What should I prepare for a puppy playdate?,not_valid,synthetic,easy,everyday,not_valid,5.34454233397264
+60,Can you suggest a simple plan for a coffee tasting?,not_valid,synthetic,easy,everyday,not_valid,2.7493955419631675
+61,Why is my JavaScript promise not resolving?,arxiv,synthetic,borderline,technical_applied,arxiv,4.225089167011902
+62,What are the main limitations of graph search algorithms?,arxiv,synthetic,easy,algorithms,arxiv,3.8456880829762667
+63,How does a Wi-Fi router transmit data?,arxiv,synthetic,borderline,technical_applied,arxiv,6.480837874929421
+64,What should I prepare for a restaurant dinner?,not_valid,synthetic,easy,everyday,not_valid,5.933243457926437
+65,Can you suggest a simple plan for a poetry reading?,not_valid,synthetic,easy,everyday,not_valid,5.468226624885574
+66,What are some practical tips for a farmers market visit?,not_valid,synthetic,easy,everyday,not_valid,6.213519125012681
+67,What should I prepare for a weekend road trip?,not_valid,synthetic,easy,everyday,not_valid,3.1660962919704616
+68,How can researchers evaluate general relativity?,arxiv,synthetic,easy,physics,arxiv,4.7320047919638455
+69,What should I prepare for a watercolor painting?,not_valid,synthetic,easy,everyday,not_valid,5.980410792049952
+70,How does software testing strategies work?,arxiv,synthetic,easy,software engineering,arxiv,2.9988058749586344
+71,What are some practical tips for a graduation celebration?,not_valid,synthetic,easy,everyday,not_valid,5.1339436249108985
+72,Which laptop should I buy for my child?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,4.240352416993119
+73,Can you write a birthday message that mentions AI?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,4.4768018330214545
+74,What are some practical tips for a concert visit?,not_valid,synthetic,easy,everyday,not_valid,5.473010167013854
+75,How does graph neural networks work?,arxiv,synthetic,easy,machine learning,arxiv,5.688998042023741
+76,What are some practical tips for a weekend road trip?,not_valid,synthetic,easy,everyday,not_valid,5.241856625070795
+77,How does portfolio optimization work?,arxiv,synthetic,easy,quantitative finance,arxiv,4.716625583940186
+78,How can I decorate a classroom for a math-themed party?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,arxiv,8.074835625011474
+79,What should I prepare for a pasta dinner?,not_valid,synthetic,easy,everyday,not_valid,4.039701250032522
+80,What is the difference between AC and DC current?,arxiv,synthetic,borderline,technical_applied,arxiv,4.510167957982048
+81,Can you suggest a simple plan for a homemade pizza?,not_valid,synthetic,easy,everyday,not_valid,5.554006207967177
+82,Can you suggest a simple plan for a pasta dinner?,not_valid,synthetic,easy,everyday,not_valid,4.78783037501853
+83,What should I prepare for a theater outing?,not_valid,synthetic,easy,everyday,not_valid,5.031056125066243
+84,Can you suggest a simple plan for a flower arrangement?,not_valid,synthetic,easy,everyday,not_valid,2.4990040420088917
+85,What should I prepare for a pottery workshop?,not_valid,synthetic,easy,everyday,not_valid,4.6474736670497805
+86,What are the main limitations of SQL query optimization?,arxiv,synthetic,easy,databases,arxiv,4.6608169169630855
+87,Which shoes are comfortable for standing at a science fair?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,5.147728667012416
+88,What is a good pet name inspired by computer science?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,4.6358512500301
+89,How does electromagnetic induction work?,arxiv,synthetic,easy,electrical engineering,arxiv,4.111385750002228
+90,What should I prepare for a garage sale?,not_valid,synthetic,easy,everyday,not_valid,4.729408165905625
+91,How can I calculate the average of a dataset?,arxiv,synthetic,borderline,technical_applied,arxiv,3.796986125060357
+92,What are some practical tips for a watercolor painting?,not_valid,synthetic,easy,everyday,not_valid,2.74548787495587
+93,What are the main limitations of particle acceleration?,arxiv,synthetic,easy,physics,arxiv,5.3842336249072105
+94,How does time series forecasting work?,arxiv,synthetic,easy,statistics,arxiv,6.8622543750097975
+95,What should I prepare for a camping trip?,not_valid,synthetic,easy,everyday,not_valid,3.1647458750521764
+96,What are the main limitations of game theory equilibria?,arxiv,synthetic,easy,economics,arxiv,4.096065916004591
+97,What is the difference between Python lists and tuples?,arxiv,synthetic,borderline,technical_applied,arxiv,5.2598994160071015
+98,What are the main limitations of optical interference?,arxiv,synthetic,easy,physics,arxiv,5.886787166935392
+99,What are some practical tips for a breakfast smoothie?,not_valid,synthetic,easy,everyday,not_valid,4.111062166048214
+100,How does market efficiency work?,arxiv,synthetic,easy,quantitative finance,arxiv,3.1479420830728486
+101,What are some practical tips for a knitting project?,not_valid,synthetic,easy,everyday,not_valid,2.700877207913436
+102,What are some practical tips for a pottery workshop?,not_valid,synthetic,easy,everyday,not_valid,2.3982489589834586
+103,What should I prepare for a meditation retreat?,not_valid,synthetic,easy,everyday,not_valid,4.686346458038315
+104,How can researchers evaluate signal processing?,arxiv,synthetic,easy,electrical engineering,arxiv,5.327368874917738
+105,What are some practical tips for a vegetable garden?,not_valid,synthetic,easy,everyday,not_valid,6.792788959108293
+106,How does cryptographic hash functions work?,arxiv,synthetic,easy,computer science,arxiv,3.3508263749536127
+107,How does convolutional neural networks work?,arxiv,synthetic,easy,machine learning,arxiv,5.616203458979726
+108,What are the main limitations of semiconductor transistors?,arxiv,synthetic,easy,electrical engineering,arxiv,4.47912599996198
+109,How does quantum entanglement work?,arxiv,synthetic,easy,physics,arxiv,3.4760995419928804
+110,How does particle acceleration work?,arxiv,synthetic,easy,physics,arxiv,3.307439292082563
+111,Can you suggest a simple plan for a family picnic?,not_valid,synthetic,easy,everyday,not_valid,2.891360000008717
+112,Can you suggest a simple plan for a concert visit?,not_valid,synthetic,easy,everyday,not_valid,5.569072833051905
+113,What are some practical tips for a puppy playdate?,not_valid,synthetic,easy,everyday,not_valid,5.469548707944341
+114,Can you suggest a simple plan for a chocolate cake?,not_valid,synthetic,easy,everyday,not_valid,3.0995679160114378
+115,Can you plan a vacation around a robotics expo?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,5.581673500011675
+116,What should I prepare for a photography walk?,not_valid,synthetic,easy,everyday,not_valid,6.402262207935564
+117,How can researchers evaluate option pricing models?,arxiv,synthetic,easy,quantitative finance,arxiv,4.2045764999929816
+118,What should I prepare for a novel discussion?,not_valid,synthetic,easy,everyday,not_valid,4.837036957964301
+119,What is the probability of rolling two sixes?,arxiv,synthetic,borderline,technical_applied,arxiv,4.0161051250761375
+120,What are some practical tips for a birthday party?,not_valid,synthetic,easy,everyday,not_valid,3.521632874966599
+121,What are the main limitations of graph neural networks?,arxiv,synthetic,easy,machine learning,arxiv,3.8816152500221506
+122,Can you suggest a simple plan for a birthday party?,not_valid,synthetic,easy,everyday,not_valid,4.16323695902247
+123,How does control systems stability work?,arxiv,synthetic,easy,electrical engineering,arxiv,3.80842354206834
+124,What snacks should I bring to a coding meetup?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,5.3676775000058115
+125,How does SQL query optimization work?,arxiv,synthetic,easy,databases,arxiv,3.3316039158962667
+126,What are the main limitations of vector databases?,arxiv,synthetic,easy,databases,arxiv,3.951705874991603
+127,What are the main limitations of quantum entanglement?,arxiv,synthetic,easy,physics,arxiv,3.588922500028275
+128,How does fluid dynamics work?,arxiv,synthetic,easy,physics,arxiv,3.785554166068323
+129,Can you suggest a simple plan for a garage sale?,not_valid,synthetic,easy,everyday,not_valid,6.285640625050291
+130,Can you suggest a simple plan for a theater outing?,not_valid,synthetic,easy,everyday,not_valid,3.1447451659478247
+131,What are the main limitations of retrieval-augmented generation?,arxiv,synthetic,easy,information retrieval,arxiv,6.64748724992387
+132,Can you suggest a slogan for our school's statistics club?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,5.063495125039481
+133,What are the main limitations of thermodynamic entropy?,arxiv,synthetic,easy,physics,arxiv,3.379001250024885
+134,How does a recommendation algorithm choose movies?,arxiv,synthetic,borderline,technical_applied,arxiv,4.078803332988173
+135,Can an AI model generate a birthday poem?,arxiv,synthetic,borderline,technical_applied,arxiv,4.649986124946736
+136,What does an HTTP 404 status code mean?,arxiv,synthetic,borderline,technical_applied,arxiv,3.290468499995768
+137,How can researchers evaluate inflation dynamics?,arxiv,synthetic,easy,economics,arxiv,4.942667874973267
+138,What are some practical tips for a bedroom makeover?,not_valid,synthetic,easy,everyday,not_valid,5.010091417003423
+139,How can researchers evaluate computational complexity?,arxiv,synthetic,easy,mathematics,arxiv,4.377863583969884
+140,What is the difference between RAM and disk storage?,arxiv,synthetic,borderline,technical_applied,arxiv,4.86706899991259
+141,What are the main limitations of signal processing?,arxiv,synthetic,easy,electrical engineering,arxiv,8.418399375048466
+142,How does distributed consensus algorithms work?,arxiv,synthetic,easy,computer science,arxiv,3.7987980420002714
+143,What should I prepare for a graduation celebration?,not_valid,synthetic,easy,everyday,not_valid,4.848600249970332
+144,How does graph search algorithms work?,arxiv,synthetic,easy,algorithms,arxiv,3.1096275420859456
+145,What are some practical tips for a wedding reception?,not_valid,synthetic,easy,everyday,not_valid,3.0229429590981454
+146,What is the difference between REST and GraphQL?,arxiv,synthetic,borderline,technical_applied,arxiv,5.850001915940084
+147,How does transformer attention mechanisms work?,arxiv,synthetic,easy,machine learning,arxiv,3.6278708750614896
+148,Can you suggest a simple plan for a neighborhood barbecue?,not_valid,synthetic,easy,everyday,not_valid,3.3166404999792576
+149,What should I prepare for a bedroom makeover?,not_valid,synthetic,easy,everyday,not_valid,9.447830416960642
+150,What are some catchy names for a math-themed bakery?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,5.38379679096397
+151,How does signal processing work?,arxiv,synthetic,easy,electrical engineering,arxiv,6.026719624991529
+152,What are some practical tips for a restaurant dinner?,not_valid,synthetic,easy,everyday,not_valid,3.1110194589709863
+153,How does optical interference work?,arxiv,synthetic,easy,physics,arxiv,3.5377776250243187
+154,What should I prepare for a swimming lesson?,not_valid,synthetic,easy,everyday,not_valid,3.7870783749967813
+155,Can you suggest a simple plan for a dog walking routine?,not_valid,synthetic,easy,everyday,not_valid,5.3139999160775915
+156,How can researchers evaluate distributed consensus algorithms?,arxiv,synthetic,easy,computer science,arxiv,3.6318091249559075
+157,How can researchers evaluate transformer attention mechanisms?,arxiv,synthetic,easy,machine learning,arxiv,5.112666624947451
+158,What should I prepare for a visit to a museum?,not_valid,synthetic,easy,everyday,not_valid,3.988931042025797
+159,What are the main limitations of general relativity?,arxiv,synthetic,easy,physics,arxiv,3.1815637920517474
+160,Why does ice float in water?,arxiv,synthetic,borderline,technical_applied,arxiv,4.8693585839355364
+161,How do I politely decline an invitation to an AI workshop?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,4.259283208055422
+162,Can you suggest a simple plan for a grocery shopping list?,not_valid,synthetic,easy,everyday,not_valid,4.100883665960282
+163,What should I wear to a technology conference?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,5.106067333021201
+164,How can researchers evaluate market efficiency?,arxiv,synthetic,easy,quantitative finance,arxiv,5.185916290967725
+165,What are some practical tips for a hiking outing?,not_valid,synthetic,easy,everyday,not_valid,5.014313707943074
+166,What are some practical tips for a homemade pizza?,not_valid,synthetic,easy,everyday,not_valid,5.822757333051413
+167,How does regression analysis work?,arxiv,synthetic,easy,statistics,arxiv,6.620319250039756
+168,Why does a smartphone battery lose charge?,arxiv,synthetic,borderline,technical_applied,not_valid,8.708560250001028
+169,Can you suggest a simple plan for a breakfast smoothie?,not_valid,synthetic,easy,everyday,not_valid,3.2579051250359043
+170,How does compiler optimization work?,arxiv,synthetic,easy,software engineering,arxiv,3.3010327500524
+171,What are the main limitations of distributed consensus algorithms?,arxiv,synthetic,easy,computer science,arxiv,6.33440241694916
+172,Can you help me plan a surprise party for a mathematician?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,4.796459584031254
+173,How can researchers evaluate convolutional neural networks?,arxiv,synthetic,easy,machine learning,arxiv,5.49120149994269
+174,What should I prepare for a wedding reception?,not_valid,synthetic,easy,everyday,not_valid,6.733797124936245
+175,Can you suggest a simple plan for a graduation celebration?,not_valid,synthetic,easy,everyday,not_valid,5.78826099995058
+176,Can you suggest a simple plan for a cat grooming routine?,not_valid,synthetic,easy,everyday,not_valid,5.2803402920253575
+177,Can you suggest a simple plan for a pottery workshop?,not_valid,synthetic,easy,everyday,not_valid,5.787052083062008
+178,How can researchers evaluate game theory equilibria?,arxiv,synthetic,easy,economics,arxiv,12.77624595805537
+179,Can you suggest a simple plan for a swimming lesson?,not_valid,synthetic,easy,everyday,not_valid,5.888894499978051
+180,What are some practical tips for a pet adoption event?,not_valid,synthetic,easy,everyday,not_valid,4.931036458001472
+181,What are the main limitations of regression analysis?,arxiv,synthetic,easy,statistics,arxiv,4.163440666976385
+182,What are some practical tips for a flower arrangement?,not_valid,synthetic,easy,everyday,not_valid,6.238569125067443
+183,What are some practical tips for a cat grooming routine?,not_valid,synthetic,easy,everyday,not_valid,4.19419808301609
+184,What are some practical tips for a beach vacation?,not_valid,synthetic,easy,everyday,not_valid,2.222364417044446
+185,What are some practical tips for a visit to a museum?,not_valid,synthetic,easy,everyday,not_valid,5.723428457975388
+186,How does inflation affect grocery prices?,arxiv,synthetic,borderline,technical_applied,arxiv,4.1241472500842065
+187,How can researchers evaluate cryptographic hash functions?,arxiv,synthetic,easy,computer science,arxiv,5.025662750005722
+188,What are the main limitations of electromagnetic induction?,arxiv,synthetic,easy,electrical engineering,arxiv,5.005559290992096
+189,How does operating system scheduling work?,arxiv,synthetic,easy,computer science,arxiv,4.42147995904088
+190,How does robot motion planning work?,arxiv,synthetic,easy,computer science,arxiv,5.079886208055541
+191,What are some practical tips for a holiday dinner?,not_valid,synthetic,easy,everyday,not_valid,5.706382000003941
+192,Can you suggest a funny name for my Wi-Fi network?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,3.9038724589627236
+193,Can you suggest a simple plan for a wedding reception?,not_valid,synthetic,easy,everyday,not_valid,3.6852061660028994
+194,What are some practical tips for a grocery shopping list?,not_valid,synthetic,easy,everyday,not_valid,2.8547194579150528
+195,Can you suggest a simple plan for a hiking outing?,not_valid,synthetic,easy,everyday,not_valid,3.1566592500312254
+196,What are some practical tips for a swimming lesson?,not_valid,synthetic,easy,everyday,not_valid,4.907833292032592
+197,Why does a rainbow form?,arxiv,synthetic,borderline,technical_applied,arxiv,4.009311667061411
+198,Can you suggest a simple plan for a vegetable garden?,not_valid,synthetic,easy,everyday,not_valid,5.33518837497104
+199,How does causal inference work?,arxiv,synthetic,easy,statistics,arxiv,4.581780917011201
+200,Can you suggest a playlist for studying calculus?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,arxiv,5.145862624980509
+201,Can you help me write a thank-you note to my statistics teacher?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,12.335872165975161
+202,How does option pricing models work?,arxiv,synthetic,easy,quantitative finance,arxiv,3.992370583000593
+203,How can researchers evaluate fluid dynamics?,arxiv,synthetic,easy,physics,arxiv,3.7467709160409868
+204,How can researchers evaluate vector databases?,arxiv,synthetic,easy,databases,arxiv,5.241577374981716
+205,How do I train a simple image classifier?,arxiv,synthetic,borderline,technical_applied,arxiv,4.258031291887164
+206,How can researchers evaluate reinforcement learning?,arxiv,synthetic,easy,artificial intelligence,arxiv,3.3862298749154434
+207,What should I prepare for a hiking outing?,not_valid,synthetic,easy,everyday,not_valid,3.317108833929524
+208,Can you suggest a simple plan for a meditation retreat?,not_valid,synthetic,easy,everyday,not_valid,3.7221843330189586
+209,How can researchers evaluate thermodynamic entropy?,arxiv,synthetic,easy,physics,arxiv,6.636231040931307
+210,Can you suggest a simple plan for a closet organization project?,not_valid,synthetic,easy,everyday,not_valid,4.5361493329983205
+211,How can researchers evaluate causal inference?,arxiv,synthetic,easy,statistics,arxiv,4.323596999980509
+212,Which AI-themed movie should I watch tonight?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,5.670458458014764
+213,How does a microwave oven heat food?,arxiv,synthetic,borderline,technical_applied,arxiv,3.006254291976802
+214,Can you suggest a simple plan for a holiday dinner?,not_valid,synthetic,easy,everyday,not_valid,3.4582717909943312
+215,How does semiconductor transistors work?,arxiv,synthetic,easy,electrical engineering,arxiv,5.285328165977262
+216,How do I write a Python loop?,arxiv,synthetic,borderline,technical_applied,arxiv,7.498172792023979
+217,What are the main limitations of robot motion planning?,arxiv,synthetic,easy,computer science,arxiv,6.294295458006673
+218,What should I prepare for a farmers market visit?,not_valid,synthetic,easy,everyday,not_valid,7.520396166015416
+219,How can researchers evaluate quantum entanglement?,arxiv,synthetic,easy,physics,arxiv,4.190271458006464
+220,What should I prepare for a cat grooming routine?,not_valid,synthetic,easy,everyday,not_valid,5.228666375041939
+221,Can you suggest a simple plan for a beach vacation?,not_valid,synthetic,easy,everyday,not_valid,3.379314749967307
+222,What are the main limitations of software testing strategies?,arxiv,synthetic,easy,software engineering,arxiv,4.503567792009562
+223,What should I prepare for a neighborhood barbecue?,not_valid,synthetic,easy,everyday,not_valid,5.568062250036746
+224,What are some practical tips for a chocolate cake?,not_valid,synthetic,easy,everyday,not_valid,6.9678138750605285
+225,How does gradient descent optimization work?,arxiv,synthetic,easy,mathematics,arxiv,4.995461167069152
+226,What should I prepare for a grocery shopping list?,not_valid,synthetic,easy,everyday,not_valid,7.298089624964632
+227,Can you suggest a science-fiction novel about robots?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,4.583757249987684
+228,What are some practical tips for a garage sale?,not_valid,synthetic,easy,everyday,not_valid,8.542357375030406
+229,How can researchers evaluate electromagnetic induction?,arxiv,synthetic,easy,electrical engineering,arxiv,8.083386874990538
+230,What should I prepare for a living room cleanup?,not_valid,synthetic,easy,everyday,not_valid,4.497864458942786
+231,How can researchers evaluate time series forecasting?,arxiv,synthetic,easy,statistics,arxiv,4.172597083961591
+232,How does game theory equilibria work?,arxiv,synthetic,easy,economics,arxiv,4.7596325419144705
+233,What are the main limitations of inflation dynamics?,arxiv,synthetic,easy,economics,arxiv,8.503450124990195
+234,How can researchers evaluate compiler optimization?,arxiv,synthetic,easy,software engineering,arxiv,4.223786333925091
+235,How does inflation dynamics work?,arxiv,synthetic,easy,economics,arxiv,4.381385041051544
+236,What should I prepare for a knitting project?,not_valid,synthetic,easy,everyday,not_valid,7.765806959010661
+237,What should I prepare for a holiday dinner?,not_valid,synthetic,easy,everyday,not_valid,4.42974704108201
+238,How can researchers evaluate numerical linear algebra?,arxiv,synthetic,easy,mathematics,arxiv,5.830138540943153
+239,How do I write a friendly email to my database instructor?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,3.9821280000032857
+240,What are the main limitations of market efficiency?,arxiv,synthetic,easy,quantitative finance,arxiv,6.836346917087212
+241,What are the main limitations of database indexing?,arxiv,synthetic,easy,databases,arxiv,3.101084250025451
+242,What are some practical tips for a novel discussion?,not_valid,synthetic,easy,everyday,not_valid,5.942274790955707
+243,How can researchers evaluate Monte Carlo simulation?,arxiv,synthetic,easy,mathematics,arxiv,7.32268229208421
+244,What are some practical tips for a poetry reading?,not_valid,synthetic,easy,everyday,not_valid,5.126969167031348
+245,How can researchers evaluate gradient descent optimization?,arxiv,synthetic,easy,mathematics,arxiv,6.45953662507236
+246,How can researchers evaluate control systems stability?,arxiv,synthetic,easy,electrical engineering,arxiv,4.392198125016876
+247,What are some practical tips for a meditation retreat?,not_valid,synthetic,easy,everyday,not_valid,5.43141854100395
+248,What are the main limitations of Monte Carlo simulation?,arxiv,synthetic,easy,mathematics,arxiv,4.647964957985096
+249,Can you suggest a simple plan for a bedroom makeover?,not_valid,synthetic,easy,everyday,not_valid,3.77699366689194
+250,How can researchers evaluate graph neural networks?,arxiv,synthetic,easy,machine learning,arxiv,9.03554616693873
+251,How can researchers evaluate Bayesian inference?,arxiv,synthetic,easy,statistics,arxiv,4.909855125006288
+252,What should I prepare for a pet adoption event?,not_valid,synthetic,easy,everyday,not_valid,7.206416415981948
+253,How does an electric motor work?,arxiv,synthetic,borderline,technical_applied,arxiv,6.302712667034939
+254,What should I prepare for a flower arrangement?,not_valid,synthetic,easy,everyday,not_valid,7.298488707980141
+255,What are some practical tips for a dog walking routine?,not_valid,synthetic,easy,everyday,not_valid,6.622345375013538
+256,What should I prepare for a homemade pizza?,not_valid,synthetic,easy,everyday,not_valid,5.251299874973483
+257,What are the main limitations of compiler optimization?,arxiv,synthetic,easy,software engineering,arxiv,3.92763804201968
+258,Can you suggest a simple plan for a yoga session?,not_valid,synthetic,easy,everyday,not_valid,2.713022999931127
+259,How does general relativity work?,arxiv,synthetic,easy,physics,arxiv,6.136990875005722
+260,Can you suggest a simple plan for a farmers market visit?,not_valid,synthetic,easy,everyday,not_valid,6.8527915419545025
+261,What are the main limitations of convolutional neural networks?,arxiv,synthetic,easy,machine learning,arxiv,5.485352750052698
+262,What should I prepare for a beach vacation?,not_valid,synthetic,easy,everyday,not_valid,3.1931790829403326
+263,What are some practical tips for a closet organization project?,not_valid,synthetic,easy,everyday,not_valid,5.082134583033621
+264,What should I prepare for a dog walking routine?,not_valid,synthetic,easy,everyday,not_valid,5.530357582960278
+265,What are the main limitations of computational complexity?,arxiv,synthetic,easy,mathematics,arxiv,7.346289666020311
+266,What are some practical tips for a yoga session?,not_valid,synthetic,easy,everyday,not_valid,6.756589625030756
+267,Can you write a poem about a quantum physicist?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,5.403508250019513
+268,Can you recommend a costume inspired by a famous scientist?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,2.786062208004296
+269,Can you suggest a simple plan for a living room cleanup?,not_valid,synthetic,easy,everyday,not_valid,7.381997959106229
+270,How can researchers evaluate regression analysis?,arxiv,synthetic,easy,statistics,arxiv,3.8661322499392554
+271,What are the main limitations of fluid dynamics?,arxiv,synthetic,easy,physics,arxiv,4.606055165990256
+272,What is a good gift for a software engineer?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,4.996855542063713
+273,What should I prepare for a closet organization project?,not_valid,synthetic,easy,everyday,not_valid,5.918731000041589
+274,What should I pack for a trip to a technology museum?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,6.05638900003396
+275,How does thermodynamic entropy work?,arxiv,synthetic,easy,physics,arxiv,5.992785707931034
+276,How does retrieval-augmented generation work?,arxiv,synthetic,easy,information retrieval,arxiv,6.19934849999845
+277,Can you suggest a simple plan for a visit to a museum?,not_valid,synthetic,easy,everyday,not_valid,4.717172875069082
+278,Can you suggest a simple plan for a restaurant dinner?,not_valid,synthetic,easy,everyday,not_valid,5.854103791993111
+279,What are the main limitations of probability distributions?,arxiv,synthetic,easy,mathematics,arxiv,7.401147749973461
+280,Can you suggest a simple plan for a knitting project?,not_valid,synthetic,easy,everyday,not_valid,7.5912486660527065
+281,How should I organize my bookshelf of programming books?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,8.194977957988158
+282,How can researchers evaluate portfolio optimization?,arxiv,synthetic,easy,quantitative finance,arxiv,7.826916790916584
+283,What are the main limitations of reinforcement learning?,arxiv,synthetic,easy,artificial intelligence,arxiv,6.059368708985858
+284,What is compound interest?,arxiv,synthetic,borderline,technical_applied,arxiv,5.2219025830272585
+285,How can researchers evaluate robot motion planning?,arxiv,synthetic,easy,computer science,arxiv,6.6540271249832585
+286,How does probability distributions work?,arxiv,synthetic,easy,mathematics,arxiv,3.7029932499863207
+287,How can researchers evaluate graph search algorithms?,arxiv,synthetic,easy,algorithms,arxiv,5.481497583095916
+288,How does Bayesian inference work?,arxiv,synthetic,easy,statistics,arxiv,6.87634049996268
+289,What are the main limitations of Bayesian inference?,arxiv,synthetic,easy,statistics,arxiv,3.4311501249903813
+290,What should I prepare for a poetry reading?,not_valid,synthetic,easy,everyday,not_valid,5.933203165885061
+291,How can researchers evaluate software testing strategies?,arxiv,synthetic,easy,software engineering,arxiv,5.765487208031118
+292,Which restaurant is closest to the computer science building?,not_valid,synthetic,borderline,nontechnical_with_technical_terms,not_valid,7.875289792078547
+293,What are the main limitations of time series forecasting?,arxiv,synthetic,easy,statistics,arxiv,5.512057000072673
+294,How can researchers evaluate semiconductor transistors?,arxiv,synthetic,easy,electrical engineering,arxiv,6.868969124974683
+295,How does numerical linear algebra work?,arxiv,synthetic,easy,mathematics,arxiv,4.51165849994868
+296,What are some practical tips for a family picnic?,not_valid,synthetic,easy,everyday,not_valid,2.716322665917687
+297,What are some practical tips for a camping trip?,not_valid,synthetic,easy,everyday,not_valid,3.8108004999812692
+298,How does reinforcement learning work?,arxiv,synthetic,easy,artificial intelligence,arxiv,5.986933292006142
+299,How does Monte Carlo simulation work?,arxiv,synthetic,easy,mathematics,arxiv,6.233464334043674

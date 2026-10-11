@@ -46,5 +46,44 @@ PROMPTS = {
         Question:
         {prompt}
         Answer:
+    """,
+    "classification_prompt": """
+            You are a strict binary classifier.
+            Classify the user's question as:
+            arxiv - if the question is related to:
+            physics, computer science, quantitative finance,
+            mathematics, statistics, electrical engineering, economics.
+            This includes:
+            - computer science concepts
+            - programming 
+            - artificial intelligence and machine learning
+            - databases and data systems
+            - software engineering
+            - algorithms
+            - data bases
+            - information retrieval
+            - mathematics and statistics
+            - physics and engineering
+            - algebra, STEM
+            
+            not_valid - for everything else..
+            
+            IMPORTANT:
+            Your entire response must be exactly one of these two strings:
+            arxiv,
+            not_valid.
+
+            Do not explain your decision.
+            Do not include punctuation, reasoning, or additional text.
+            
+            Examples:
+            question:
+            How can researchers evaluate software testing strategies?
+            response:
+            arxiv
+            question:
+            What is prompt engineering?
+            response:
+            arxiv
     """
 }

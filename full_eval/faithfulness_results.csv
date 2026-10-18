@@ -1,0 +1,31 @@
+,score,threshold,reason
+0,1.0,0.5,The score is 1.00 because there are no contradictions to indicate any misalignment between the actual output and the retrieval context. Great job!
+1,1.0,0.5,The score is 1.00 because there are no contradictions to indicate any misalignment between the actual output and the retrieval context. Great job!
+2,1.0,0.5,The score is 1.00 because there are no contradictions to indicate any misalignment between the actual output and the retrieval context. Great job!
+3,1.0,0.5,The score is 1.00 because there are no contradictions to indicate any misalignment between the actual output and the retrieval context. Great job!
+4,1.0,0.5,The score is 1.00 because there are no contradictions to indicate any misalignment between the actual output and the retrieval context. Great job!
+5,1.0,0.5,The score is 1.00 because there are no contradictions to indicate any misalignment between the actual output and the retrieval context. Great job!
+6,1.0,0.5,The score is 1.00 because there are no contradictions to indicate any misalignment between the actual output and the retrieval context. Great job!
+7,0.6666666666666666,0.5,"The score is 0.67 because the actual output incorrectly introduced topics such as few‑step generative models, protein structure generation, noise‑space reward alignment, and option pricing models, none of which are mentioned in the retrieval context that focuses on optical inter‑satellite links, satellite constellations, fiber optics, and quantum interference."
+8,0.6666666666666666,0.5,"The score is 0.67 because the actual output incorrectly references energy‑efficient scheduling approaches for parallel Cholesky, LU, or QR factorizations, which contradicts the retrieval context that only discusses HK models and consensus dynamics."
+9,1.0,0.5,The score is 1.00 because there are no contradictions to indicate any misalignment between the actual output and the retrieval context. Great job!
+10,0.5,0.5,"The score is 0.50 because the actual output references inference‑time steering, probability placement, attribution problems, AI, and generative models—none of which appear in the provided context about higher‑dimensional swirling vacuum geometries and sigma models, leading to a moderate level of faithfulness."
+11,1.0,0.5,The score is 1.00 because there are no contradictions to indicate any misalignment between the actual output and the retrieval context. Great job!
+12,1.0,0.5,The score is 1.00 because there are no contradictions to indicate any misalignment between the actual output and the retrieval context. Great job!
+13,1.0,0.5,The score is 1.00 because there are no contradictions to indicate any misalignment between the actual output and the retrieval context. Great job!
+14,1.0,0.5,The score is 1.00 because there are no contradictions to indicate any misalignment between the actual output and the retrieval context. Great job!
+15,0.6666666666666666,0.5,"The score is 0.67 because the actual output references the FRI protocol and its challenges, which are not mentioned in the retrieval context, leading to a partial mismatch."
+16,1.0,0.5,The score is 1.00 because there are no contradictions to indicate any misalignment between the actual output and the retrieval context. Great job!
+17,1.0,0.5,The score is 1.00 because there are no contradictions to indicate any misalignment between the actual output and the retrieval context. Great job!
+18,1.0,0.5,The score is 1.00 because there are no contradictions to indicate any misalignment between the actual output and the retrieval context. Great job!
+19,0.5714285714285714,0.5,"The score is 0.57 because the actual output incorrectly references AI, machine learning, and hardware design, cites the paper ""Limo: Less is more for reasoning"" by Yixin Ye et al., and mentions fitness distance correlation and Jones and Forrest—none of which appear in the retrieval context, which focuses solely on cryptographic evaluation and stringology-based cryptanalysis."
+20,0.3333333333333333,0.5,"The score is 0.33 because the actual output incorrectly references artificial intelligence, machine learning, databases, and primary keys—none of which are mentioned in the retrieval context, which only covers induction heating, power distribution, and cooling architectures."
+21,1.0,0.5,The score is 1.00 because there are no contradictions to indicate any misalignment between the actual output and the retrieval context. Great job!
+22,1.0,0.5,The score is 1.00 because there are no contradictions to indicate any misalignment between the actual output and the retrieval context. Great job!
+23,1.0,0.5,The score is 1.00 because there are no contradictions to indicate any misalignment between the actual output and the retrieval context. Great job!
+24,0.6666666666666666,0.5,"The score is 0.67 because the actual output incorrectly references three papers on generative models, noise‑space reward alignment, and automated LLM jailbreaking, whereas the retrieval context only discusses a single paper on identification strategies in causal models."
+25,0.5,0.5,"The score is 0.50 because the actual output includes topics such as passive harmonic filter placement and percentage discount calculations, which are not mentioned in the retrieval context that focuses on American option pricing under stochastic local volatility models."
+26,1.0,0.5,The score is 1.00 because there are no contradictions to indicate any misalignment between the actual output and the retrieval context. Great job!
+27,1.0,0.5,The score is 1.00 because there are no contradictions to indicate any misalignment between the actual output and the retrieval context. Great job!
+28,1.0,0.5,The score is 1.00 because there are no contradictions to indicate any misalignment between the actual output and the retrieval context. Great job!
+29,1.0,0.5,The score is 1.00 because there are no contradictions to indicate any misalignment between the actual output and the retrieval context. Great job!

@@ -1,9 +1,12 @@
 import logging
 import re
 from ArxivSearch import ArxivSearch
-from sentence_transformers import CrossEncoder
+from sentence_transformers import CrossEncoder, SentenceTransformer
 from prompts import PROMPTS
 from langchain_core.messages import SystemMessage, HumanMessage
+import numpy as np
+from requests.exceptions import RequestException
+import math
 
 
 
@@ -15,7 +18,9 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 cross_encoder = CrossEncoder("cross-encoder/ms-marco-MiniLM-L6-v2")
-
+bi_encoder = SentenceTransformer(
+    "sentence-transformers/all-MiniLM-L6-v2"
+)
 
 
 class RAGFlow:
@@ -30,6 +35,7 @@ class RAGFlow:
         self.top_k_titles = params["top_k_titles"]
         self.chunk_size = params["chunk_size"]
         self.overlap_fraction = params["chunk_overlap_fraction"]
+        self.candidate_k = params["candidate_k"]
         self.top_k_chunks = params["top_k_chunks"]
 
         self.arxiv = ArxivSearch()
@@ -82,21 +88,27 @@ class RAGFlow:
         ]
         return top_titles
 
-
     def _retrieve_articles(self, top_titles, prompt):
-        # top_titles = self._retrieve_top_k_titles(prompt)
         articles = []
+
         for title in top_titles:
-            url = self.titles_to_urls[title]
-            text = self.arxiv.get_article_text(url)
-            if text is None:
-                print(f"Skipping failed article: {title}")
+            try:
+                url = self.titles_to_urls[title]
+                text = self.arxiv.get_article_text(url)
+
+                if text is None:
+                    print(f"Skipping failed article: {title}")
+                    continue
+
+                articles.append({
+                    "article_url": url,
+                    "title": title,
+                    "text": text
+                })
+
+            except (RequestException, KeyError) as e:
+                print(f"Skipping article: {title}. Error: {e}")
                 continue
-            articles.append({
-                "article_url": url,
-                "title": title,
-                "text": text
-            })
 
         return articles
 
@@ -133,6 +145,26 @@ class RAGFlow:
                 count += 1
 
         return chunks
+
+    def _bi_encode(self, chunks, prompt):
+        query_embedding = bi_encoder.encode_query(
+            prompt,
+            normalize_embeddings=True
+        )
+        texts = [chunk["text"] for chunk in chunks]
+        chunk_emb = bi_encoder.encode_document(
+            texts,
+            normalize_embeddings=True,
+            show_progress_bar=True
+        )
+        print("Chunks:", len(chunks))
+        print("Chunk embeddings shape:", chunk_emb.shape)
+        print("Query embedding shape:", query_embedding.shape)
+        scores = chunk_emb @ query_embedding
+        candidate_ids = np.argsort(scores)[::-1][:self.candidate_k]
+        candidates = [chunks[i] for i in candidate_ids]
+        return candidates
+
 
 
     def _select_top_k_chunks(self, chunks, prompt):
@@ -198,7 +230,8 @@ class RAGFlow:
         return answer
 
     def _classify_promt(self, prompt):
-        system_prompt = PROMPTS["classification_prompt"]
+        # system_prompt = PROMPTS["classification_prompt"]
+        system_prompt = PROMPTS["classification_prompt_rate"]
 
         messages = [
             SystemMessage(content=system_prompt),
@@ -209,11 +242,21 @@ class RAGFlow:
 
         return response.content.strip()
 
+    def validate_prediction(self, response):
+        try:
+            score = float(response)
+            return score if math.isfinite(score) and 0 <= score <= 1 else np.nan
+        except (ValueError, TypeError):
+            return np.nan
+
     def run(self, prompt):
         try:
-            prompt_class = self._classify_promt(prompt)
-            if(prompt_class == "not_valid"):
-                return ("Please ask questions only realted to the following topics: "
+            prompt_score = self.validate_prediction(self._classify_promt(prompt))
+            # I prefer the system keep going if dfor some reason the model has not returned a valid answer
+            if (not prompt_score):
+                promt_score = 1
+            if(prompt_score < 0.1):
+                return ("Please ask questions only related to the following topics: "
                         "physics, computer science, mathematics, statistics, electrical engineering, "
                         "economics, or quantative finance")
             query = self._generate_arxiv_query(prompt)
@@ -236,7 +279,8 @@ class RAGFlow:
                     "status": "failed",
                     "error": "No chunks generated"
                 }
-            top_chunks = self._select_top_k_chunks(chunks, prompt)
+            candidates = self._bi_encode(chunks,prompt)
+            top_chunks = self._select_top_k_chunks(candidates, prompt)
             answer = self._generate_answer(top_chunks, prompt)
             return {
                 "answer": answer["text"],

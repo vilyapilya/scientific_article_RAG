@@ -3,6 +3,7 @@ from pygments.lexers.mosel import FUNCTIONS
 from deepeval.models import OllamaModel
 from deepeval.metrics import FaithfulnessMetric
 from deepeval.test_case import LLMTestCase
+import os
 
 judge = OllamaModel(
     model="gpt-oss:20b",
@@ -14,6 +15,7 @@ class Eval:
         self.model = judge
 
     def answer_relevancy(self, df, threshold):
+        os.environ["DEEPEVAL_PER_ATTEMPT_TIMEOUT_SECONDS_OVERRIDE"] = "300"
         metric = AnswerRelevancyMetric(
             model=self.model,
             async_mode=False,
@@ -35,24 +37,29 @@ class Eval:
             results.append(res)
         return results
 
-    def faithfullness(self, df, chunks, threshold):
-        metric = AnswerRelevancyMetric()
+    def faithfullness(self, df, threshold):
+        os.environ["DEEPEVAL_PER_ATTEMPT_TIMEOUT_SECONDS_OVERRIDE"] = "380"
+        results = []
         faithfulness = FaithfulnessMetric(
             threshold=0.5,
             model=judge,
             include_reason=True,
             async_mode=False
         )
+        for _, row, in df.iterrows():
+            test_case = LLMTestCase(
+                input=row["question"],
+                actual_output=str(row["extracted_answers"]),
+                retrieval_context=row["extracted_text"]
+            )
 
-        test_case = LLMTestCase(
-            input=df["question"],
-            actual_output=["answer"],
-            retrieval_context=chunks
-        )
-
-        faithfulness.measure(test_case)
-
-        print("Score:", faithfulness.score)
-        print("Reason:", faithfulness.reason)
+            faithfulness.measure(test_case)
+            results.append({
+                "score": faithfulness.score,
+                "threshold": faithfulness.threshold,
+                "reason": faithfulness.reason,
+                "question": row["question"]
+            })
+        return results
 
 

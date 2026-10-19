@@ -249,16 +249,25 @@ class RAGFlow:
         except (ValueError, TypeError):
             return np.nan
 
-    def run(self, prompt):
+    def run(self, prompt, on_progress = None):
+        def report(stage):
+            if on_progress:
+                on_progress(stage)
         try:
+            report("Verifying your prompt...")
             prompt_score = self.validate_prediction(self._classify_promt(prompt))
             # I prefer the system keep going if dfor some reason the model has not returned a valid answer
             if (not prompt_score):
                 promt_score = 1
-            if(prompt_score < 0.1):
-                return ("Please ask questions only related to the following topics: "
-                        "physics, computer science, mathematics, statistics, electrical engineering, "
-                        "economics, or quantative finance")
+            if prompt_score < 0.1:
+                return {
+                    "answer": (
+                        "Please ask questions only related to the following topics: "
+                        "physics, computer science, mathematics, statistics, "
+                        "electrical engineering, economics, or quantitative finance."
+                    )
+                }
+            report("Searching for relevant articles...")
             query = self._generate_arxiv_query(prompt)
             logger.info(
                 f"user prompt: {prompt}, web query: {query}"
@@ -279,8 +288,10 @@ class RAGFlow:
                     "status": "failed",
                     "error": "No chunks generated"
                 }
+            report("Ranking articles chunks...")
             candidates = self._bi_encode(chunks,prompt)
             top_chunks = self._select_top_k_chunks(candidates, prompt)
+            report("Generating answer...")
             answer = self._generate_answer(top_chunks, prompt)
             return {
                 "answer": answer["text"],

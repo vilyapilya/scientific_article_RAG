@@ -1,0 +1,22 @@
+
+# API
+fastapi
+uvicorn
+
+# LLM / RAG
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+
+# Search and PDF processing
+selenium
+requests
+pymupdf
+
+# Data processing
+numpy
+pandas
+sentence-transformers
+pydantic
+slowapi

@@ -1,0 +1,25 @@
+# Evaluation
+eval.py
+.deepeval/
+component_level_eval/
+full_eval/
+
+# Jupyter notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+.md
+
+# Virtual environments
+.venv/
+venv/
+
+# Git
+.git/
+
+# Secrets
+.env
+.env.*

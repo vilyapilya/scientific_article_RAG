@@ -4,7 +4,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import requests
 import pymupdf
-import time
 from urllib.parse import quote_plus
 from selenium.common.exceptions import TimeoutException
 import logging
@@ -12,6 +11,11 @@ from selenium.webdriver.chrome.options import Options
 
 options = Options()
 options.add_argument("--headless=new")
+options.add_argument("--headless=new")
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage")
+options.add_argument("--disable-gpu")
+options.add_argument("--window-size=1920,1080")
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s | %(levelname)s | %(message)s"

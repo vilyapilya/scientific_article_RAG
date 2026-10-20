@@ -21,3 +21,4 @@ cache/
 
 # downloaded papers
 *.pdf
+build.log

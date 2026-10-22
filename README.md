@@ -60,14 +60,23 @@ For retrieval testing, I fed all the retrieved chunks to ChatGPT and prompted it
 
 
 query\_model is the selected model for the web query generation (default Llama)  
+
 answer\_model is the selected model for the answer generation (default Llama)  
+
 titles\_limit is the maximum number of the titles we extract from the arXiv web page.  
+
 top\_k\_titles is the maximum article titles we select out of pulled ones from the webpage.   
+
 chunk\_size is the number of words in each chunk.  
+
 chunk\_overlap\_fraction is the proportion of the chunk that overlaps to preserve some context while cutting and separating the same body of text.  
+
 candidate\_k the number of chunks the bi-encoder retrieves as relevant to the original prompt.   
+
 top\_k\_chunks is the number of chunks cross encoder selected out of the pull of candidates.   
+
 classifier is the LLM model that guards the system from irrelevant prompts.  
+
 To evaluate relevance and faithfulness I was using the deepeval library and Llama as an LLM-as-a-judge. 
 
 ### Hyperparameter Tuning and Validation Strategy

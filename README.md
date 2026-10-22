@@ -66,6 +66,8 @@ candidate\_k the number of chunks the bi-encoder retrieves as relevant to the or
 top\_k\_chunks is the number of chunks cross encoder selected out of the pull of candidates.   
 classifier is the LLM model that guards the system from irrelevant prompts.  
 To evaluate relevance and faithfulness I was using the deepeval library and Llama as an LLM-as-a-judge. 
+Numerical model parameters were selected based on general recommendations for RAG systems, while taking into account the available computational resources. An exhaustive grid search over numerical
+ parameter combinations was not feasible due to computational limitations and time constraints.
 
 Although using the same model for both answer generation and evaluation is not ideal due to potential evaluation bias, I decided that a lightweight model was the most practical choice, given the computational cost and time required for evaluation. 
 
@@ -79,3 +81,51 @@ Above is the visualization of the full system latency for the dataset of 150 val
 As it is shown on the graph above, the majority of answers were marked as pretty well grounded.  
 I have examined the examples of the low scores on faithfulness questions and answers, here is one of them:  
 ![low_faithfulness](images/low_faithfulness_sample.png) 
+
+As we can see the system with the current prompt is very restricted. Ideally, the system would allow users to adjust the level of strictness when generating responses.
+
+## Project Structure
+
+The repository is organized into the following components:
+
+```text
+scientific_article_RAG/
+├── component_level_eval/
+├── full_eval/
+├── images/
+├── .dockerignore
+├── .gitignore
+├── ArxivSearch.py
+├── Dockerfile
+├── RAG_STARTUP_GUIDE.md
+├── README.md
+├── app.py
+├── arxiv_research_assistant_eda.ipynb
+├── eval.py
+├── main.py
+├── model.py
+├── prompts.py
+├── questions-answers.csv
+├── rag_flow.py
+├── rag_logs.csv
+└── requirements.txt
+```
+`component_level_eval/` — Experiments and evaluations of individual RAG components, including model comparisons and retrieval performance.
+`full_eval/` — End-to-end system evaluation, including answer relevance, faithfulness, and latency.
+`images/` — Visualizations, charts, and figures used in the project report.
+`arxiv_research_assistant_eda.ipynb `— Exploratory data analysis of scientific articles and text chunks.
+`ArxivSearch.py` — Scientific article search and retrieval from arXiv.
+`model.py` — Language model configuration and initialization.
+`rag_flow.py` — Implementation of the RAG workflow.
+`prompts.py` — System promts for classification, query generation, and answer generation.
+`main.py` — FastAPI backend and API endpoints.
+`app.py` — Gradio user interface.
+`eval.py `— Evaluation utilities.
+`questions-answers.csv` — Dataset of questions and answers used for evaluation.
+`Dockerfile `— Docker configuration for the backend.
+`requirements.txt` — Python dependencies.
+`RAG_STARTUP_GUIDE.md` — Instructions for running the application.
+`.deepeval/` — DeepEval evaluation artifacts and configuration.
+`.gitignore / .dockerignore` — File exclusion configurations for Git and Docker.
+
+

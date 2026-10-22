@@ -107,7 +107,7 @@ loading_html = """
 with gr.Blocks(title="Research RAG Assistant",
                css=custom_css) as demo:
     gr.Markdown("# Research RAG Assistant")
-    gr.Markdown("Ask questions about scientific research papers.")
+    gr.Markdown("Explore scientific literature with AI-powered assistance.")
 
     question = gr.Textbox(
         label="Your question",

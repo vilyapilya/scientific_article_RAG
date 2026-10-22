@@ -57,6 +57,8 @@ For retrieval testing, I fed all the retrieved chunks to ChatGPT and prompted it
 
  I was limited in the computational resources for performing a comprehensive system-level evaluation, so I have limited it to two metrics: relevance and faithfulness. Relevance measures how well generated answers address users’ questions.  And faithfulness measures how well the generated answers are grounded in the provided context. Other metrics like toxicity, in my opinion, in the case of my system are less important, since the model is limited by the provided context. Below is the screenshot of the parameters that I was using for evaluation.  
 ![params](images/params.png) 
+
+
 query\_model is the selected model for the web query generation (default Llama)  
 answer\_model is the selected model for the answer generation (default Llama)  
 titles\_limit is the maximum number of the titles we extract from the arXiv web page.  

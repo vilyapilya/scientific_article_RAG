@@ -35,7 +35,7 @@ In terms of latency, Llama 3.2 demonstrated significantly lower response times.
 Since my model has many bottlenecks, I have decided to choose Llama as my classification model after testing it with different other parameters.  
 b) **Web query generator.** The RAG system expects a user to send casually formulated prompts which on their own cannot be used for web search. An LLM model captures the semantic essence of the query and rephrases it to increase the likelihood of finding related articles on the arXiv web page. Here is the table with the acquired comparison results.  
 ![query_performance](images/query_performance.png)
-Since, the Llama with default parameters shows significantly shorter latency and slightly less scores on relevancy to the original prompt and title findings rate, I decided to proceed with Llama for this task.  
+Since, the Llama with default parameters shows significantly shorter latency and slightly less scores on relevancy to the original prompt and title findings rate compared to toher models, I decided to proceed with Llama for this task.  
 c) **Retrieval part.** After the related articles are downloaded and chunked, the system has to select the most relevant chunks for answering the question. I have compared two approaches: using cross encoder only and preprocessing the chunks with Bi-encoder and then sending the selected by the Bi encoder candidates to the Cross Encoder. The second approach has improved the process at all metrics.   
 ![precision_retrieval](images/precision_retrieval.png)  
 In the graph above, we can see that adding the Bi-encoder improved the average precision at 10 chunks up to 30%.  

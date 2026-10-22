@@ -30,7 +30,7 @@ The following visualizations illustrate the model comparison and the impact of t
    ![classifiers](images/classifier_performmance_01.png)
    ![classifiers02](images/classifier_performance_02.png)
 
-In terms of latency, Llama 3.2 demonstrated significantly higher response times.   
+In terms of latency, Llama 3.2 demonstrated significantly lower response times.   
 ![classifier_latency](images/classifier_latency.png)
 Since my model has many bottlenecks, I have decided to choose Llama as my classification model after testing it with different other parameters.  
 b) **Web query generator.** The RAG system expects a user to send casually formulated prompts which on their own cannot be used for web search. An LLM model captures the semantic essence of the query and rephrases it to increase the likelihood of finding related articles on the arXiv web page. Here is the table with the acquired comparison results.  
@@ -40,8 +40,9 @@ c) **Retrieval part.** After the related articles are downloaded and chunked, th
 ![precision_retrieval](images/precision_retrieval.png)  
 In the graph above, we can see that adding the Bi-encoder improved the average precision at 10 chunks up to 30%.  
 ![recall_retrieval](images/recall_retrieval.png)
-The improvement in average recall was even more substantial. Incorporating the bi-encoder increased Recall@10 from approximately 20% to 90%, representing a 70-percentage-point improvement.   
-Additionally, incorporating the bi-encoder had a positive impact on latency, reducing response times almost in half.  
+The improvement in average recall was even more substantial. Incorporating the bi-encoder increased Recall@10 from approximately 20% to 90%, representing a 70-percentage-point improvement.
+From a user's perspective, this means the system can identify a much larger proportion of relevant scientific text passages among the top 10 retrieved chunks. As a result, the language model has access to more relevant information when generating answers, potentially improving answer completeness and reducing the risk of missing important research findings.
+Additionally, the two-stage retrieval approach reduced retrieval latency by almost half, allowing users to access relevant scientific information more quickly.
 ![retrieval_latency](images/retrieval_latency.png)
 
 c) **Answer generation.**  I have not performed comparative analysis for the answer generation since it would require more computation power than I have. But I have chosen the LLama model with default parameters for this stage.
@@ -66,11 +67,18 @@ candidate\_k the number of chunks the bi-encoder retrieves as relevant to the or
 top\_k\_chunks is the number of chunks cross encoder selected out of the pull of candidates.   
 classifier is the LLM model that guards the system from irrelevant prompts.  
 To evaluate relevance and faithfulness I was using the deepeval library and Llama as an LLM-as-a-judge. 
-Numerical model parameters were selected based on general recommendations for RAG systems, while taking into account the available computational resources. An exhaustive grid search over numerical
- parameter combinations was not feasible due to computational limitations and time constraints.
 
-Although using the same model for both answer generation and evaluation is not ideal due to potential evaluation bias, I decided that a lightweight model was the most practical choice, given the computational cost and time required for evaluation. 
+### Hyperparameter Tuning and Validation Strategy
+Due to limited computational resources and time constraints, exhaustive Grid Search and traditional k-fold cross-validation were not performed. Instead, I used targeted experiments and component-level evaluations to select models and configurations for the RAG pipeline.
+- **Model comparison:** I compared Qwen (`qwen3:8b`) and Llama (`llama3.2:3b`) for question classification, evaluating accuracy, precision, recall, and inference latency.
+- **Prompt engineering and threshold testing:** I improved Llama's classification performance by switching from binary decisions to relevance scores between 0 and 1, then comparing different decision thresholds.
+- **Query generation evaluation:** I compared query generation approaches using semantic similarity to the original question, article-finding performance, and latency.
+- **Retrieval strategy comparison:** I evaluated cross-encoder-only retrieval against a two-stage bi-encoder and cross-encoder approach, comparing Precision@10, Recall@10, and latency.
+- **End-to-end evaluation:** I tested the selected RAG configuration on 150 valid scientific questions, assessing answer relevance, faithfulness, and response latency.
+Numerical parameters, including chunk size, chunk overlap, and the number of retrieved candidates, were chosen using general RAG recommendations and the available computational resources rather than exhaustive parameter optimization.
+These targeted comparisons do not replace Grid Search or cross-validation, and the results may depend on the particular evaluation questions used. Nevertheless, they helped identify performance bottlenecks and guided model and retrieval architecture choices. Future work could evaluate parameter combinations more systematically and use multiple evaluation splits to assess result stability and generalizability.
 
+Although using the same model for both answer generation and evaluation is not ideal due to potential evaluation bias, I decided that a lightweight model was the most practical choice, given the computational cost and time required for evaluation.
 Below is the graph that represents the relevance distribution with the given parameters:   
 ![answer_relevance](images/answer_relevance.png) 
 As shown in the boxplot above, the median relevance score assigned by the GPT-based judge model is approximately 0.7. Additionally, 75% of the generated answers received relevance scores of 0.35 or higher. I consider these results acceptable for this stage of the system's development.
@@ -128,4 +136,27 @@ scientific_article_RAG/
 `.deepeval/` — DeepEval evaluation artifacts and configuration.
 `.gitignore / .dockerignore` — File exclusion configurations for Git and Docker.
 
+## Jupyter Notebooks
+The following notebooks document the data analysis,
+model experiments, and evaluation conducted throughout
+the project.
+### Exploratory Data Analysis
+- [Data Exploration](arxiv_research_assistant_eda.ipynb) —
+  Analysis of scientific articles, text lengths,
+  and chunk distributions.
 
+### Component-Level Evaluation
+- [Classifier Evaluation](component_level_eval/classifier_eval.ipynb) —
+  Comparison of Llama and Qwen classification performance.
+- [Retrieval Evaluation](component_level_eval/retrieval_eval.ipynb) —
+  Comparison of retrieval strategies using precision,
+  recall, and latency.
+- [Query Generation ](component_level_eval/web_query_generation_eval.ipynb) —
+  Query generation evaluation.
+
+### End-to-End Evaluation
+- [Faithfulness evaluation](component_level_eval/web_query_generation_eval.ipynb) —
+  Evaluation of answer faithfulness.
+- [Faithfulness evaluation](full_eval/relevancy_eval.ipynb) —
+  Evaluation of answer faithfulness,
+  and system latency.

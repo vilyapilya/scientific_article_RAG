@@ -18,7 +18,7 @@ The primary objective is to generate relevant, informative, and context-grounded
    c) Encoding. I use the CrossEncoder library for ranking the article titles.  
    d) Relevance filtering. Selecting passages most relevant to the user's question to reduce irrelevant context. 
 Below is the visualisation of chunk distribution per article: 
-![chunk_dist]('images/chunk_dist.png')
+![chunk_dist](images/chunk_dist.png)
 5. **Modeling:** The architecture of my system has several stages. 
 ![architecture]('images/architecture_diagram.png')
 At almost each stage I have evaluated and compared performance of different models and chosen the most appropriate one for the purpose of the project.  

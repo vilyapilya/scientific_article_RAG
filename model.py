@@ -26,7 +26,7 @@ classifier = ChatOllama(
 params = {
     "query_model": llama,
     "answer_model": llama,
-    "titles_limit": 5,
+    "titles_limit": 10,
     "top_k_titles": 5,
     "chunk_size": 200,
     "chunk_overlap_fraction": 0.2,

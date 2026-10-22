@@ -11,7 +11,7 @@
 The primary objective is to generate relevant, informative, and context-grounded answers to scientific questions while reducing hallucinations compared with a language model operating without retrieved context. The system's performance can be evaluated using retrieval relevance, answer correctness, faithfulness to source material, and response latency.
 
 3. **Data Acquisition:** The data source is arXiv, an open-access repository containing research papers across multiple scientific disciplines. I use the Selenium web driver to search and retrieve relevant articles from arXiv web pages. For the EDA analysis, I have pre-downloaded 100 articles and broken them down into chunks using the same chunking algorithm as in the system. Below is the visualization of the word count of the raw unprocessed data:  
-   ![word_count]('images/word_count.png') 
+   ![word_count]('https://github.com/vilyapilya/scientific_article_RAG/blob/main/images/word_count.png') 
 4. **Data Preprocessing/Preparation:**   
    a) PDF text extraction: Extracts research content from downloaded scientific papers.  
    b) Text chunking: Divides extracted content into smaller passages with 20% overlap. I am using basic chunking technique, cutting the passages by a fixed size.  

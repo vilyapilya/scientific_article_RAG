@@ -27,7 +27,7 @@ Initially, I configured two models, Qwen (qwen3:8b) and Llama (llama3.2:3b), to 
 To improve Llama's performance, I applied prompt engineering techniques, changing the classification approach from a binary decision to a relevance score ranging from 0 to 1. I then experimented with different classification thresholds and evaluated accuracy, precision, and recall.
 By optimizing the prompt and adjusting the classification threshold, I significantly improved Llama's performance, achieving results close to those of the larger Qwen model while retaining the advantage of faster inference.
 The following visualizations illustrate the model comparison and the impact of threshold adjustments on classification performance.
-   ![classifiers](images/classifier_performmance_01.png)
+   ![classifiers](images/classifier_performance_01.png)
    ![classifiers02](images/classifier_performance_02.png)
 
 In terms of latency, Llama 3.2 demonstrated significantly lower response times.   

@@ -182,8 +182,8 @@ the project.
   Query generation evaluation.
 
 ### End-to-End Evaluation
-- [Faithfulness evaluation](component_level_eval/web_query_generation_eval.ipynb) —
+- [Faithfulness](full_eval/faithfulness_eval.ipynb) —
   Evaluation of answer faithfulness.
-- [Faithfulness evaluation](full_eval/relevancy_eval.ipynb) —
+- [Relevancy](full_eval/relevancy_eval.ipynb) —
   Evaluation of answer faithfulness,
   and system latency.

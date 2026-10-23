@@ -107,10 +107,10 @@ To evaluate relevance and faithfulness I was using the deepeval library and Llam
 
 Although using the same model for both answer generation and evaluation is not ideal due to potential evaluation bias, I decided that a lightweight model was the most practical choice, given the computational cost and time required for evaluation.
 Below is the graph that represents the relevance distribution with the given parameters:   
-![answer_relevance](images/answer_relevance.png) 
-As shown in the boxplot above, the median relevance score assigned by the GPT-based judge model is approximately 0.7. Additionally, 75% of the generated answers received relevance scores of 0.35 or higher. I consider these results acceptable for this stage of the system's development.
+![answer_relevance](images/asnwer_relevancy.png) 
+As shown in the boxplot above, the median relevance is higher than 80%. 
 
-![answer_latency](images/answer_latency_dist.png)
+![answer_latency](images/answer_latency.png)
 Above is the visualization of the full system latency for the dataset of 150 valid questions. Although I was using only “arXiv” labeled questions, my system still has filtered some out as irrelevant to the allowed topics, those filtered out questions are shown as outliers on the short side.  The median, as we can see, is approximately 12 ses.   
 ![faithfulness](images/faithfullness.png)
 As it is shown on the graph above, the majority of answers were marked as pretty well grounded.  

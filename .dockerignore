@@ -1,5 +1,5 @@
 # Evaluation
-eval.py
+full_eval/eval.py
 .deepeval/
 component_level_eval/
 full_eval/

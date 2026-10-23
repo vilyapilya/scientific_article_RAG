@@ -189,3 +189,5 @@ the project.
   and system latency.
 
 You can try to see the system in action [here](https://monday-astrology-farm-toronto.trycloudflare.com/). But please note, the system is running locally on my machine, and it might not be always available. 
+
+Vilya Levitskiy [LinkedIn](https://www.linkedin.com/in/vilyalevitskiy/)

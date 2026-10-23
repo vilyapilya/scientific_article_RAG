@@ -9,6 +9,7 @@ This guide explains how to start the complete RAG demo on a Mac and make its Gra
 - Python virtual environment (`.venv`) with Gradio and project dependencies
 - `cloudflared` installed
 - Project directory containing `Dockerfile`, `main.py`, and `app.py`
+- install dependencies `python -m pip install -r requirements.txt`
 
 ## 1. Start Ollama
 

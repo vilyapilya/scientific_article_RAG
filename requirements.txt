@@ -20,3 +20,4 @@ pandas
 sentence-transformers
 pydantic
 slowapi
+gradio
